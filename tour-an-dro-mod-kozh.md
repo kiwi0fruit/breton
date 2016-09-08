@@ -95,8 +95,4 @@ Tour (An dro mod kozh)
 
 МУЗЫКА:
 =======
-- Tristan Decamps – 12 - La Jument De Michao (Live At Ze Goulotte, 1997) 6:15
-- Mervent – La jument de Michao 2:51 [youtube.com/watch?v=tujG2WoxK4c](https://www.youtube.com/watch?v=tujG2WoxK4c)
 - Hamon-Martin Quartet – La fille du grand monde (tour) 4:32
-- Gérard Jaffrès – La Jument De Michao (Bretagne traditional song cover) 2:55
-- Patrick Carol – La Jument De Michao 4:03
