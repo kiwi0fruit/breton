@@ -93,6 +93,10 @@ Tour (An dro mod kozh)
 - [vk.com/topic-25749886_29364092](https://vk.com/topic-25749886_29364092)
 - [vk.com/topic-25749886_29364106](https://vk.com/topic-25749886_29364106)
 
+ВИДЕО:
+======
+с руками: [youtube.com/watch?v=J_YFjsnBo0w](https://youtube.com/watch?v=J_YFjsnBo0w)
+
 МУЗЫКА:
 =======
 - Hamon-Martin Quartet – La fille du grand monde (tour) 4:32
