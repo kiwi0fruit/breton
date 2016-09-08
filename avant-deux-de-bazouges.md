@@ -177,6 +177,6 @@ Avant-deux de Bazouges
 
 МУЗЫКА:
 ========
-- Les Danses Bretonnes – Avant-deux de Bazouges (par Hanter-Vro) fest noz de Ploeren 01-12-2012    5:25
+- Les Danses Bretonnes – Avant-deux de Bazouges (par Hanter-Vro) fest noz de Ploeren 01-12-2012    5:25 [youtube.com/watch?v=Ncds8-FMaEI](https://www.youtube.com/watch?v=Ncds8-FMaEI)
 - Kendirvi – Allez, viens! (Avant deux de Bazouges) 5:23
 - Hamon Martin Quintet – De Bazouges à la Hollande 3:48
