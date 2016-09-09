@@ -1,4 +1,4 @@
-Tour (An dro mod kozh)
+An dro mod kozh (Tour)
 ======================
 
 ИСТОРИЯ
