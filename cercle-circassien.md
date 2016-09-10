@@ -1,19 +1,23 @@
-Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)
-=====================================================
-Пары кавалер + дама (дама справа от кавалера) становятся в один большой круг, хватаясь мизинцами.
+# Cercle Circassien (Fest Noz)
+### (Сёркль Сиркасьён, Черкесский круг)
 
-## Схемы с КАРТИНКАМИ, переведённые гуглопереводчиком:
-С моими комментариями.
+Пары кавалер + дама (дама справа от кавалера) становятся в один большой круг, держась мизинцами.
+
+По ссылкам - схемы с КАРТИНКАМИ, переведённые гуглопереводчиком.
 
 - [Сёркль Сиркасьён](https://translate.google.ru/translate?sl=auto&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Fcercle_circassien.html&edit-text=)
-- [двойной, вперед с левой ноги, поднятый](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fdouble_avant_gauche_pied_leve.html)  
+- **[на 1-4]:** [двойной, вперед с левой ноги, поднятый](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fdouble_avant_gauche_pied_leve.html)  
   На счёт 1-2-3-4 шагают вперед левой-правой-левой-хоп-правой. Хоп - это когда нога поднимается на уровень лодыжки. При этом руки на 1 и на 3: согнуты в локте под острым углом, а плечо (которое между плечевым суставом и локтем) - почти вертикально, на 2 и на 4: опущены вниз, согнуты в локте под тупым углом, даже чуть-чуть торчат из-за спины.
-- [двойной, назад с правой ноги, поднятый](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fdouble_arriere_droit_pied_leve.html)  
-  На счёт 1-2-3-4 шагают назад правой-левой-правой-хоп-левой. При этом руки на 1 и на 3: опущены вниз, согнуты в локте под тупым углом, даже чуть-чуть торчат из-за спины, на 2 и на 4: согнуты в локте под острым углом, а плечо (которое между плечевым суставом и локтем) - почти вертикально. 
-- [двойной, вперед с правой ноги, поднятый](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fdouble_avant_droit_pied_leve.html)  
-  Текст
-- [шаг Patinette](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_patinette.html)  
-  Текст
+- **[на 5-8]:** [двойной, назад с правой ноги, поднятый](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fdouble_arriere_droit_pied_leve.html)  
+  На счёт 1-2-3-4 шагают назад правой-левой-правой-хоп-левой. При этом руки на 1 и на 3: опущены вниз, согнуты в локте под тупым углом, даже чуть-чуть торчат из-за спины, на 2 и на 4: согнуты в локте под острым углом, а плечо (которое между плечевым суставом и локтем) - почти вертикально.
+- **[на 9-12]:** тоже самое, что и **[на 1-4]**.
+- **[на 13-16]:** тоже самое, что и **[на 5-8]**.
+- **[на 17-24]:** Все расцепляют руки, дамы идут вперед с левой ноги как в **[на 1-4]**, потом возвращаются на свое место как в **[на 5-8]**, при этом не забывают также махать руками. Кавалеры в это время хлопают в ладоши в такт музыке.
+- **[на 25-28]:** Кавалеры идут вперед с левой ноги как в **[на 1-4]** (также машут руками), но на счёт 4 делают не просто хоп, а хоп с разворотом на 180 градусов. Дамы в это время хлопают в ладоши в такт музыке.
+- **[на 29-32]:** [двойной, вперед с правой ноги, поднятый](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fdouble_avant_droit_pied_leve.html)  
+  Кавалеры идут вперед к даме, которая справа (когда стояли в кругу, она была слева от кавалера). На счёт 1-2-3-4 шагают вперед правой-левой-правой-хоп-левой. При этом руки на 1 и на 3: опущены вниз, согнуты в локте под тупым углом, даже чуть-чуть торчат из-за спины, на 2 и на 4: согнуты в локте под острым углом, а плечо (которое между плечевым суставом и локтем) - почти вертикально.
+- **[на 33-48]:** [шаг Patinette](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_patinette.html)  
+  Кавалер берет даму: правая рука кавалера на талии дамы, левая рука кавалера держит правую руку дамы на расстоянии от туловища, дама кладёт левую руку на правое плечо кавалера. За 16 счётов происходит вращение.
 - [полечный шаг на два с левой ноги](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_polka_avant_gauche.html)  
   Текст
 - [полечный шаг на два с правой ноги](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_polka_avant_droit.html)  
