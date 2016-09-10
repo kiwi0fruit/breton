@@ -146,8 +146,8 @@ Avant-deux de Bazouges
 Замечания
 ========= 
 1. Смещения танцоров описаны для случая, когда много пар танцуют в круге. В случае же всего двух пар *смещение\_кавалера\_влево* и *смещение\_дамы\_вправо* осуществляется как указано на следующих картинках: 
-![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_de_bazouges_av2_pos_1.gif](http://dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_de_bazouges_av2_pos_1.gif)
-![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_de_bazouges_av2_pos_v.gif](http://dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_de_bazouges_av2_pos_v.gif)
+![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_de_bazouges_av2_pos_1.gif](avant-deux-de-bazouges/avant-deux_de_bazouges_av2_pos_1.gif)
+![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_de_bazouges_av2_pos_v.gif](avant-deux-de-bazouges/avant-deux_de_bazouges_av2_pos_v.gif)
 
 2. В достоверности разбора *смещение\_кавалера\_влево* и *смещение\_дамы\_вправо* я несколько не уверен, ибо в этом элементе ориентировался только на видео с танцем на фестивале. В видеоуроке об этом смещении речи не идет. Но какое-то смещение есть в [схеме](http://dansesbretonnes.gwalarn.org/danses/avant-deux_de_bazouges.html).
 
