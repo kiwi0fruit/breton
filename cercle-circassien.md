@@ -20,7 +20,8 @@
   Кавалер берет даму: правая рука кавалера на талии дамы, левая рука кавалера держит правую руку дамы на расстоянии от туловища, дама кладёт левую руку на правое плечо кавалера. За 16 счётов происходит вращение. Как происходит вращение смотрите по [ссылке](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_patinette.html), или угадайте по картинкам (чёрным показано где находится вес тела):
   - **[исходное положение]:** ![dansesbretonnes.gwalarn.org/bases/images/danse_de_salon.gif](cercle-circassien/danse_de_salon.gif) ![dansesbretonnes.gwalarn.org/bases/images/pas_de_patinette_depart.gif](cercle-circassien/pas_de_patinette_depart.gif)
   - **[на 1]:** ![dansesbretonnes.gwalarn.org/bases/images/pas_de_patinette_1.gif](cercle-circassien/pas_de_patinette_1.gif)
-  - **[на 2]:** ![dansesbretonnes.gwalarn.org/bases/images/pas_de_patinette_2.gif](cercle-circassien/pas_de_patinette_2.gif)
+  - **[на 2]:** ![dansesbretonnes.gwalarn.org/bases/images/pas_de_patinette_2.gif](cercle-circassien/pas_de_patinette_2.gif)  
+- Из вращения надо выйти так, чтобы кавалер и дама оба смотрели вдоль круга против часовой стрелки. То есть, кавалер своей левой рукой отпускает правую руку дамы и становится справа от нее: ![dansesbretonnes.gwalarn.org/danses/images_am/cercle_circassien_promenade_1.gif](cercle-circassien/cercle_circassien_promenade_1.gif)
 - [полечный шаг на два с левой ноги](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_polka_avant_gauche.html)  
   Текст
 - [полечный шаг на два с правой ноги](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_polka_avant_droit.html)  
