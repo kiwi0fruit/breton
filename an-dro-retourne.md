@@ -41,3 +41,45 @@ An dro Retourne
 =======
 - Mervent – Andro Retourne 3:08 
 - Talitha MacKenzie – Chañj Tu (An Dro Retourne) / Changerais-Tu? (Would You Change?) 3:22
+
+БОНУС:
+======
+Текст песни [отсюда](https://vk.com/topic-57757011_28853607?post=11):
+
+### Chañj Tu
+
+J'ai six ou cinq moutons dans mon ménage en haut  
+J'ai six ou cinq moutons dans mon ménage en bas
+
+Dans mon ménage en haut, dans mon ménage en bas
+
+Changerais-tu, Madeline, Madeleine?  
+Changerais-tu, Madeleine, dors-tu?
+
+J'ai cinq ou quatre moutons dans mon ménage en haut  
+J'ai cinq ou quatre moutons dans mon ménage en bas
+
+Dans mon ménage en haut, dans mon ménage en bas
+
+Changerais-tu, Madeline, Madeleine?  
+Changerais-tu, Madeleine, dors-tu?
+
+J'ai quatre ou trois moutons dans mon ménage en haut  
+J'ai quatre ou trois moutons dans mon ménage en bas
+
+Dans mon ménage en haut, dans mon ménage en bas
+
+Changerais-tu, Madeline, Madeleine?  
+Changerais-tu, Madeleine, dors-tu?
+
+***
+
+Я держу шесть (или пять) овечек в верхнем загоне,  
+Я держу шесть (или пять) овечек в нижнем загоне,
+
+В верхнем загоне и нижнем загоне.
+
+Будешь переодеваться ко сну, Мадлен, Мадлен?  
+Будешь переодеваться или ты уже заснула, Мадлен?
+
+Я держу пятерых (или четверых) овечек в верхнем загоне и т.д.
