@@ -40,4 +40,4 @@ An dro Retourne
 МУЗЫКА:
 =======
 - Mervent – Andro Retourne 3:08 
-- Talitha McKenzie – Chañj Tu (An Dro Retourne) 3:22
+- Talitha MacKenzie – Chañj Tu (An Dro Retourne) 3:22
