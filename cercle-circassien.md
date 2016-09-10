@@ -1,13 +1,13 @@
 Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)
 =====================================================
-Пары кавалер + дама (дама справа от кавалера) становятся в круг, хватаясь мизинцами.
+Пары кавалер + дама (дама справа от кавалера) становятся в один большой круг, хватаясь мизинцами.
 
 ## Схемы с КАРТИНКАМИ, переведённые гуглопереводчиком:
 С моими комментариями.
 
 - [Сёркль Сиркасьён](https://translate.google.ru/translate?sl=auto&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Fcercle_circassien.html&edit-text=)
 - [двойной, вперед с левой ноги, поднятый](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fdouble_avant_gauche_pied_leve.html)  
-  Текст
+  На счёт 1-2-3-4 шагают вперед левой-правой-левой-хоп-правой. Хоп - это когда нога поднимается на уровень лодыжки. При этом руки на 1 и на 3: согнуты в локте под острым углом, а плечо (которое между плечевым суставом и локтем) - почти вертикально, на 2 и на 4: опущены вниз, согнуты в локте под тупым углом, даже чуть-чуть торчат из-за спины.
 - [двойной, назад с правой ноги, поднятый](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fdouble_arriere_droit_pied_leve.html)  
   Текст
 - [двойной, вперед с правой ноги, поднятый](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fdouble_avant_droit_pied_leve.html)  
