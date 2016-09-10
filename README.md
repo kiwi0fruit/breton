@@ -7,4 +7,4 @@
 - [An dro mod kozh (Tour) (Старое андро)](tour-an-dro-mod-kozh.md)
 - [An dro du Bono (Андро дю БонУ)](an-dro-du-bono.md)
 - [An dro Retourne (Андро РетурнИ)](an-dro-retourne.md)
-- [Cercle Circassien (Fest Noz) (Сёркль Сиркасьён Фест Ноз, Черкесский круг)](cercle-circassien.md)
+- [Cercle Circassien (Fest Noz) (Фестнозовский Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)
