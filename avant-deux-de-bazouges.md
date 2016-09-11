@@ -153,7 +153,9 @@ Avant-deux de Bazouges
 ![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_de_bazouges_av2_pos_1.gif](avant-deux-de-bazouges/avant-deux_de_bazouges_av2_pos_1.gif)
 ![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_de_bazouges_av2_pos_v.gif](avant-deux-de-bazouges/avant-deux_de_bazouges_av2_pos_v.gif)
 
-2. В музыке отчетливо слышится первый, четвертый и восьмой счеты. Мнемоника: первая часть приходится всегда на начало смещения кавалера/дамы, на начало сольного или парного поворота, на подпрыг в РЕДКОЙ диагонали. 
+2. В музыке отчетливо слышится первый, четвертый и восьмой счеты. Мнемоника: первая часть приходится всегда на начало смещения кавалера/дамы, на начало сольного или парного поворота, на подпрыг в РЕДКОЙ диагонали.
+
+_// Автор описания - Пётр Загубисало. В описании использованы картинки с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org). Отмечу, что описание составлялось на основе [видеоурока](https://youtube.com/watch?v=i5ibFoxn8cE), а не [схемы](http://dansesbretonnes.gwalarn.org/danses/avant-deux_de_bazouges.html) ибо я слишком поздно додумался, что iFrames можно открывать отдельно - без этого не работал Google Translate. //_
 
 Схемы с КАРТИНКАМИ, переведённые гуглопереводчиком:
 ===================================================
