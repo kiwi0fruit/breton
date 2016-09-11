@@ -12,3 +12,5 @@
 - [Kost ar c'hoat (Gavotte 4-5) (Костархот, костарват, кастарват)](kost-ar-c-hoat.md)
 - [Pach pi (Пашпи)](pach-pi.md)
 - [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)
+
+Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org) - иногда они в самом конце. Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы.
