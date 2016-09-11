@@ -37,4 +37,6 @@ _// Это описание из группы "Бретонские народн
 
 ВИДЕО:
 ======
-Для введения в атмосферу, ибо вариация на видео несколько другая: [youtube.com/watch?v=EAVpaW_7qlQ](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
+Для введения в атмосферу, ибо вариация танца на видео несколько другая:
+- [youtube.com/watch?v=EAVpaW_7qlQ](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
+- [youtube.com/watch?v=P-HmNaDJCgs](https://www.youtube.com/watch?v=P-HmNaDJCgs)
