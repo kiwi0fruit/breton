@@ -52,3 +52,5 @@ _// Это описание из группы "Бретонские народн
 МУЗЫКА:
 =======
 - Kendirvi – Ar Kilim (Hanter dro) 5:28
+- Tri Yann – Hanter-Dro Macabre 4:47
+- Mervent – Hanter Dro 4:26
