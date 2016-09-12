@@ -18,3 +18,7 @@ Avant-quatre du Tregor
 ======
 - Хорошо передаёт атмосферу: [youtube.com/watch?v=H5DNoZ2F3jw](https://www.youtube.com/watch?v=H5DNoZ2F3jw)
 - Хорошо видно шаги: [youtube.com/watch?v=_f1SuYq47kM](https://www.youtube.com/watch?v=_f1SuYq47kM)
+
+МУЗЫКА:
+=======
+Apprenez les danses bretonnes – En avant quatre du Tregor 2:51
