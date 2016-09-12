@@ -7,7 +7,7 @@
 = [An dro mod kozh (Tour) (Старое андро, Тур)](tour-an-dro-mod-kozh.md)  
 = [An dro du Bono (Андро дю БонУ)](an-dro-du-bono.md)  
 = [An dro retourne (retourné, Chañj Tu, Андро РетурнИ)](an-dro-retourne.md)  
-= [Cercle Circassien (Fest Noz) (Фестнозовский Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
+= [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
 = [Cochinchine (Кошиншин)](cochinchine.md)  
 = [Hanter Dro (Антер дро)](hanter-dro.md)  
 = [Kost ar c'hoat (Gavotte 4-5) (Костархот, костарват, кастарват)](kost-ar-c-hoat.md)  
