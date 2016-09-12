@@ -44,7 +44,11 @@ Avant-quatre du Tregor / Avant-deux du Tregor
 
 Танец для четырёх пар. Является расширением Avant-deux du Tregor (ну или наоборот: Avant-deux du Tregor - лишь часть). [Автоматический перевод схемы (с картинками)](https://translate.google.ru/translate?sl=fr&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-quatre_du_tregor.html&edit-text=). [_Оригинал на французском_](http://dansesbretonnes.gwalarn.org/danses/avant-quatre_du_tregor.html).
 
-111
+Танец состоит из повторений выше описанного Avant-deux du Tregor много раз. Пусть две пары стоят напротив двух других пар:  
+![dansesbretonnes.gwalarn.org/danses/images_am/avant-quatre_du_tregor_position_0.gif](avant-quatre-du-tregor/avant-quatre_du_tregor_position_0.gif)  
+После этого пары за 32 счёта танцуют описанный выше Avant-deux du Tregor с парой, которая напротив них. Отличие лишь в том, что кавалер выходит из вращения так, чтобы оказаться лицом к новой даме, а не к той, с которой он за ручку ходил взад-вперед (то есть вся пара разворачивается в этом направлении). И так эти 32 счёта повторяются до тех пор, пока кавалер не вернётся к своей даме (32х4=128). После этого пары поворачиваются лицом к парам, которые по диагонали от них, и танцуют Avant-deux du Tregor с ними. Только в этот раз кавалеры разворачиваются к своей даме и танцуют последний Avant-deux du Tregor уже с ней. Что символично. Чтобы кавалеры не врезались друг в друга на диагональных частях, нужно, чтобы никто не зевал, тогда можно успеть сделать так:  
+![dansesbretonnes.gwalarn.org/danses/images_am/avant-quatre_du_tregor_position_130.gif](avant-quatre-du-tregor/avant-quatre_du_tregor_position_130.gif)  
+Итого: 32х6=192 - можно устать!
 
 ВИДЕО:
 ======
