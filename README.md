@@ -2,6 +2,7 @@
 ==========================
 
 = [Avant-deux de Bazouges (Аван-дю де Базуж)](avant-deux-de-bazouges.md)  
+= [Avant-quatre du Tregor / Avant-deux du Tregor (Аван-кятр дю Трегор / Аван-дё дю Трегор)](avant-quatre-du-tregor.md)
 = [An dro nevez (Новое андро)](an-dro-nevez.md)  
 = [An dro mod kozh (Tour) (Старое андро, Тур)](tour-an-dro-mod-kozh.md)  
 = [An dro du Bono (Андро дю БонУ)](an-dro-du-bono.md)  
