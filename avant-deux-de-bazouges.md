@@ -149,7 +149,8 @@ Avant-deux de Bazouges
  
 Замечания
 ========= 
-1. Смещения танцоров описаны для случая, когда много пар танцуют в круге. В случае же всего двух пар *смещение\_кавалера\_влево* и *смещение\_дамы\_вправо* осуществляется как указано на следующих картинках: 
+1. Смещения танцоров описаны для случая, когда много пар танцуют в круге. В случае же всего двух пар *смещение\_кавалера\_влево* и *смещение\_дамы\_вправо* осуществляется как указано на следующих картинках:
+
 ![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_de_bazouges_av2_pos_1.gif](avant-deux-de-bazouges/avant-deux_de_bazouges_av2_pos_1.gif)
 ![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_de_bazouges_av2_pos_v.gif](avant-deux-de-bazouges/avant-deux_de_bazouges_av2_pos_v.gif)
 
@@ -179,6 +180,6 @@ _// Автор описания - Пётр Загубисало. В описан
 
 МУЗЫКА:
 ========
-- Les Danses Bretonnes – Avant-deux de Bazouges (par Hanter-Vro) fest noz de Ploeren 01-12-2012    5:25 [youtube.com/watch?v=Ncds8-FMaEI](https://www.youtube.com/watch?v=Ncds8-FMaEI)
+- Hanter-Vro – Avant-deux de Bazouges (fest noz de Ploeren 01-12-2012) 5:25 [youtube.com/watch?v=Ncds8-FMaEI](https://www.youtube.com/watch?v=Ncds8-FMaEI)
 - Kendirvi – Allez, viens! (Avant deux de Bazouges) 5:23
 - Hamon Martin Quintet – De Bazouges à la Hollande 3:48
