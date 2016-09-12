@@ -10,6 +10,7 @@
 = [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
 = [Cochinchine (Кошиншин)](cochinchine.md)  
 = [Hanter dro (Антердро)](hanter-dro.md)  
+= [Kejaj (Кежаж)](kejaj.md)  
 = [Kost ar c'hoat (Gavotte 4-5) (Костархот, костарват, кастарват)](kost-ar-c-hoat.md)  
 = [Pach pi (Пашпи)](pach-pi.md)  
 = [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
