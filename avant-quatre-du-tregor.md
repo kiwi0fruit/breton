@@ -1,5 +1,5 @@
-Avant-quatre du Tregor
-======================
+Avant-quatre du Tregor / Avant-deux du Tregor
+=============================================
 
 ## Основной шаг
 
