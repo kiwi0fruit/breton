@@ -32,7 +32,6 @@ Pach pi
 ========
 - Sonerien Du – Pach Pi 2:49
 - Deus'ta – Pach pi 3:35
-- Eugenie Goadec & Louise Ebrel – Deomp D'an Unvet (Pach Pi) 1:52
 - Alan Stivell – Pachpi Kozh Pachpi New 3:41
 
 ВИДЕО:
