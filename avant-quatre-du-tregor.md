@@ -21,4 +21,4 @@ Avant-quatre du Tregor
 
 МУЗЫКА:
 =======
-Apprenez les danses bretonnes – En avant quatre du Tregor 2:51
+Apprenez Les Danses Bretonnes vol.1 – En avant quatre du Tregor 2:51
