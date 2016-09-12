@@ -19,7 +19,6 @@ _// Это описание из группы "Бретонские народн
 =======
 - Esquisse – Cochinchine - Cochinchine 5:06
 - Sonerien Du – 107 - 11 (Cochinchine) 3:50
-- Yann Dour – La Cochinchine 2:45
 
 ВИДЕО:
 ======
