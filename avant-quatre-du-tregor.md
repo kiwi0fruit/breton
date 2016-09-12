@@ -3,26 +3,53 @@ Avant-quatre du Tregor
 
 ## Основной шаг
 
-[Автоматический перевод схемы (с картинками)](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_quatre_subdivise_avg.html&sandbox=1). [Оригинал на французском](http://dansesbretonnes.gwalarn.org/bases/pas_de_quatre_subdivise_avg.html).
+[Автоматический перевод схемы (с картинками)](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_quatre_subdivise_avg.html&sandbox=1). [_Оригинал на французском_](http://dansesbretonnes.gwalarn.org/bases/pas_de_quatre_subdivise_avg.html).
 
-111
+Этот шаг используется весь танец. Музыка идет на счёт 1-и-2-3-4. Этому соответствуют шаги (вес всегда переносится полностью):
+
+1-и-2: шаг вперёд левой на полторы ступни (вес был на правой), шаг вперед правой чтобы почти вровень с левой (вес был на левой), шаг вперед левой на расстояние ступни (вес был на правой),  
+3: шаг вперед правой чтобы вровень с левой (вес был на левой),  
+4: сейчас вес на правой, а левая нога отрывается зависает в районе правой лодыжки.
+
+Это был шаг вперед. Шаг назад происходит тоже с левой ноги, на те же счёты, только назад.
 
 ## Avant-deux du Tregor
 
-Танец для двух пар. [Автоматический перевод схемы (с картинками)](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-deux_du_tregor.html&sandbox=1). [Оригинал на французском](http://dansesbretonnes.gwalarn.org/danses/avant-deux_du_tregor.html).
+Танец для двух пар. [Автоматический перевод схемы (с картинками)](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-deux_du_tregor.html&sandbox=1). [_Оригинал на французском_](http://dansesbretonnes.gwalarn.org/danses/avant-deux_du_tregor.html).
 
-111
+
+Первые 16 счётов: две пары стоят друг на против друг друга. Держатся за руки, руки опущены.
+
+[на 1-4]: обе пары, держась за руки, на основном шаге сходятся. При этом руки раскачиваются от состояния "согнуты в локте на 90 градусов" до "опущены вниз". 4 счёта - 4 раскачивания, на чётные счеты руки опущены вниз.  
+[на 5-8]: тоже самое, что в [на 1-4], только пары расходятся. Тут, кстати, можно на 8 слегка развернуться в сторону своего партнера и посмотреть на него (как на втором видео, на котором шаги видно, делают некоторые кавалеры).
+[на 9-12 и 13-16]: пары снова сходятся и расходятся как в [на 1-4] и [на 5-8]. На 16 - отпускают руки.
+
+Вторые 16 счётов:
+
+[на 1-и-2 дама]: Кладет свою левую руку себе на талию, ладошкой наружу. Кладёт в то место, куда обычно кладет руку кавалер в парных танцах (смотрите видео). Правую же руку отводит в сторону и сгибает под углом 90 градусов (плечо параллельно полу, предплечье - почти перпендикулярно). Этой рукой она ждёт-встречает руку кавалера, который не заставит себя долго ждать. И да, на эти счёты 1-и-2 она еще делает на месте шаг-шаг-шаг, чтобы не выпасть из ритма основного шага.  
+[на 1-и-2 кавалер]: На первой половине основного шага на необходимо длинных шагах добирается до дамы, которая стоит напротив него стоит в позе, напоминающей чайник.  
+[на 3, 4 кавалер]: Левой рукой хватает носик чайника, а правой - ручку. Ручка расположена там, где кавалеру привычно - на талии. Начиная крутиться по часовой стрелке в паре, доделывает вторую половину основного шага. Пусть это будет поворот примерно на четверть круга.  
+[на 3, 4 дама]: Замечает схватившего её кавалера, хотя, конечно, лучше бы встречать кавалера взглядом ещё на подходе. Доделывает вторую половину основного шага, вращаясь с кавалером.  
+[на 5-8]: Пара вращается на основном шаге на пол-оборота (по часовой).  
+[на 9-12]: Пара вращается на основном шаге на пол-оборота (по часовой).  
+[на 13-16]: Пара вращается на основном шаге на пол-оборота (по часовой). При этом кавалер дополнительно продвигает пару в сторону другой пары (это делают оба кавалера). Таким образом пары сближаются:  
+![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_du_tregor_balance_position_13.gif](avant-quatre-du-tregor/avant-deux_du_tregor_balance_position_13.gif)  
+[на 16]: Кавалер отпускает левой рукой правую руку дамы (отпускает носик чайника) и пара раскрывается так, чтобы лицом оказаться к другой паре:  
+![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_du_tregor_balance_position_16.gif](avant-quatre-du-tregor/avant-deux_du_tregor_balance_position_16.gif) ![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_du_tregor_balance_position_finale.gif](avant-quatre-du-tregor/avant-deux_du_tregor_balance_position_finale.gif)  
+Таким образом, у нас снова есть две пары, смотрящие друг на друга, только они махнулись партнёрами.
+
+Далее всё повтояется. На правах шутки: это довольно однообразно так танцевать, поэтому танец можно разнообразить вариацией "бегущий чайник". В ней через раз бежит не кавалер, а дама. Бежит прямо в позе чайника - так веселее.
 
 ## Avant-quatre du Tregor
 
-Танец для четырёх пар. Является расширением Avant-deux du Tregor (ну или наоборот: Avant-deux du Tregor - лишь часть). [Автоматический перевод схемы (с картинками)](https://translate.google.ru/translate?sl=fr&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-quatre_du_tregor.html&edit-text=). [Оригинал на французском](http://dansesbretonnes.gwalarn.org/danses/avant-quatre_du_tregor.html).
+Танец для четырёх пар. Является расширением Avant-deux du Tregor (ну или наоборот: Avant-deux du Tregor - лишь часть). [Автоматический перевод схемы (с картинками)](https://translate.google.ru/translate?sl=fr&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-quatre_du_tregor.html&edit-text=). [_Оригинал на французском_](http://dansesbretonnes.gwalarn.org/danses/avant-quatre_du_tregor.html).
 
 111
 
 ВИДЕО:
 ======
 - Хорошо передаёт атмосферу: [youtube.com/watch?v=H5DNoZ2F3jw](https://www.youtube.com/watch?v=H5DNoZ2F3jw)
-- Хорошо видно шаги: [youtube.com/watch?v=_f1SuYq47kM](https://www.youtube.com/watch?v=_f1SuYq47kM)
+- Видно шаги: [youtube.com/watch?v=_f1SuYq47kM](https://www.youtube.com/watch?v=_f1SuYq47kM)
 
 МУЗЫКА:
 =======
