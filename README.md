@@ -1,6 +1,26 @@
+Бретонские танцы
+================
+Очень проникновенно про то, что же представляют из себя бретонские танцы, написали организаторы [бретонских народных танцев в Москве](https://vk.com/club25749886): [***введение в атмосферу бретонских танцев***](text-intro.md). Очень атмосферно написано! Их описание правда стоит времени на его прочтение. Там же классно описывается такое явление как фест-нозы.
+
+Но никакие тексты не смогут заменить сам процесс танца под отличную музыку. Но можно хотя бы видео посмотреть, чтобы прочувствовать атмосферу. Я сделал небольшую подборку ссылок на видео:
+
+1. [Avant-deux de Bazouges](https://www.youtube.com/watch?v=Ncds8-FMaEI)
+2. [Avant-quatre du Tregor](https://www.youtube.com/watch?v=H5DNoZ2F3jw)
+3. [Bourrée d'Auvergne](https://www.youtube.com/watch?v=TfQNjN_WHCU)
+4. [An dro](https://www.youtube.com/watch?v=p_i027FhnyA)
+5. [An dro retourne](https://www.youtube.com/watch?v=EUHjpInr1nA)
+6. [Cochinchine](https://vk.com/video-25749886_170748467)
+7. [Cercle Circassien](https://www.youtube.com/watch?v=JUIEfPi_SgY)
+8. [Danse keff](https://www.youtube.com/watch?v=B6qej91iYLc)
+9. [Kost Ar C'hoat](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
+10. [Бурре на четверых](https://vk.com/video-25749886_162534468)
+11. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
+12. [Polka de Paimpol](https://vk.com/video39341115_456239021)
+
+***[Читать дальше описания танцев...](README.md)***
+
 Описания бретонских танцев
 ==========================
-
 = [Avant-deux de Bazouges (Аван-дю де Базуж)](avant-deux-de-bazouges.md)  
 = [Avant-quatre du Tregor / Avant-deux du Tregor (Аван-кятр дю Трегор / Аван-дё дю Трегор)](avant-quatre-du-tregor.md)  
 = [An dro nevez (Новое андро)](an-dro-nevez.md)  
@@ -18,7 +38,7 @@
 = [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
 = [Trikot (трикот)](trikot.md)
 
-Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org) - иногда они в самом конце. Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы. ***[ЧИТАТЬ ДАЛЬШЕ...](README.md)***
+Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org) - иногда они в самом конце. Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы.
 
 Некоторые музыкальные композиции были подсмотрены у Алексея Пырникова, Антона Боголюбова и Екатерины Шибицкой.
 
