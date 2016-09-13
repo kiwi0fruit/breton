@@ -4,6 +4,8 @@
 
 Но никакие тексты не смогут заменить сам процесс танца под отличную музыку. Но можно хотя бы видео посмотреть, чтобы прочувствовать атмосферу. Я сделал небольшую подборку ссылок на видео:
 
+***[Развернуть видео и описания танцев...](README.md)***
+
 1. [Avant-deux de Bazouges](https://www.youtube.com/watch?v=Ncds8-FMaEI)
 2. [Avant-quatre du Tregor](https://www.youtube.com/watch?v=H5DNoZ2F3jw)
 3. [Bourrée d'Auvergne](https://www.youtube.com/watch?v=TfQNjN_WHCU)
@@ -16,8 +18,6 @@
 10. [Бурре на четверых](https://vk.com/video-25749886_162534468)
 11. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
 12. [Polka de Paimpol](https://vk.com/video39341115_456239021)
-
-***[Читать дальше описания танцев...](README.md)***
 
 Описания бретонских танцев
 ==========================
