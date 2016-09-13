@@ -6,6 +6,7 @@
 = [An dro nevez (Новое андро)](an-dro-nevez.md)  
 = [An dro mod kozh (Tour) (Старое андро, Тур)](tour-an-dro-mod-kozh.md)  
 = [An dro du Bono (Андро дю БонУ)](an-dro-du-bono.md)  
+= [Chapelloise (Шапелуаз)](chapelloise.md)  
 = [An dro retourne (retourné, Chañj Tu, Андро РетурнИ)](an-dro-retourne.md)  
 = [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
 = [Cochinchine (Кошиншин)](cochinchine.md)  
