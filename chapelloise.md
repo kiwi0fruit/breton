@@ -40,4 +40,4 @@ Chapelloise (Шапелуаз)
 МУЗЫКА:
 =======
 - Die Irrlichter – Chapelloise 2:41
-- говорят, что музыка для Cercle circassien подходит.
+- музыка для [Cercle circassien](cercle-circassien.md)
