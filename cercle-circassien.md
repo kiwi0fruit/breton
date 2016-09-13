@@ -53,3 +53,4 @@ _// Автор описания - Пётр Загубисало. В описан
 =======
 - Duo TTC – Cercle circassien - Bal à Lyon 4:30 [youtube.com/watch?v=AJ29pfX7p8s](https://www.youtube.com/watch?v=AJ29pfX7p8s)
 - Diwall – Pull To Stop The Engine (Cercle Circassien) 4:18
+- Hudel – Cercle Circassien 3:44
