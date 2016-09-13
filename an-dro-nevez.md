@@ -37,4 +37,5 @@ _// Это описание из группы "Бретонские народн
 - Mervent – La jument de Michao 2:51 [youtube.com/watch?v=tujG2WoxK4c](https://www.youtube.com/watch?v=tujG2WoxK4c) 
 - Gérard Jaffrès – La Jument De Michao (Bretagne traditional song cover) 2:55 
 - Patrick Carol – La Jument De Michao 4:03
-- Diaouled ar menez – An dro 6:27 [youtube.com/watch?v=sPllYzLZ5eY](https://www.youtube.com/watch?v=sPllYzLZ5eY) 
+- Diaouled ar menez – An dro 6:27 [youtube.com/watch?v=sPllYzLZ5eY](https://www.youtube.com/watch?v=sPllYzLZ5eY)
+- Hamon-Martin Quartet – La fille du grand monde (tour) 4:32
