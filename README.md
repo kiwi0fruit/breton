@@ -19,22 +19,22 @@
 
 Описания бретонских танцев
 ==========================
-= [Avant-deux de Bazouges (Аван-дю де Базуж)](avant-deux-de-bazouges.md)  
-= [Avant-quatre du Tregor / Avant-deux du Tregor (Аван-кятр дю Трегор / Аван-дё дю Трегор)](avant-quatre-du-tregor.md)  
-= [An dro nevez (Новое андро)](an-dro-nevez.md)  
-= [An dro mod kozh (Tour) (Старое андро, Тур)](tour-an-dro-mod-kozh.md)  
-= [An dro du Bono (Андро дю БонУ)](an-dro-du-bono.md)  
-= [An dro retourne (retourné, Chañj Tu, Андро РетурнИ)](an-dro-retourne.md)  
-= [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
-= [Chapelloise (Шапелуаз)](chapelloise.md)  
-= [Cochinchine (Кошиншин)](cochinchine.md)  
-= [Hanter dro (Антердро)](hanter-dro.md)  
-= [Kejaj (Кежаж)](kejaj.md)  
-= [Klamm (клам)](klamm.md)  
-= [Kost ar c'hoat (Gavotte 4-5) (Костархот, костарват, кастарват)](kost-ar-c-hoat.md)  
-= [Pach pi (Пашпи)](pach-pi.md)  
-= [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
-= [Trikot (трикот)](trikot.md)
+\- [Avant-deux de Bazouges (Аван-дю де Базуж)](avant-deux-de-bazouges.md)  
+\- [Avant-quatre du Tregor / Avant-deux du Tregor (Аван-кятр дю Трегор / Аван-дё дю Трегор)](avant-quatre-du-tregor.md)  
+\- [An dro nevez (Новое андро)](an-dro-nevez.md)  
+\- [An dro mod kozh (Tour) (Старое андро, Тур)](tour-an-dro-mod-kozh.md)  
+\- [An dro du Bono (Андро дю БонУ)](an-dro-du-bono.md)  
+\- [An dro retourne (retourné, Chañj Tu, Андро РетурнИ)](an-dro-retourne.md)  
+\- [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
+\- [Chapelloise (Шапелуаз)](chapelloise.md)  
+\- [Cochinchine (Кошиншин)](cochinchine.md)  
+\- [Hanter dro (Антердро)](hanter-dro.md)  
+\- [Kejaj (Кежаж)](kejaj.md)  
+\- [Klamm (клам)](klamm.md)  
+\- [Kost ar c'hoat (Gavotte 4-5) (Костархот, костарват, кастарват)](kost-ar-c-hoat.md)  
+\- [Pach pi (Пашпи)](pach-pi.md)  
+\- [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
+\- [Trikot (трикот)](trikot.md)
 
 Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org) - иногда они в самом конце. Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы.
 
