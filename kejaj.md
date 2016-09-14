@@ -32,3 +32,7 @@ _// Это описание из группы "Бретонские народн
 МУЗЫКА:
 =======
 sofi le hunsec – an dragon yaouank keijaj (kejaj) 3:50
+
+ВИДЕО:
+======
+[youtube.com/watch?v=iZ8kXFjcal0](https://www.youtube.com/watch?v=iZ8kXFjcal0) (там в последней трети ещё прикольная музыка)
