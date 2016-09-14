@@ -6,16 +6,18 @@
 
 1. [Avant-deux de Bazouges](https://www.youtube.com/watch?v=Ncds8-FMaEI)
 2. [Avant-quatre du Tregor](https://www.youtube.com/watch?v=H5DNoZ2F3jw)
-3. [Bourrée d'Auvergne](https://www.youtube.com/watch?v=TfQNjN_WHCU)
+3. [Bourrée d'Auvergne](https://www.youtube.com/watch?v=TfQNjN_WHCU) \*
 4. [An dro](https://www.youtube.com/watch?v=p_i027FhnyA)
 5. [An dro retourne](https://www.youtube.com/watch?v=EUHjpInr1nA)
 6. [Cochinchine](https://vk.com/video-25749886_170748467)
 7. [Cercle Circassien](https://www.youtube.com/watch?v=JUIEfPi_SgY)
 8. [Danse keff](https://www.youtube.com/watch?v=B6qej91iYLc)
 9. [Kost Ar C'hoat](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
-10. [Бурре на четверых](https://vk.com/video-25749886_162534468)
+10. [Бурре на четверых](https://vk.com/video-25749886_162534468) \*
 11. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
 12. [Polka de Paimpol](https://vk.com/video39341115_456239021)
+
+__\*__ бурре - вообще французские танцы. но в Бретани их тоже любят.
 
 Описания бретонских танцев
 ==========================
