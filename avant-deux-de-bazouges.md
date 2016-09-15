@@ -11,6 +11,13 @@ Avant-deux de Bazouges
 
 Танец танцуется от двух пар и больше. Дама справа от кавалера, пары стоят по кругу, глядя в центр круга. Если пар две, то пары стоят друг напротив друга (на диаметре невидимого круга). Если пар три, то пары стоят на вершинах равностороннего треугольника, смотря в центр этого треугольника (треугольник можно вписать в круг). И т.д. Круг должен быть достаточно свободным, чтобы кавалер или дама могли сместиться от своего партнера вдоль круга. Некоторые замечания про случай только двух пар даны в конце описания.
 
+Схемы с _картинками_, переведённые гуглопереводчиком:
+===================================================
+- [Общая схема](https://translate.google.ru/translate?sl=fr&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-deux_de_bazouges.html). [Оригинал на французском](http://dansesbretonnes.gwalarn.org/danses/avant-deux_de_bazouges.html).
+- [Основной шаг (в одиночном повороте есть отличие от этой версии)](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-deux_de_bazouges_pas_av2.html). [Оригинал на французском](http://dansesbretonnes.gwalarn.org/danses/avant-deux_de_bazouges_pas_av2.html).
+- [Поворот в паре](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-deux_de_bazouges_pas_av4.html). [Оригинал на французском](http://dansesbretonnes.gwalarn.org/danses/avant-deux_de_bazouges_pas_av4.html).
+- [Общая схема поворота в паре](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-deux_de_bazouges_av4.html). [Оригинал на французском](http://dansesbretonnes.gwalarn.org/danses/avant-deux_de_bazouges_av4.html).
+
 Часть кавалеров
 ===============
 Дамам нужно обязательно читать мужскую часть.
@@ -219,20 +226,6 @@ Avant-deux de Bazouges
 2. В музыке отчетливо слышится первый, четвертый и восьмой счеты. Мнемоника: первая часть приходится всегда на начало смещения кавалера/дамы, на начало сольного или парного поворота, на подпрыг в РЕДКОЙ диагонали.
 
 _// Автор описания - Пётр Загубисало. В описании использованы картинки с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org). Отмечу, что описание составлялось на основе [видеоурока](https://youtube.com/watch?v=i5ibFoxn8cE), а не [схемы](http://dansesbretonnes.gwalarn.org/danses/avant-deux_de_bazouges.html) ибо я слишком поздно додумался, что iFrames можно открывать отдельно - без этого не работал Google Translate. //_
-
-Схемы с КАРТИНКАМИ, переведённые гуглопереводчиком:
-===================================================
-1. [раз](https://translate.google.ru/translate?sl=fr&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-deux_de_bazouges.html)
-2. [два](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-deux_de_bazouges_pas_av2.html)
-3. [три](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-deux_de_bazouges_pas_av4.html)
-4. [четыре](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Favant-deux_de_bazouges_av4.html)
-
-Оригиналы на французском:
-
-1. [раз](http://dansesbretonnes.gwalarn.org/danses/avant-deux_de_bazouges.html)
-2. [два](http://dansesbretonnes.gwalarn.org/danses/avant-deux_de_bazouges_pas_av2.html)
-3. [три](http://dansesbretonnes.gwalarn.org/danses/avant-deux_de_bazouges_pas_av4.html)
-4. [четыре](http://dansesbretonnes.gwalarn.org/danses/avant-deux_de_bazouges_av4.html)
 
 ВИДЕО:
 ======= 
