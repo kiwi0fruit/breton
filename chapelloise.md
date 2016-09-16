@@ -6,7 +6,7 @@ Chapelloise (Шапелуаз)
 Смотрите подробнейшие картинки, читайте ломаный русский. Мне обычно все понятно на автоматически переведенных схемах... Нужно только иметь ввиду, что этот надмозг вечно переводит "pas" как "не", хотя нужно переводить как "шаг". То есть если Вам говорят чего-то не делать, то, наверно, имеется ввиду - сделать шаг :D
 
 ### Основной шаг:
-[Полечный шаг на два с левой ноги](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_polka_avant_gauche.html) и [полечный шаг на два с правой ноги](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_polka_avant_droit.html). Полечный шаг идёт на счёт 1-и-2, 3-и-4. Где трёхшаг в 1-и-2 - с левой ноги (левой-правой-левой), а трёхшаг в 3-и-4 - с правой ноги (правой-левой-правой). Причём вес на все разы переносится полностью. Перемещения же идут при этом вперед-приставить-вперед.
+[Полечный шаг на два с левой ноги](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_polka_avant_gauche.html) и [полечный шаг на два с правой ноги](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_polka_avant_droit.html). Полечный шаг идёт на счёт 1-и-2, 3-и-4. Где трёхшаг в 1-и-2 - с левой ноги (левой-правой-левой), а трёхшаг в 3-и-4 - с правой ноги (правой-левой-правой). Причём вес на все разы переносится полностью. Перемещения же идут при этом вперед-[почти\_сравнять]-вперед.
 
 Оригиналы на французском:
 
