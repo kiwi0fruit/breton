@@ -238,3 +238,4 @@ _// Автор описания - Пётр Загубисало. В описан
 - Hanter-Vro – Avant-deux de Bazouges (fest noz de Ploeren 01-12-2012) 5:25 [youtube.com/watch?v=Ncds8-FMaEI](https://www.youtube.com/watch?v=Ncds8-FMaEI)
 - Kendirvi – Allez, viens! (Avant deux de Bazouges) 5:23
 - Hamon Martin Quintet – De Bazouges à la Hollande 3:48
+- Duo Kerno-Buisson – Avant-deux de Bazouges (Monterfil 25_06_2016) 3:58 [youtube.com/watch?v=e12VDLG6tqo](https://www.youtube.com/watch?v=e12VDLG6tqo)
