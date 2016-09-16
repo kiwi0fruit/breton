@@ -25,8 +25,8 @@ __\*__ бурре - французские танцы из Ове́рни, но 
 \- [Avant-quatre du Tregor / Avant-deux du Tregor (Аван-кятр дю Трегор / Аван-дё дю Трегор)](avant-quatre-du-tregor.md)  
 \- [An dro nevez (Новое андро)](an-dro-nevez.md)  
 \- [An dro mod kozh (Tour) (Старое андро, Тур)](tour-an-dro-mod-kozh.md)  
-\- [An dro du Bono (Андро дю БонУ)](an-dro-du-bono.md)  
-\- [An dro retourne (retourné, Chañj Tu, Андро РетурнИ)](an-dro-retourne.md)  
+\- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
+\- [An dro retourne (retourné, Chañj Tu, Андро Ретурни́)](an-dro-retourne.md)  
 \- [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
 \- [Chapelloise (Шапелуаз)](chapelloise.md) \*  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
