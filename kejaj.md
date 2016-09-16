@@ -31,8 +31,8 @@ _// Это описание из группы "Бретонские народн
 
 МУЗЫКА:
 =======
-sofi le hunsec – an dragon yaouank keijaj (kejaj) 3:50
+Yves Leblanc – keijaj variations (kejaj) 3:06 [youtube.com/watch?v=iZ8kXFjcal0](https://www.youtube.com/watch?v=iZ8kXFjcal0) (с 01:50 отлично вообще)
 
 ВИДЕО:
 ======
-[youtube.com/watch?v=iZ8kXFjcal0](https://www.youtube.com/watch?v=iZ8kXFjcal0) (там в последней трети ещё прикольная музыка)
+[youtube.com/watch?v=iZ8kXFjcal0](https://www.youtube.com/watch?v=iZ8kXFjcal0)
