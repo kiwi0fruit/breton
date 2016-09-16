@@ -35,7 +35,6 @@ __\*__ бурре - французские танцы из Ове́рни, но 
 \- [Kejaj (Кежаж)](kejaj.md)  
 \- [Klamm (клам)](klamm.md)  
 \- [Kost ar c'hoat (Gavotte 4-5) (Костархот, костарват, кастарват)](kost-ar-c-hoat.md)  
-\- [La Veuze](la-veuze.md)  
 \- [Pach pi (Пашпи)](pach-pi.md)  
 \- [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
 \- [Trikot (трикот)](trikot.md)
