@@ -9,7 +9,7 @@
 - **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46.
 - **Gaelic Storm – John Ryan 's / Hills of Connemara (polkas)** 3:09.
 - **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34.  
-  Здесь под польку годится только первая часть (John Ryan's Polka). Вторая же (Blarney Pilgrim), похоже, не подходит. Состоит из одной восьмёрки вступления, и чередования:  4x8 счётов куплета и 4x8 счётов припева, такие квадраты по 16 тактов происходят 5 раз.  
+  Здесь под польку годится только первая часть (John Ryan's Polka). Вторая же (Blarney Pilgrim), похоже, не подходит. John Ryan's Polka состоит из одной восьмёрки вступления, и чередования:  4x8 счётов куплета и 4x8 счётов припева, такие квадраты по 16 тактов происходят 5 раз.  
   - 0:03 - начало куплета [8 счётов вступления]
   - 0:16 - начало припева -> 13 секунд куплет [4x8 счётов куплета]
   - 0:28 - окончание припева -> 12 секунд припев [4x8 счётов припева]
