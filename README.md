@@ -53,6 +53,9 @@ __\*__ недоделанные описания.
 - [Бретонские танцы студии Persona Viva](http://personaviva.spb.ru/?bret_dances).
 - Живые танцы. [В этом обсуждении](https://vk.com/topic-31196395_25370716) питерские бретонцы ведут "дневник" того, что они танцуют от встречи к встрече. Если его почитать и выделить наиболее часто встречающиеся танцы, то можно понять, какие танцы - самые прикольные на их взгляд.
 - [Danses Bretonnes](http://dansesbretonnes.gwalarn.org) — сайт с подробными схемами с картинками (чтобы воспользоваться Google translate — открывайте ссылки в новой вкладке). [Алфавитный список](http://dansesbretonnes.gwalarn.org/accueil/alphabetique.html).
-- [Fiches de danses | Les Etournias](http://lesetournias.fr/ateliers-danses/fiches-de-danses) — сайт со схемами и видео к ним.
 - [Les danses (de A à Z)](http://nozbreizh.fr/index.php?option=com_content&task=view&id=20&Itemid=37&lettre_param=A#A) — сайт с информацией по бретонской танцевальной музыке.
 - [FestBreizh](https://www.youtube.com/channel/UCjwYudG6SWmI2mz1wS_eijA) — хороший канал с видео.
+
+... и не только бретонских танцев:
+==================================
+- [Fiches de danses | Les Etournias](http://lesetournias.fr/ateliers-danses/fiches-de-danses) — сайт со схемами и видео к ним.
