@@ -5,7 +5,7 @@
 - **Fiddler's Green – Lannigan's Ball** 3:15.
 - **The Irish Rovers – Mick Maguire** 2:28.
 - **Sham Rock – I'll Tell Me Ma** 3:50.  
-  Вступления нет, начинается с припева. Музыка бьётся на части 3х4х8, таких частей - 5. Но, припев (4х8) не всегда первый в 3х4х8.
+  Вступления нет, начинается с припева. Музыка бьётся на части 3х(4х8), таких частей - 5. Но, припев (4х8) не всегда первый в 3х(4х8).
 - **Street Fiddlers – Cotton Eyed Joe (Live 2009.10.11)** 3:24.  
   Вступления нет, начинается с припева. Наверное, годится только для парной импровизационной польки. 
 - **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46.  
