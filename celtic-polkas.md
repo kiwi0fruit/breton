@@ -5,7 +5,6 @@
 - **Fiddler's Green – Lannigan's Ball** 3:15.
 - **The Irish Rovers – Mick Maguire** 2:28.
 - **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42.
-
 - **Carré Manchot – Polkas** 4:04.  
   Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 10 раз.
 - **Gaelic Storm – John Ryan 's / Hills of Connemara (polkas)** 3:09.  
