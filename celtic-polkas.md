@@ -4,6 +4,7 @@
 - **Fiddler's Green – Donkey Riding** 2:09.
 - **Fiddler's Green – Lannigan's Ball** 3:15.
 - **The Irish Rovers – Mick Maguire** 2:28.
+- **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42.
 - **Sham Rock – I'll Tell Me Ma** 3:50.  
   Вступления нет, начинается с припева. Музыка бьётся на части 3х(4х8), таких частей - 5. Но, припев (4х8) не всегда первый в 3х(4х8).
 - **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46.  
@@ -12,12 +13,9 @@
   Состоит из одной восьмёрки вступления, и чередования:  4x8 счётов куплета, потом 4x8 счётов припева, такие квадраты по 64 такта происходят 5 раз. Выключить в 2:08.
 - **Carré Manchot – Polkas** 4:04.  
   Вступления нет. Состоит из чередования: 4x8 счётов условного куплета, потом 4x8 счётов условного припева, такие квадраты по 64 такта происходят 10 раз.
-- **Street Fiddlers – Cotton Eyed Joe (Live 2009.10.11)** 3:24.  
-  Не бьётся на музыкально однородные квадраты по 32 (4х8) счёта. Наверное, годится только для парной импровизационной польки.
-- **Gaelic Storm – John Ryan 's / Hills of Connemara (polkas)** 3:09.  
-  Не бьётся на музыкально однородные квадраты по 32 (4х8) счёта. Наверное, годится только для парной импровизационной польки.
-- **Martina Quiere Bailar – Polka Miseria** 4:06.  
-  Наверно, атмосферно не годится для социальной польки. Зато годится для парной импровизационной польки.
+- **Street Fiddlers – Cotton Eyed Joe (Live 2009.10.11)** 3:24.
+- **Gaelic Storm – John Ryan 's / Hills of Connemara (polkas)** 3:09.
+- **Martina Quiere Bailar – Polka Miseria** 4:06.
 
 АНАЛИЗ МУЗЫКИ:
 ==============
@@ -25,6 +23,7 @@
 - **Fiddler's Green – Donkey Riding** 2:09.
 - **Fiddler's Green – Lannigan's Ball** 3:15.
 - **The Irish Rovers – Mick Maguire** 2:28.
+- **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42.
 - **Sham Rock – I'll Tell Me Ma** 3:50.  
   - 0:00 - начало припева
   - 0:15 - начало повтора припева -> 15 сек припев [4x8]
