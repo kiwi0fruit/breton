@@ -16,8 +16,11 @@
 10. [Бурре на четверых](https://vk.com/video-25749886_162534468) \*
 11. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
 12. [Polka de Paimpol](https://vk.com/video39341115_456239021)
+13. [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0) \*\*
+14. [Celtic polka (mixer)](https://www.youtube.com/watch?v=Yi5kxzNWQmQ) \*\*
 
 __\*__ бурре - французские танцы из Ове́рни, но в Бретани их тоже любят.
+__\*\*__ кельтские польки - судя по всему, современные социальные польки под кельтскую музыку (в основном, ирландскую).
 
 Описания танцев
 ===============
