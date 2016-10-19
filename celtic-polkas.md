@@ -1,23 +1,25 @@
 МУЗЫКА:
 =======
+Полька классически танцуется под ритм 2/4 ([подробнее](http://music.stackexchange.com/questions/5621/is-there-a-difference-between-2-4-and-4-4)). Все указания ритмов ниже указаны на угад - как мне послышалось.
+
 - **Fiddler's Green – Girls Along The Road** 3:38.
 - **Fiddler's Green – Donkey Riding** 2:09.
 - **Fiddler's Green – Lannigan's Ball** 3:15.
-- **The Irish Rovers – Mick Maguire** 2:28.
-- **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42.
-- **Carré Manchot – Polkas** 4:04.  
+- **The Irish Rovers – Mick Maguire** 2:28 (2/4).
+- **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42 (4/4).
+- **Carré Manchot – Polkas** 4:04 (2/4).  
   Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 10 раз.
-- **Gaelic Storm – John Ryan 's / Hills of Connemara (polkas)** 3:09.  
+- **Gaelic Storm – John Ryan 's polka / Hills of Connemara** 3:09 (2/4 + 4/4).  
   Не 32-квадратная музыка, а только 16-квадратная.
-- **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34.  
-  Состоит из одной восьмёрки вступления, и чередования:  32 (4x8) счётов куплета, потом 32 (4x8) счётов припева, такие квадраты по 64 такта происходят 5 раз. Выключить в 2:08.
+- **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34 (2/4 + 4/4).  
+  Состоит из одной восьмёрки вступления, и чередования:  32 (4x8) счётов куплета, потом 32 (4x8) счётов припева, такие квадраты по 64 такта происходят 5 раз. John Ryan's Polka заканчивается в 2:08.
 - **Martina Quiere Bailar – Polka Miseria** 4:06.  
   На мой взгляд, не подходит для социальных полек по настроению.
-- **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46.  
+- **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46 (2/4).  
   Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 14 раз.
-- **Sham Rock – I'll Tell Me Ma** 3:50.  
+- **Sham Rock – I'll Tell Me Ma** 3:50 (2/4).  
   Вступления нет, начинается с припева. Музыка бьётся на квадраты по 32 (4х8) счёта, таких квадратов - 15 штук.
-- **Street Fiddlers – Cotton Eyed Joe (Live 2009.10.11) [square 32 cut]** 3:17.  
+- **Street Fiddlers – Cotton Eyed Joe (Live 2009.10.11) [square 32 cut]** 3:17 (4/4).  
   Вступления нет, начинается с припева. Музыка бьётся на квадраты по 32 (4х8) счёта, таких квадратов - 13 штук. Хотя и в одном месте граница этих двух квадратов несколько менее очевидна.
 
 АНАЛИЗ МУЗЫКИ:
