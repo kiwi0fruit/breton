@@ -2,35 +2,31 @@
 =======
 Полька классически танцуется под ритм 2/4 ([подробнее](http://music.stackexchange.com/questions/5621/is-there-a-difference-between-2-4-and-4-4)). Все указания ритмов ниже указаны на угад - как мне послышалось.
 
-- **Fiddler's Green – Girls Along The Road** 3:38.
-- **Fiddler's Green – Donkey Riding** 2:09.
-- **Fiddler's Green – Lannigan's Ball** 3:15.
-- **The Irish Rovers – Mick Maguire** 2:28 (2/4).
-- **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42 (4/4).
-- **Carré Manchot – Polkas** 4:04 (2/4).  
+- **Fiddler's Green – Girls Along The Road** 3:38 (?).
+- **Fiddler's Green – Donkey Riding** 2:09 (?).
+- **Fiddler's Green – Lannigan's Ball** 3:15 (?).
+- **Martina Quiere Bailar – Polka Miseria** 4:06 (?).
+- **The Irish Rovers – Mick Maguire** 2:28.
+- **Carré Manchot – Polkas** 4:04.  
   Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 10 раз.
-- **Gaelic Storm – John Ryan 's polka / Hills of Connemara** 3:09 (2/4 + 4/4).  
-  Не 32-квадратная музыка, а только 16-квадратная.
-- **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34 (2/4 + 4/4).  
+- **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34.  
   Состоит из одной восьмёрки вступления, и чередования:  32 (4x8) счётов куплета, потом 32 (4x8) счётов припева, такие квадраты по 64 такта происходят 5 раз. John Ryan's Polka заканчивается в 2:08.
-- **Martina Quiere Bailar – Polka Miseria** 4:06.  
-  На мой взгляд, не подходит для социальных полек по настроению.
-- **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46 (2/4).  
+- **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46.  
   Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 14 раз.
-- **Sham Rock – I'll Tell Me Ma** 3:50 (2/4).  
+- **Sham Rock – I'll Tell Me Ma** 3:50.  
   Вступления нет, начинается с припева. Музыка бьётся на квадраты по 32 (4х8) счёта, таких квадратов - 15 штук.
-- **Street Fiddlers – Cotton Eyed Joe (Live 2009.10.11) [square 32 cut]** 3:17 (4/4).  
-  Вступления нет, начинается с припева. Музыка бьётся на квадраты по 32 (4х8) счёта, таких квадратов - 13 штук. Хотя и в одном месте граница этих двух квадратов несколько менее очевидна.
-- **Loened Fall – An Den Dek Gwech Intañv - Polka Plinn** 4:48 (2/4). 
+- **Loened Fall – An Den Dek Gwech Intañv - Polka Plinn** 4:48.
 
 АНАЛИЗ МУЗЫКИ:
 ==============
 - **Fiddler's Green – Girls Along The Road** 3:38.
 - **Fiddler's Green – Donkey Riding** 2:09.
 - **Fiddler's Green – Lannigan's Ball** 3:15.
-- **The Irish Rovers – Mick Maguire** 2:28.
-- **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42.
-- **Sham Rock – I'll Tell Me Ma** 3:50.  
+- **Martina Quiere Bailar – Polka Miseria** 4:06.
+- **The Irish Rovers – Mick Maguire** 2:28 (2/4).
+- **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42 (4/4).
+- **Loened Fall – An Den Dek Gwech Intañv - Polka Plinn** 4:48 (2/4).
+- **Sham Rock – I'll Tell Me Ma** 3:50 (2/4).  
   - 0:00 - начало припева
   - 0:15 - начало повтора припева -> 15 сек припев [4x8]
   - 0:31 - начало куплета -> 15 сек повтора припева [4x8]
@@ -47,7 +43,8 @@
   - 3:17 - начало недоприпева -> 16 сек припева [4x8]
   - 3:32 - начало инструменталки -> 15 сек недоприпева [4x8]
   - 3:47 - конец композиции -> 15 сек инструменталки [4x8]
-- **Street Fiddlers – Cotton Eyed Joe (Live 2009.10.11)** 3:24.  
+- **Street Fiddlers – Cotton Eyed Joe (Live 2009.10.11)** 3:24 (4/4).  
+  Вступления нет, начинается с припева. Музыка бьётся на квадраты по 32 (4х8) счёта, таких квадратов - 13 штук. Хотя и в одном месте граница этих двух квадратов несколько менее очевидна.  
   - 0:04 - начало припева
   - 0:18 - начало инструменталки -> 14 сек припева [4x8]
   - 0:31 - начало инструменталки, похожей на припев -> 13 сек инструменталки [4x8]
@@ -62,7 +59,7 @@
   - 2:41 - начало припева -> 14 сек инструменталки [4x8]
   - 3:09 - начало припева видоизменённого -> 28 сек припева [8x8]
   - 3:13 - конец -> 4 сек финала [1x8]
-- **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46.  
+- **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46 (2/4).  
   - 0:00 - начало мелодии #1.1
   - 0:16 - начало мелодии #1.2 -> 16 сек #1.1 [4x8]
   - 0:30 - начало мелодии #1.1 -> 14 сек #1.2 [4x8]
@@ -92,7 +89,7 @@
   - 6:14 - начало мелодии #6.1.2 -> 14 сек #6.2 [4x8]
   - 6:29 - начало мелодии #6.2 -> 15 сек #6.1.2 [4x8]
   - 6:43 - конец мелодии #6.2 -> 14 сек #6.2 [4x8]
-- **Gaelic Storm – John Ryan 's / Hills of Connemara (polkas)** 3:09.  
+- **Gaelic Storm – John Ryan 's polka / Hills of Connemara** 3:09 (2/4 + 4/4).  
   - 0:00 - начало куплета.
   - 0:14 - начало припева -> 14 сек куплет [4x8]
   - 0:27 - начало куплета -> 13 сек припев [4x8]
@@ -113,7 +110,7 @@
   - 2:44 - начало куплета -> 14 сек инструменталка [4x8]
   - 2:51 - начало припева -> 7 сек куплета [2x8]
   - 3:05 - окончание припева -> 14 сек припева [4x8]
-- **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34.  
+- **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34 (2/4 + 4/4).  
   Здесь под польку годится только первая часть (John Ryan's Polka). Вторая же (Blarney Pilgrim), похоже, не подходит.  
   - 0:03 - начало куплета [8 счётов вступления]
   - 0:16 - начало припева -> 13 секунд куплет [4x8]
@@ -126,7 +123,7 @@
   - 1:43 - окончание припева -> 12 секунд припев [4x8]
   - 1:56 - начало припева -> 13 секунд куплет [4x8]
   - 2:08 - окончание припева -> 12 секунд припев [4x8]
-- **Carré Manchot – Polkas** 4:04.  
+- **Carré Manchot – Polkas** 4:04 (2/4).  
   - 0:00 - начало мелодии #1
   - 0:12 - начало мелодии #A -> 12 сек мелодии #1 [4x8]
   - 0:24 - начало мелодии #2 -> 12 сек мелодии #!A [4x8]
@@ -148,4 +145,3 @@
   - 3:37 - начало мелодии #9 -> 12 сек мелодии #!C [4x8]
   - 4:49 - начало мелодии #C -> 12 сек мелодии #9 [4x8]
   - 4:00 - конец композиции -> 11 сек мелодии #!C [4x8]
-- **Martina Quiere Bailar – Polka Miseria** 4:06.
