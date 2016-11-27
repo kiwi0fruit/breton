@@ -28,8 +28,8 @@
  19. \*\* [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0). Хорошая музыка к ней [здесь](http://vk.com/search?c[q]=The%20Irish%20Rovers%20Mick%20Maguire&c[section]=audio).  
  20. \*\* [Polka (partner dance)](https://www.youtube.com/watch?v=sVnfVUWiBTU). [Еще фигуры](https://www.youtube.com/watch?v=at782bhv22I).
 
-__\*__ бурре - французские танцы из Ове́рни, но в Бретани их тоже любят.  
-__\*\*__ кельтские польки - судя по всему, современные социальные польки под кельтскую музыку (в основном, ирландскую).
+__\*__ бурре - французские танцы из Ове́рни.  
+__\*\*__ кельтские польки - современные не бретонские польки под кельтскую (в основном, ирландскую) музыку. Как социальные, так и парные, c элементами из ирландских ceili dances (например: [youtu.be/kYYeX8W3Dqk](https://www.youtube.com/watch?v=kYYeX8W3Dqk), [youtu.be/jIlRLo1WVz0](https://www.youtube.com/watch?v=jIlRLo1WVz0)) и не только из них.
 
 Описания танцев
 ===============
