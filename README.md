@@ -6,18 +6,27 @@
 
 1. [Avant-deux de Bazouges](https://www.youtube.com/watch?v=Ncds8-FMaEI)
 2. [Avant-quatre du Tregor](https://www.youtube.com/watch?v=H5DNoZ2F3jw)
-3. [Bourrée d'Auvergne](https://www.youtube.com/watch?v=TfQNjN_WHCU) \*
+3. \* [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)
 4. [An dro](https://www.youtube.com/watch?v=p_i027FhnyA)
 5. [An dro retourne](https://www.youtube.com/watch?v=EUHjpInr1nA)
 6. [Cochinchine](https://vk.com/video-25749886_170748467)
 7. [Cercle Circassien](https://www.youtube.com/watch?v=JUIEfPi_SgY)
 8. [Danse keff](https://www.youtube.com/watch?v=B6qej91iYLc)
 9. [Kost Ar C'hoat](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
-10. [Бурре на четверых](https://vk.com/video-25749886_162534468) \*
+10. \* [Бурре на четверых](https://vk.com/video-25749886_162534468)
 11. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
 12. [Polka de Paimpol](https://vk.com/video39341115_456239021)
-13. [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0) \*\*
-14. [Celtic polka (mixer)](https://www.youtube.com/watch?v=Yi5kxzNWQmQ) \*\*
+13. \*\* [Celtic polka (mixer)](https://www.youtube.com/watch?v=Yi5kxzNWQmQ)
+14. \* [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8). Хорошая музыка [здесь](http://vk.com/video-25749886_170696306).
+15. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
+16. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
+17. [La Veuze](https://www.youtube.com/watch?v=w9WhHwAog38). Можно танцевать под многие популярные мелодии на 4/4 c куплетами и припевом, однажды мы танцевали под [эту](http://vk.com/search?c[q]=Fatboy%20Slim%20The%20Rockafeller%20Skank&c[section]=audio).
+
+### И парные танцы в закрытой позиции:
+
+ 18. [Scottish](https://www.youtube.com/watch?v=y1mfTqRCfyg). Хорошая музыка [здесь](http://vk.com/search?c[q]=Mervent%20Ascarabaz%20Scottish&c[section]=audio).  
+ 19. \*\* [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0). Хорошая музыка к ней [здесь](http://vk.com/search?c[q]=The%20Irish%20Rovers%20Mick%20Maguire&c[section]=audio).  
+ 20. \*\* [Polka (partner dance)](https://www.youtube.com/watch?v=sVnfVUWiBTU). [Еще фигуры](https://www.youtube.com/watch?v=at782bhv22I).
 
 __\*__ бурре - французские танцы из Ове́рни, но в Бретани их тоже любят.  
 __\*\*__ кельтские польки - судя по всему, современные социальные польки под кельтскую музыку (в основном, ирландскую).
