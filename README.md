@@ -37,25 +37,25 @@
 \- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
 \- [An dro retourne (retourné, Chañj Tu, Андро Ретурни́)](an-dro-retourne.md)  
 \- [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
-\- ⋄ [Chapelloise (Шапелуаз)](chapelloise.md)  
+\- ¹[Chapelloise (Шапелуаз)](chapelloise.md)  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
 \- [Galop Nantais (Нантский галоп)](galop-nantais.md)  
 \- [Hanter dro (Антердро)](hanter-dro.md)  
 \- [Kejaj (Кежаж)](kejaj.md)  
 \- [Klamm (Клам)](klamm.md)  
 \- [Kost ar c'hoat (Gavotte 4-5) (Костархот, костарват, кастарват)](kost-ar-c-hoat.md)  
-\- ⋄ [La Veuze (Ля Вуз)](la-veuze.md)  
+\- ¹[La Veuze (Ля Вуз)](la-veuze.md)  
 \- [Pach pi (Пашпи)](pach-pi.md)  
 \- [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
 \- [Trikot (Трикот)](trikot.md)  
-\- \*\* ⋄ [Celtic polkas (Кельтские польки)](celtic-polkas.md)  
-\- \* ⋄ [Bourrée 2 temps, Bourrée 3 temps (Бурре на 2, Бурре на 3)](bourree.md)
+\- \*\* ¹[Celtic polkas (Кельтские польки)](celtic-polkas.md)  
+\- \* ¹[Bourrée 2 temps, Bourrée 3 temps (Бурре на 2, Бурре на 3)](bourree.md)
 
 ## Примечания:
 
 __\*__ бурре - французские танцы из Ове́рни.  
 __\*\*__ кельтские польки - современные не бретонские польки под кельтскую (в основном, ирландскую) музыку. Как социальные, так и парные, c элементами из ирландских ceili dances (например: [youtu.be/kYYeX8W3Dqk](https://www.youtube.com/watch?v=kYYeX8W3Dqk), [youtu.be/jIlRLo1WVz0](https://www.youtube.com/watch?v=jIlRLo1WVz0)) и не только из них.  
-__⋄__ недоделанные описания.
+__¹__ недоделанные описания.
 
 Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org). Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы.
 
