@@ -71,6 +71,6 @@ __¹__ недоделанные описания.
 - [Les danses (de A à Z)](http://nozbreizh.fr/index.php?option=com_content&task=view&id=20&Itemid=37&lettre_param=A#A) — сайт с информацией по бретонской танцевальной музыке.
 - [FestBreizh](https://www.youtube.com/channel/UCjwYudG6SWmI2mz1wS_eijA) — хороший канал с видео.
 
-## Другие близкие танцы:
+## Другие танцы:
 
 - [Fiches de danses | Les Etournias](http://lesetournias.fr/ateliers-danses/fiches-de-danses) — сайт со схемами и видео к ним.
