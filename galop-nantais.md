@@ -1,6 +1,5 @@
-Galop Nantais
+Galop Nantais (нантский галоп)
 =============
-### (нантский галоп)
 
 ![ballifolk.altervista.org/galop_nantais.html](galop-nantais.png)
 
