@@ -36,6 +36,8 @@
 \- [An dro mod kozh (Tour) (Старое андро, Тур)](tour-an-dro-mod-kozh.md)  
 \- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
 \- [An dro retourne (retourné, Chañj Tu, Андро Ретурни́)](an-dro-retourne.md)  
+\- ¹[Bourrée 2 temps, Bourrée 3 temps (Бурре на 2 счёта, Бурре на 3 счёта)](bourree.md)\*  
+\- ¹[Celtic polkas (Кельтские польки)](celtic-polkas.md)\*\*  
 \- [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
 \- ¹[Chapelloise (Шапелуаз)](chapelloise.md)  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
@@ -46,10 +48,12 @@
 \- [Kost ar c'hoat (Gavotte 4-5) (Костархот, костарват, кастарват)](kost-ar-c-hoat.md)  
 \- ¹[La Veuze (Ля Вуз)](la-veuze.md)  
 \- [Pach pi (Пашпи)](pach-pi.md)  
+\- [Scottish (Скотиш)](scottish.md)  
+\- [Scottish impaire (Скотиш эмпэр-нечётный)](scottish-impaire.md)  
 \- [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
 \- [Trikot (Трикот)](trikot.md)  
-\- ¹[Celtic polkas (Кельтские польки)](celtic-polkas.md)\*\*  
-\- ¹[Bourrée 2 temps, Bourrée 3 temps (Бурре на 2 счёта, Бурре на 3 счёта)](bourree.md)\*
+
+
 
 ## Примечания:
 
