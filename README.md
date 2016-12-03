@@ -36,7 +36,7 @@
 \- [An dro mod kozh (Tour) (Старое андро, Тур)](tour-an-dro-mod-kozh.md)  
 \- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
 \- [An dro retourne (retourné, Chañj Tu, Андро Ретурни́)](an-dro-retourne.md)  
-\- ¹[Bourrée 2 temps, Bourrée 3 temps (Бурре на 2 счёта, Бурре на 3 счёта)](bourree.md)\*  
+\- ¹[Bourrée 2 temps, Bourrée 3 temps (Бурре на 2 счёта, Бурре на 3 счёта, Бретонское бурре)](bourree.md)\*  
 \- ¹[Celtic polkas (Кельтские польки)](celtic-polkas.md)\*\*  
 \- [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
 \- ¹[Chapelloise (Шапелуаз)](chapelloise.md)  
