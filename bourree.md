@@ -1,14 +1,14 @@
 Bourrée
 ========
 ## Bourrée 3 temps:
-Тактовый размер - 3/4.
+Тактовый размер - 3/4. Bernard Coclet (кто это, кстати?) даёт базовый шаг примерно вот так (см. видео [раз](https://www.youtube.com/watch?v=uD7XTxLylmU) и [два](https://www.youtube.com/watch?v=YthmdiLPB5U)):
 
 - 1[левой вперед]-И[правой]-2[левой]-~3[правой-левой]
 - 4[левой назад]-И[правой]-5[левой]-~6[правой-левой]  
   // Быстрое правой-левой будто бы делается не на "и-3", а именно на 3. Ну и оно выглядит немного особнячком, и, похоже, вес не переносится на левую ногу, ведь ею потом шагать.
 
 ## Bourrée 2 temps:
-Тактовый размер - 2/4. Существует несколько различных шагов бурре. Bernard Coclet даёт базовый шаг примерно вот так (кто это, кстати?):
+Тактовый размер - 2/4. Существует несколько различных шагов бурре. Bernard Coclet даёт базовый шаг примерно вот так (см. видео [раз](https://www.youtube.com/watch?v=0lN6jjY7RqU) и [два](https://www.youtube.com/watch?v=YthmdiLPB5U)):
 
 - 1[левой вперёд]-И[правой приставить]-2[левой на месте], 3[правой чуть в сторону]-И[левой приставить]-4[правой на месте]
 - 5[левой назад]-И[правой приставить]-6[левой на месте], 7[правой чуть в сторону]-И[левой приставить]-8[правой на метсе]  
@@ -31,17 +31,17 @@ Bourrée
 Бывают и другие элементы. Все эти элементы являются частью импровизационного парного танца, в котором оба партнёра равноправны. То есть, каждый сам по себе решает какой элемент ему станцевать следующим. Возможно, есть какие-то правила, но, скорее всего, просто нужно танцевать красиво. Все это предполагает, что все элементы можно станцевать так, чтобы не помешать партнёру сделать любой другой элемент.
 
 ## Бретонское бурре
-Так же существует "ленивая" вариация описанного выше шага, известная в России как Бретонское бурре (не знаю почему). Например, в ней вместо "трёшки" левой-правой-левой, танцуемой на 1-и-2, используются просто один шаг левой (на 1) + пауза (на 2). Шаг может быть как скользящим, так и с подскоком (см. два видео ниже). Далее идёт такой же шаг правой и т.д. (так же, с поворотами по или против часовой стрелки). То есть, ритм и танцевальный рисунок точно такие же, только шагов надо гораздо меньше делать, что иногда может пригодиться :)
+Так же существует "ленивая" вариация описанного выше шага, известная в России как Бретонское бурре (не знаю почему). Например, в ней вместо "трёшки" левой-правой-левой, танцуемой на 1-и-2, используются просто один шаг левой (на 1) + пауза (на 2). Шаг может быть как скользящим, так и с подскоком (см. видео [раз](https://www.youtube.com/watch?v=RcTHI-JWBO0) и [два](https://www.youtube.com/watch?v=Ueyy8UxyfFQ)). Далее идёт такой же шаг правой и т.д. (так же, с поворотами по или против часовой стрелки). То есть, ритм и танцевальный рисунок точно такие же, только шагов надо гораздо меньше делать, что иногда может пригодиться :)
 
 ВИДЕО:
 ======
-- Le pas de bourrée à 3 temps (Bernard Coclet) [youtube.com/watch?v=uD7XTxLylmU](https://www.youtube.com/watch?v=uD7XTxLylmU)
 - Le pas de bourrée à 2 temps (Bernard Coclet) [youtube.com/watch?v=0lN6jjY7RqU](https://www.youtube.com/watch?v=0lN6jjY7RqU)
+- \*_Пример танца + интересная музыка_: Mister Klof - bourrée 2 temps à Viellux [youtube.com/watch?v=Fos5IOLRHK8](https://www.youtube.com/watch?v=Fos5IOLRHK8)
+- _Пример танца_: bourree 2 temps [youtube.com/watch?v=cJVMRbQcWWk](https://www.youtube.com/watch?v=cJVMRbQcWWk)
+- _Пример танца_: Бретонское бурре [youtu.be/RcTHI-JWBO0](https://www.youtube.com/watch?v=RcTHI-JWBO0), [youtu.be/Ueyy8UxyfFQ](https://www.youtube.com/watch?v=Ueyy8UxyfFQ)
 - Pas de Bourrée par Bernard Coclet (3 temps, 2 temps) [youtube.com/watch?v=YthmdiLPB5U](https://www.youtube.com/watch?v=YthmdiLPB5U)
-- _Пример танца + интересная музыка_: Mister Klof - bourrée 2 temps à Viellux [youtube.com/watch?v=Fos5IOLRHK8](https://www.youtube.com/watch?v=Fos5IOLRHK8)
-- _Пример танца_: bourree 2 temps ("трёшечный") [youtube.com/watch?v=cJVMRbQcWWk](https://www.youtube.com/watch?v=cJVMRbQcWWk)
-- _Пример танца + интересная музыка_: danse elia s (bourrée d'auvergne 3 temps) [youtube.com/watch?v=TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
-- Бретонское бурре: [youtu.be/RcTHI-JWBO0](https://youtu.be/RcTHI-JWBO0), [youtu.be/Ueyy8UxyfFQ](https://youtu.be/Ueyy8UxyfFQ)
+- Le pas de bourrée à 3 temps (Bernard Coclet) [youtube.com/watch?v=uD7XTxLylmU](https://www.youtube.com/watch?v=uD7XTxLylmU)
+- \*_Пример танца + интересная музыка_: danse elia s (bourrée d'auvergne 3 temps) [youtube.com/watch?v=TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
 
 МУЗЫКА:
 ======
