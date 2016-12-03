@@ -35,13 +35,15 @@ Bourrée
 
 ВИДЕО:
 ======
-- Le pas de bourrée à 2 temps (Bernard Coclet) [youtube.com/watch?v=0lN6jjY7RqU](https://www.youtube.com/watch?v=0lN6jjY7RqU)
 - \*_Пример танца + интересная музыка_: Mister Klof - bourrée 2 temps à Viellux [youtube.com/watch?v=Fos5IOLRHK8](https://www.youtube.com/watch?v=Fos5IOLRHK8)
+- \*_Пример танца + интересная музыка_: danse elia s (bourrée d'auvergne 3 temps) [youtube.com/watch?v=TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
+
+
+- Le pas de bourrée à 2 temps (Bernard Coclet) [youtube.com/watch?v=0lN6jjY7RqU](https://www.youtube.com/watch?v=0lN6jjY7RqU)
 - _Пример танца_: bourree 2 temps [youtube.com/watch?v=cJVMRbQcWWk](https://www.youtube.com/watch?v=cJVMRbQcWWk)
 - _Пример танца_: Бретонское бурре [youtu.be/RcTHI-JWBO0](https://www.youtube.com/watch?v=RcTHI-JWBO0), [youtu.be/Ueyy8UxyfFQ](https://www.youtube.com/watch?v=Ueyy8UxyfFQ)
 - Pas de Bourrée par Bernard Coclet (3 temps, 2 temps) [youtube.com/watch?v=YthmdiLPB5U](https://www.youtube.com/watch?v=YthmdiLPB5U)
 - Le pas de bourrée à 3 temps (Bernard Coclet) [youtube.com/watch?v=uD7XTxLylmU](https://www.youtube.com/watch?v=uD7XTxLylmU)
-- \*_Пример танца + интересная музыка_: danse elia s (bourrée d'auvergne 3 temps) [youtube.com/watch?v=TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
 
 МУЗЫКА:
 ======
