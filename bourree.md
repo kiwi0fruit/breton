@@ -35,16 +35,16 @@ Bourrée
 
 ВИДЕО:
 ======
-- _Пример танца + интересная музыка_: Mister Klof - bourrée 2 temps à Viellux [youtube.com/watch?v=Fos5IOLRHK8](https://www.youtube.com/watch?v=Fos5IOLRHK8)
-- _Пример танца + интересная музыка_: danse elia s (bourrée d'auvergne 3 temps) [youtube.com/watch?v=TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
+- _Пример танца + интересная музыка_: Mister Klof - bourrée 2 temps à Viellux [youtu.be/Fos5IOLRHK8](https://www.youtube.com/watch?v=Fos5IOLRHK8)
+- _Пример танца + интересная музыка_: danse elia s (bourrée d'auvergne 3 temps) [youtu.be/TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
 
 .
 
-- Le pas de bourrée à 2 temps (Bernard Coclet) [youtube.com/watch?v=0lN6jjY7RqU](https://www.youtube.com/watch?v=0lN6jjY7RqU)
-- _Пример танца_: bourree 2 temps [youtube.com/watch?v=cJVMRbQcWWk](https://www.youtube.com/watch?v=cJVMRbQcWWk)
+- Le pas de bourrée à 2 temps (Bernard Coclet) [youtu.be/0lN6jjY7RqU](https://www.youtube.com/watch?v=0lN6jjY7RqU)
+- _Пример танца_: bourree 2 temps [youtu.be/cJVMRbQcWWk](https://www.youtube.com/watch?v=cJVMRbQcWWk)
 - _Пример танца_: Бретонское бурре [youtu.be/RcTHI-JWBO0](https://www.youtube.com/watch?v=RcTHI-JWBO0), [youtu.be/Ueyy8UxyfFQ](https://www.youtube.com/watch?v=Ueyy8UxyfFQ)
-- Pas de Bourrée par Bernard Coclet (3 temps, 2 temps) [youtube.com/watch?v=YthmdiLPB5U](https://www.youtube.com/watch?v=YthmdiLPB5U)
-- Le pas de bourrée à 3 temps (Bernard Coclet) [youtube.com/watch?v=uD7XTxLylmU](https://www.youtube.com/watch?v=uD7XTxLylmU)
+- Pas de Bourrée par Bernard Coclet (3 temps, 2 temps) [youtu.be/YthmdiLPB5U](https://www.youtube.com/watch?v=YthmdiLPB5U)
+- Le pas de bourrée à 3 temps (Bernard Coclet) [youtu.be/uD7XTxLylmU](https://www.youtube.com/watch?v=uD7XTxLylmU)
 
 МУЗЫКА:
 ======
@@ -60,4 +60,4 @@ Bourrée
 - Ar Re Yaouank – Bourée [3 temps?] 5:14
 - Naragonia Quartet – Orval / Mathijs (3t. bourrée, 2t. bourrée) 3:59
 - Melomel (2013 demo) – Fil et bobine suite (bourrées 3 temps) 3:41
-- Les Danses Bretonnes – danse elia s (bourrée d'auvergne 3 temps) 7:28 [youtube.com/watch?v=TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
+- Les Danses Bretonnes – danse elia s (bourrée d'auvergne 3 temps) 7:28 [youtu.be/TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
