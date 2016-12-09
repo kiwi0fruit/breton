@@ -1,6 +1,21 @@
 Celtic polkas
 =============
 
+Отличная подборка видео элементов польки сделана [Library of Dance](http://www.libraryofdance.org/dances) на их канале на Youtube. Вот некоторые:
+
+- [Esmeralda](https://www.youtube.com/watch?v=jMNLXe1gJ5Q)
+- [Pursuit](https://www.youtube.com/watch?v=JFcz35iQnWU)
+- [Vis á Vis](https://www.youtube.com/watch?v=TcAZLbb4neQ)
+- [Cross-Step Polka](https://www.youtube.com/watch?v=fUr2eZylgjY)
+- [Reverse Polka](https://www.youtube.com/watch?v=4u9JS6lLq6Y)
+- [Promenade](https://www.youtube.com/watch?v=v_tR53SI6Cg)
+- [Underarm Turn](https://www.youtube.com/watch?v=no3etzfuFVU)
+- [Double Underarm Turn](https://www.youtube.com/watch?v=FA4fdIdbu3I)
+- [Pivot Turn](https://www.youtube.com/watch?v=-XWWu18SzKc)
+- [Super Speed (Hopped Pivots)](https://www.youtube.com/watch?v=Pnwl53k46ng)
+
+А вот в [этом видео](https://www.youtube.com/watch?v=sVnfVUWiBTU) хорошо показан основной шаг с поворотом.
+
 МУЗЫКА:
 =======
 Полька классически танцуется под размер 2/4 ([подробнее](http://music.stackexchange.com/questions/5621/is-there-a-difference-between-2-4-and-4-4)). Все указания ритмов ниже указаны на угад - как мне послышалось.
