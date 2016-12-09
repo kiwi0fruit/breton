@@ -1,24 +1,15 @@
 Chapelloise (Шапелуаз)
 ======================
 
-Что-то мне надоело переводить. Буду просто удобно постить ссылки на [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org) и музыку с видео.
- 
-Смотрите подробнейшие картинки, читайте ломаный русский. Мне обычно все понятно на автоматически переведенных схемах... Нужно только иметь ввиду, что этот надмозг вечно переводит "pas" как "не", хотя нужно переводить как "шаг". То есть если Вам говорят чего-то не делать, то, наверно, имеется ввиду - сделать шаг :D
-
-### Основной шаг:
-[Полечный шаг на два с левой ноги](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_polka_avant_gauche.html) и [полечный шаг на два с правой ноги](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_polka_avant_droit.html). Полечный шаг идёт на счёт 1-и-2, 3-и-4. Где трёхшаг в 1-и-2 - с левой ноги (левой-правой-левой), а трёхшаг в 3-и-4 - с правой ноги (правой-левой-правой). Причём вес на все разы переносится полностью. Перемещения же идут при этом вперед-[почти\_сравнять]-вперед.
-
-Оригиналы на французском:
-
-- [pas de Polka avant du pied gauche](http://dansesbretonnes.gwalarn.org/bases/pas_de_polka_avant_gauche.html)
-- [pas de Polka avant du pied droit](http://dansesbretonnes.gwalarn.org/bases/pas_de_polka_avant_droit.html)
-
-### Схема:
-
-Танец существует в двух вариациях. В кругу и в линии.
+Танец существует в двух вариациях:
 
 - [Шапелуаз в кругу](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Fchapelloise_ronde.html&sandbox=1)
 - [Шапелуаз в линии](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Fchapelloise_ligne.html&sandbox=1)
+
+Читая автоматически переведённые схемы, нужно только иметь ввиду, что этот надмозг вечно переводит "pas" как "не", хотя нужно переводить как "шаг". То есть если Вам говорят чего-то не делать, то, наверно, имеется ввиду - сделать шаг :D
+
+### Основной шаг:
+[Полечный шаг на два с левой ноги](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_polka_avant_gauche.html) и [полечный шаг на два с правой ноги](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_polka_avant_droit.html). Полечный шаг идёт на счёт 1-и-2, 3-и-4. Где трёхшаг в 1-и-2 - с левой ноги (левой-правой-левой), а трёхшаг в 3-и-4 - с правой ноги (правой-левой-правой). Причём вес на все разы переносится полностью. Перемещения же идут при этом вперед-[почти\_сравнять]-вперед.
 
 ### Шапелуаз в линии:
 
@@ -58,9 +49,10 @@ __Второй обмен местами__:
 - 5-и-6:
 - 7-и-8:
 
+### Оригиналы на французском:
 
-Оригиналы на французском:
-
+- [pas de Polka avant du pied gauche](http://dansesbretonnes.gwalarn.org/bases/pas_de_polka_avant_gauche.html)
+- [pas de Polka avant du pied droit](http://dansesbretonnes.gwalarn.org/bases/pas_de_polka_avant_droit.html)
 - [Chapelloise en ronde](http://dansesbretonnes.gwalarn.org/danses/chapelloise_ronde.html)
 - [Chapelloise en ligne](http://dansesbretonnes.gwalarn.org/danses/chapelloise_ligne.html)
 
