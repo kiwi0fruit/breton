@@ -18,6 +18,8 @@ Celtic polkas
 
 Ну и просто на глаза попалось видео: [Polka Corner Turn and Lady's Turns](https://www.youtube.com/watch?v=JIERyEVNtCs).
 
+А на следующем видео показано во что превратилась полька в Ирландии, а так же какие лихие вращения на месте туда добавили: [Dancing the Kerry Polka](https://youtu.be/kYYeX8W3Dqk?t=45).
+
 МУЗЫКА:
 =======
 Полька классически танцуется под размер 2/4 ([подробнее](http://music.stackexchange.com/questions/5621/is-there-a-difference-between-2-4-and-4-4)). Все указания ритмов ниже указаны на угад - как мне послышалось.
