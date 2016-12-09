@@ -14,7 +14,7 @@ Celtic polkas
 - [Pivot Turn](https://www.youtube.com/watch?v=-XWWu18SzKc)
 - [Super Speed (Hopped Pivots)](https://www.youtube.com/watch?v=Pnwl53k46ng)
 
-А вот в [этом видео](https://www.youtube.com/watch?v=sVnfVUWiBTU) хорошо показан основной шаг с поворотом.
+А вот в [этом видео](https://www.youtube.com/watch?v=sVnfVUWiBTU) хорошо показан основной шаг с поворотом. Счёт идёт на 1-и-2-3-и-4, при этом на 2 и на 4 вперед по линии танца всегда смотрит спина партнёрши - это может быть важным моментом удобства при переходе из одного элемента польки в другой.
 
 МУЗЫКА:
 =======
