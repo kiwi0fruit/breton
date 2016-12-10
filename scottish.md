@@ -24,7 +24,7 @@ _Замечание_: все движения кавалера и дамы до�
 
 ВИДЕО:
 ======
-- Небольшое обучение: [youtube.com/watch?v=y1mfTqRCfyg](https://www.youtube.com/watch?v=y1mfTqRCfyg)
+- Небольшое обучение: [youtu.be/y1mfTqRCfyg](https://www.youtube.com/watch?v=y1mfTqRCfyg)
 - Скоттиш в живую на Balfolk [раз](https://youtu.be/vwHZvw7jk94) и [два](https://youtu.be/f7lTAVP8nrs).
 
 МУЗЫКА:
