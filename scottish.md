@@ -27,8 +27,12 @@ _Замечание_: все движения кавалера и дамы до�
 - Небольшое обучение: [youtube.com/watch?v=y1mfTqRCfyg](https://www.youtube.com/watch?v=y1mfTqRCfyg)
 - Скоттиш в живую на Balfolk [раз](https://youtu.be/vwHZvw7jk94) и [два](https://youtu.be/f7lTAVP8nrs).
 
-
-
 МУЗЫКА:
 =======
 - Mervent – Ascarabaz/Scottish 3:50
+- Titom – Axelle' scottish 3:27
+- Titom – Scottish Des Egarés 5:00
+- Kitus – Samarqand (Scottish) 4:35
+- Brotto Lopez Sextet–Avenueschottis (Scottish) 3:37
+- Old Horned Sheep–Dancing Bear (Scottish) 3:11
+- Spakkabrianza–Mortadella Dance (Scottish) 3:41
