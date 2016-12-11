@@ -4,4 +4,4 @@ Music for consideration (Музыка на заметку)
 
 How to music
 ============
-Link in the format of [http://vk.com/search?c%5Bq%5D=Kendirvi%20Allez%20viens&c%5Bsection%5D=audio](http://vk.com/search?c%5Bq%5D=Kendirvi%20Allez%20viens&c%5Bsection%5D=audio) is a link for the music search engine of a VK social network.
+Link in the format of [http://vk.com/search?c%5Bq%5D=Mervent%20Bourret%20Chabanet&c%5Bsection%5D=audio](http://vk.com/search?c%5Bq%5D=Mervent%20Bourret%20Chabanet&c%5Bsection%5D=audio) is a link for the music search engine of a VK social network.
