@@ -6,10 +6,10 @@ _// Руки, скорее всего, делаются как в [кежаже]
 
 _// Это описание из группы "Бретонские народные танцы в Москве", автор - Алексей Пырников: [vk.com/topic-25749886_28982641](https://vk.com/topic-25749886_28982641). Комментарии - Пётр Загубисало. //_
 
-МУЗЫКА:
+Music:
 =======
 Korriganed – La maladie des couleurs (andro - hanter-dro) 4:32
 
-ВИДЕО:
+Video:
 ======
-[youtube.com/watch?v=iZ8kXFjcal0](https://www.youtube.com/watch?v=iZ8kXFjcal0) (там в последней трети ещё прикольная музыка)
+[youtu.be/iZ8kXFjcal0](https://www.youtube.com/watch?v=iZ8kXFjcal0) (там в последней трети ещё прикольная музыка)
