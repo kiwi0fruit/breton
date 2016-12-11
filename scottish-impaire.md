@@ -25,10 +25,10 @@ Scottish impaire (скотиш эмпэр/нечётный)
 
 _// Это описание из группы "Бретонские народные танцы в Москве", автор - Алексей Пырников: [vk.com/topic-25749886_27153612](https://vk.com/topic-25749886_27153612), [vk.com/topic-25749886_27153623](https://vk.com/topic-25749886_27153623). Исправления и комментарии - Пётр Загубисало. //_
 
-МУЗЫКА:
+Music:
 ======
 Такая же, как и в [Hanter dro](https://github.com/kiwi0fruit/breton/blob/master/hanter-dro.md).
 
-ВИДЕО:
+Video:
 =====
-Ну, например: [youtube.com/watch?v=ptz2uTNQcZQ](https://www.youtube.com/watch?v=ptz2uTNQcZQ).
+Ну, например: [youtu.be/ptz2uTNQcZQ](https://www.youtube.com/watch?v=ptz2uTNQcZQ).
