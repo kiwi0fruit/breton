@@ -54,7 +54,7 @@
 \- [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
 \- [Trikot (Трикот)](trikot.md)  
 
-\- [Музыка на заметку](music.md)
+\- [Music for consideration / How to music (Музыка на заметку)](music.md)
 
 ## Примечания:
 
