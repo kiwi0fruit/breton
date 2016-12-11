@@ -29,10 +29,10 @@ Kejaj (Кежаж)
 
 _// Это описание из группы "Бретонские народные танцы в Москве", автор - Алексей Пырников: [vk.com/topic-25749886_28982641](https://vk.com/topic-25749886_28982641), [vk.com/topic-25749886_28982651](https://vk.com/topic-25749886_28982651). Исправления курсивом - Пётр Загубисало. //_
 
-МУЗЫКА:
+Music:
 =======
-Yves Leblanc – keijaj variations (kejaj) 3:06 [youtube.com/watch?v=iZ8kXFjcal0](https://www.youtube.com/watch?v=iZ8kXFjcal0) (с 01:50 отлично вообще)
+Yves Leblanc – keijaj variations (kejaj) 3:06 [youtu.be/iZ8kXFjcal0](https://www.youtube.com/watch?v=iZ8kXFjcal0) (с 01:50 отлично вообще)
 
-ВИДЕО:
+Video:
 ======
-[youtube.com/watch?v=iZ8kXFjcal0](https://www.youtube.com/watch?v=iZ8kXFjcal0)
+[youtu.be/iZ8kXFjcal0](https://www.youtube.com/watch?v=iZ8kXFjcal0)
