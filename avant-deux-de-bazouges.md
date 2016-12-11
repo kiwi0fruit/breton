@@ -227,13 +227,13 @@ Avant-deux de Bazouges
 
 _// Автор описания - Пётр Загубисало. В описании использованы картинки с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org). Отмечу, что описание составлялось на основе [видеоурока](https://youtube.com/watch?v=i5ibFoxn8cE), а не [схемы](http://dansesbretonnes.gwalarn.org/danses/avant-deux_de_bazouges.html) ибо я слишком поздно додумался, что iFrames можно открывать отдельно - без этого не работал Google Translate. //_
 
-ВИДЕО:
+Video:
 ======= 
 1. видеоурок: [youtu.be/i5ibFoxn8cE](https://youtube.com/watch?v=i5ibFoxn8cE)
 2. пример танца на фестивале, танец в кругу: [youtu.be/Ncds8-FMaEI](https://youtube.com/watch?v=Ncds8-FMaEI)
 3. пример танца на соревнованиях, танец пара на пару: [youtu.be/e12VDLG6tqo](https://youtube.com/watch?v=e12VDLG6tqo)
 
-МУЗЫКА:
+Music:
 ========
 - Hanter-Vro – Avant-deux de Bazouges (fest noz de Ploeren 01-12-2012) 5:25 [youtu.be/Ncds8-FMaEI](https://www.youtube.com/watch?v=Ncds8-FMaEI)
 - Kendirvi – Allez, viens! (Avant deux de Bazouges) 5:23
