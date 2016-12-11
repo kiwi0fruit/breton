@@ -56,11 +56,11 @@ Avant-quatre du Tregor / Avant-deux du Tregor
 
 Пары стоят в вершинах равностороннего треугольника, вписанного в круг (просто стоят по кругу равномерно), туловище "смотрит" в центр круга. На первые 16 счётов пары ходят в центр круга, и из центра круга. Смена же партнёров на вторые 16 счётов происходит по кругу против часовой стрелки (или по :D). И так 6 раз (32х6) и кавалер в итоге возвращается снова к своей даме. 
 
-ВИДЕО:
+Video:
 ======
-- Хорошо передаёт атмосферу: [youtube.com/watch?v=H5DNoZ2F3jw](https://www.youtube.com/watch?v=H5DNoZ2F3jw)
-- Видно шаги: [youtube.com/watch?v=_f1SuYq47kM](https://www.youtube.com/watch?v=_f1SuYq47kM)
+- Хорошо передаёт атмосферу: [youtu.be/H5DNoZ2F3jw](https://www.youtube.com/watch?v=H5DNoZ2F3jw)
+- Видно шаги: [youtu.be/_f1SuYq47kM](https://www.youtube.com/watch?v=_f1SuYq47kM)
 
-МУЗЫКА:
+Music:
 =======
 Apprenez Les Danses Bretonnes vol.1 – En avant quatre du Tregor 2:51
