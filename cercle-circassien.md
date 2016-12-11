@@ -48,9 +48,11 @@ _// Автор описания - Пётр Загубисало. В описан
 
 ВИДЕО:
 ======
-[youtube.com/watch?v=JUIEfPi_SgY](https://www.youtube.com/watch?v=JUIEfPi_SgY)
+[youtu.be/JUIEfPi_SgY](https://www.youtube.com/watch?v=JUIEfPi_SgY)
+
 МУЗЫКА:
 =======
-- Duo TTC – Cercle circassien - Bal à Lyon 4:30 [youtube.com/watch?v=AJ29pfX7p8s](https://www.youtube.com/watch?v=AJ29pfX7p8s)
+- Duo TTC – Cercle circassien - Bal à Lyon 4:30 [youtu.be/AJ29pfX7p8s](https://www.youtube.com/watch?v=AJ29pfX7p8s)
 - Diwall – Pull To Stop The Engine (Cercle Circassien) 4:18
 - Carré Manchot – Cercle Circassien 4:48
+- Duo Kerno Buisson – Cercle Circassien (Yaouank 2014) 4:17 [youtu.be/P5wXOp9mxXM](https://www.youtube.com/watch?v=P5wXOp9mxXM)
