@@ -33,7 +33,7 @@ Bourrée
 ## Бретонское бурре
 Так же существует "ленивая" вариация описанного выше шага, известная в России как Бретонское бурре (не знаю почему). Например, в ней вместо "трёшки" левой-правой-левой, танцуемой на 1-и-2, используются просто один шаг левой (на 1) + пауза (на 2). Шаг может быть как [скользящим-пружинящим](https://www.youtube.com/watch?v=Ueyy8UxyfFQ), так и с [подскоком](https://www.youtube.com/watch?v=RcTHI-JWBO0). Далее идёт такой же шаг правой и т.д. (так же, с поворотами по или против часовой стрелки). То есть, ритм и танцевальный рисунок точно такие же, только шагов надо гораздо меньше делать, что иногда может пригодиться ;)
 
-ВИДЕО:
+Video:
 ======
 - _Пример танца + интересная музыка_: Mister Klof - bourrée 2 temps à Viellux [youtu.be/Fos5IOLRHK8](https://www.youtube.com/watch?v=Fos5IOLRHK8)
 - _Пример танца + интересная музыка_: danse elia s (bourrée d'auvergne 3 temps) [youtu.be/TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
@@ -46,7 +46,7 @@ Bourrée
 - Pas de Bourrée par Bernard Coclet (3 temps, 2 temps) [youtu.be/YthmdiLPB5U](https://www.youtube.com/watch?v=YthmdiLPB5U)
 - Le pas de bourrée à 3 temps (Bernard Coclet) [youtu.be/uD7XTxLylmU](https://www.youtube.com/watch?v=uD7XTxLylmU)
 
-МУЗЫКА:
+Music:
 ======
 Просто Bourrée – тоже самое, что и Bourrée 2 temps
 
