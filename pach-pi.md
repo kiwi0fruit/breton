@@ -28,13 +28,13 @@ Pach pi
 
 Автор описания - Пётр Загубисало. Вспомнить танец немного помогло [описание](http://personaviva.spb.ru/?bret_dances#13) с сайта танцевальной студии Persona Viva.
 
-МУЗЫКА:
+Music:
 ========
 - Sonerien Du – Pach Pi 2:49
 - Deus'ta – Pach pi 3:35
 - Alan Stivell – Pachpi Kozh Pachpi New 3:41
 
-ВИДЕО:
+Video:
 ======
-- [youtube.com/watch?v=5eDQmwe1Zlo](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
-- [youtube.com/watch?v=VomV4x8hpnI](https://www.youtube.com/watch?v=VomV4x8hpnI)
+- [youtu.be/5eDQmwe1Zlo](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
+- [youtu.be/VomV4x8hpnI](https://www.youtube.com/watch?v=VomV4x8hpnI)
