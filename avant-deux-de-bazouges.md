@@ -229,13 +229,13 @@ _// Автор описания - Пётр Загубисало. В описан
 
 ВИДЕО:
 ======= 
-1. видеоурок: [youtube.com/watch?v=i5ibFoxn8cE](https://youtube.com/watch?v=i5ibFoxn8cE)
-2. пример танца на фестивале, танец в кругу: [youtube.com/watch?v=Ncds8-FMaEI](https://youtube.com/watch?v=Ncds8-FMaEI)
-3. пример танца на соревнованиях, танец пара на пару: [youtube.com/watch?v=e12VDLG6tqo](https://youtube.com/watch?v=e12VDLG6tqo)
+1. видеоурок: [youtu.be/i5ibFoxn8cE](https://youtube.com/watch?v=i5ibFoxn8cE)
+2. пример танца на фестивале, танец в кругу: [youtu.be/Ncds8-FMaEI](https://youtube.com/watch?v=Ncds8-FMaEI)
+3. пример танца на соревнованиях, танец пара на пару: [youtu.be/e12VDLG6tqo](https://youtube.com/watch?v=e12VDLG6tqo)
 
 МУЗЫКА:
 ========
-- Hanter-Vro – Avant-deux de Bazouges (fest noz de Ploeren 01-12-2012) 5:25 [youtube.com/watch?v=Ncds8-FMaEI](https://www.youtube.com/watch?v=Ncds8-FMaEI)
+- Hanter-Vro – Avant-deux de Bazouges (fest noz de Ploeren 01-12-2012) 5:25 [youtu.be/Ncds8-FMaEI](https://www.youtube.com/watch?v=Ncds8-FMaEI)
 - Kendirvi – Allez, viens! (Avant deux de Bazouges) 5:23
 - Hamon Martin Quintet – De Bazouges à la Hollande 3:48
-- Duo Kerno-Buisson – Avant-deux de Bazouges (Monterfil 25_06_2016) 3:58 [youtube.com/watch?v=e12VDLG6tqo](https://www.youtube.com/watch?v=e12VDLG6tqo)
+- Duo Kerno-Buisson – Avant-deux de Bazouges (Monterfil 25_06_2016) 3:58 [youtu.be/e12VDLG6tqo](https://www.youtube.com/watch?v=e12VDLG6tqo)
