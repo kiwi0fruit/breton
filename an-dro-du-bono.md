@@ -18,10 +18,10 @@ _// Тактовый размер андро - 4/4. //_
 
 _// Описание и музыка взяты из группы "Бретонские народные танцы в Москве":  [vk.com/topic-25749886_26342136](https://vk.com/topic-25749886_26342136) и [vk.com/notes11408173](https://vk.com/notes11408173). Автор описания - Алексей Пырников. //_
 
-МУЗЫКА:
+Music:
 =======
 kelenn – an dro 4:03
 
-ВИДЕО:
+Video:
 ======
-[youtube.com/watch?v=6u73c9kq-5M](https://www.youtube.com/watch?v=6u73c9kq-5M)
+[youtu.be/6u73c9kq-5M](https://www.youtube.com/watch?v=6u73c9kq-5M)
