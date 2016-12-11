@@ -32,15 +32,15 @@ _// Тактовый размер андро - 4/4. //_
 
 _// Автор описания - Пётр Загубисало. //_
 
-ВИДЕО:
+Video:
 ======
 Учтите, что танцуют они все несколько по-разному.
-- [youtube.com/watch?v=5Wl-pl414ts](https://www.youtube.com/watch?v=5Wl-pl414ts)
-- [youtube.com/watch?v=EUHjpInr1nA](https://www.youtube.com/watch?v=EUHjpInr1nA)
-- [youtube.com/watch?v=wMPKDrPqvjA](https://www.youtube.com/watch?v=wMPKDrPqvjA)
-- [youtube.com/watch?v=MrKnL0r-AzA](https://www.youtube.com/watch?v=MrKnL0r-AzA)
+- [youtu.be/5Wl-pl414ts](https://www.youtube.com/watch?v=5Wl-pl414ts)
+- [youtu.be/EUHjpInr1nA](https://www.youtube.com/watch?v=EUHjpInr1nA)
+- [youtu.be/wMPKDrPqvjA](https://www.youtube.com/watch?v=wMPKDrPqvjA)
+- [youtu.be/MrKnL0r-AzA](https://www.youtube.com/watch?v=MrKnL0r-AzA)
 
-МУЗЫКА:
+Music:
 =======
 - Mervent – Andro Retourne 3:08 
 - Talitha MacKenzie – Chañj Tu (An Dro Retourne) / Changerais-Tu? (Would You Change?) 3:22
