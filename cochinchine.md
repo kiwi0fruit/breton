@@ -15,13 +15,13 @@ Cochinchine (Кошиншин)
 
 _// Это описание из группы "Бретонские народные танцы в Москве", автор - Алексей Пырников: [vk.com/topic-25749886_26342205](https://vk.com/topic-25749886_26342205). Комментарии - Пётр Загубисало. //_
 
-МУЗЫКА:
+Music:
 =======
 - Esquisse – Cochinchine - Cochinchine 5:06
 - Sonerien Du – 107 - 11 (Cochinchine) 3:50
 
-ВИДЕО:
+Video:
 ======
-- [youtube.com/watch?v=tuuKiCm4BY4](https://www.youtube.com/watch?v=tuuKiCm4BY4)
+- [youtu.be/tuuKiCm4BY4](https://www.youtube.com/watch?v=tuuKiCm4BY4)
 - [vk.com/video-25749886_170748467](https://vk.com/video-25749886_170748467)
-- [youtube.com/watch?v=tuuKiCm4BY4](https://www.youtube.com/watch?v=tuuKiCm4BY4)
+- [youtu.be/tuuKiCm4BY4](https://www.youtube.com/watch?v=tuuKiCm4BY4)
