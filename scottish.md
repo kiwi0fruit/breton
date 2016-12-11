@@ -34,8 +34,8 @@ Music:
 - Titom – Axelle' scottish 3:27
 - Titom – Scottish Des Egarés 5:00
 - Kitus – Samarqand (Scottish) 4:35
-- Brotto Lopez Sextet–Avenueschottis (Scottish) 3:37
-- Old Horned Sheep–Dancing Bear (Scottish) 3:11
-- Spakkabrianza–Mortadella Dance (Scottish) 3:41
+- Brotto Lopez Sextet – Avenueschottis (Scottish) 3:37
+- Old Horned Sheep – Dancing Bear (Scottish) 3:11
+- Spakkabrianza – Mortadella Dance (Scottish) 3:41
 - Naragonia – Jean Sucré / La minute (valse & scottish) 4:01
 - Mister Klof – Scottish Ebroicienne / Papillon 6:17
