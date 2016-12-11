@@ -22,12 +22,13 @@ _Замечание_: все движения кавалера и дамы до�
 Еще можно посмотреть вот в этой хорошей [библиотеке видео](http://www.libraryofdance.org/dances/schottische/) с элементами. Там они хоть и даны большинство для какого-то бегающего скоттиша, но сам элемент выполняется на 4 счёта и поэтому может быть легко использован внутри стандартной схемы.
 
 
-ВИДЕО:
+Video:
 ======
 - Небольшое обучение: [youtu.be/y1mfTqRCfyg](https://www.youtube.com/watch?v=y1mfTqRCfyg)
-- Скоттиш в живую на Balfolk [раз](https://youtu.be/vwHZvw7jk94) и [два](https://youtu.be/f7lTAVP8nrs).
+- Скоттиш в живую на Balfolk: раз [youtu.be/vwHZvw7jk94](https://www.youtube.com/watch?v=vwHZvw7jk94) и два [youtu.be/f7lTAVP8nrs](https://www.youtube.com/watch?v=f7lTAVP8nrs)
+- Библиотека элементов скоттиша: [libraryofdance.org/dances/schottische](http://www.libraryofdance.org/dances/schottische/)
 
-МУЗЫКА:
+Music:
 ========
 - Mervent – Ascarabaz/Scottish 3:50
 - Titom – Axelle' scottish 3:27
@@ -37,3 +38,4 @@ _Замечание_: все движения кавалера и дамы до�
 - Old Horned Sheep–Dancing Bear (Scottish) 3:11
 - Spakkabrianza–Mortadella Dance (Scottish) 3:41
 - Naragonia – Jean Sucré / La minute (valse & scottish) 4:01
+- Mister Klof – Scottish Ebroicienne / Papillon 6:17
