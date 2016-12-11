@@ -46,11 +46,11 @@ _// Автор описания - Пётр Загубисало. В описан
 - [pas de Polka avant du pied gauche](http://dansesbretonnes.gwalarn.org/bases/pas_de_polka_avant_gauche.html)
 - [pas de Polka avant du pied droit](http://dansesbretonnes.gwalarn.org/bases/pas_de_polka_avant_droit.html)
 
-ВИДЕО:
+Video:
 ======
 [youtu.be/JUIEfPi_SgY](https://www.youtube.com/watch?v=JUIEfPi_SgY)
 
-МУЗЫКА:
+Music:
 =======
 - Duo TTC – Cercle circassien - Bal à Lyon 4:30 [youtu.be/AJ29pfX7p8s](https://www.youtube.com/watch?v=AJ29pfX7p8s)
 - Diwall – Pull To Stop The Engine (Cercle Circassien) 4:18
