@@ -28,15 +28,15 @@ _// ЗАМЕЧАНИЕ: мы танцуем, выписывая руками ц�
 
 _// Это описание из группы "Бретонские народные танцы в Москве", автор - Алексей Пырников: [vk.com/topic-25749886_28982641](https://vk.com/topic-25749886_28982641). Комментарии - Пётр Загубисало. //_
 
-ВИДЕО:
+Video:
 ======
-с руками: [youtube.com/watch?v=p_i027FhnyA](https://www.youtube.com/watch?v=p_i027FhnyA&t=88)
+с руками: [youtu.be/p_i027FhnyA](https://www.youtube.com/watch?v=p_i027FhnyA&t=88)
 
-МУЗЫКА:
+Music:
 =======
 - Tristan Decamps – 12 - La Jument De Michao (Live At Ze Goulotte, 1997) 6:15 
-- Mervent – La jument de Michao 2:51 [youtube.com/watch?v=tujG2WoxK4c](https://www.youtube.com/watch?v=tujG2WoxK4c) 
+- Mervent – La jument de Michao 2:51 [youtu.be/tujG2WoxK4c](https://www.youtube.com/watch?v=tujG2WoxK4c) 
 - Gérard Jaffrès – La Jument De Michao (Bretagne traditional song cover) 2:55 
 - Patrick Carol – La Jument De Michao 4:03
-- Diaouled ar menez – An dro 6:27 [youtube.com/watch?v=sPllYzLZ5eY](https://www.youtube.com/watch?v=sPllYzLZ5eY)
+- Diaouled ar menez – An dro 6:27 [youtu.be/sPllYzLZ5eY](https://www.youtube.com/watch?v=sPllYzLZ5eY)
 - Hamon-Martin Quartet – La fille du grand monde (tour) 4:32
