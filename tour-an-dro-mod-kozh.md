@@ -96,10 +96,10 @@ _// Это описание из группы "Бретонские народн
 
 _Комментарии - Пётр Загубисало. //_
 
-ВИДЕО:
+Video:
 ======
-с руками: [youtube.com/watch?v=J_YFjsnBo0w](https://youtube.com/watch?v=J_YFjsnBo0w)
+с руками: [youtu.be/J_YFjsnBo0w](https://youtube.com/watch?v=J_YFjsnBo0w)
 
-МУЗЫКА:
+Music:
 =======
 - Hamon-Martin Quartet – La fille du grand monde (tour) 4:32
