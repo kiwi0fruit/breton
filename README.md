@@ -20,7 +20,7 @@
 14. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)\*. Хорошая музыка [здесь](http://vk.com/video-25749886_170696306).
 15. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
 16. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
-17. [La Veuze](https://www.youtube.com/watch?v=w9WhHwAog38). Можно танцевать под многие популярные мелодии на 4/4 c куплетами и припевом, однажды мы танцевали под [эту](http://vk.com/search?c[q]=Fatboy%20Slim%20The%20Rockafeller%20Skank&c[section]=audio). Но, учитывая [перевод названия](https://en.wikipedia.org/wiki/Veuze) и аккуратное отношение к традициям, все же лучше такой новодел называть по-другому, например "Breton for Pop #1".
+17. [La Veuze](https://www.youtube.com/watch?v=w9WhHwAog38). Можно танцевать под многие популярные мелодии на 4/4 c куплетами и припевом (или даже 2/4 тоже). Но, учитывая [перевод названия](https://en.wikipedia.org/wiki/Veuze) и аккуратное отношение к традициям, все же лучше такой новодел называть по-другому, например "Breton for Pop #1".
 
 ### И парные танцы в закрытой позиции:
 
