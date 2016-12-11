@@ -43,14 +43,14 @@ Suite Keff
 
 _// Описание взято из группы "Бретонские народные танцы в Москве":  [vk.com/topic-25749886_27768323](https://vk.com/topic-25749886_27768323). Автор описания - Алексей Пырников. //_
 
-МУЗЫКА:
+Music:
 =======
 - Pilplazig – Dans Keff (Apprenez Les Danses Bretonnes vol.1) 4:41
 - Pilplazig – Bal Keff (Apprenez Les Danses Bretonnes vol.1) 2:23
-- Nozvat – Danse Keff (fest noz de Moréac 17-11-2012) 2:39 [youtube.com/watch?v=B6qej91iYLc](https://www.youtube.com/watch?v=B6qej91iYLc)
+- Nozvat – Danse Keff (fest noz de Moréac 17-11-2012) 2:39 [youtu.be/B6qej91iYLc](https://www.youtube.com/watch?v=B6qej91iYLc)
 - Korriganed – An durzhunell (Bal Keff) 1:58
 
-ВИДЕО:
+Video:
 ======
-- Dans: [youtube.com/watch?v=B6qej91iYLc](https://www.youtube.com/watch?v=B6qej91iYLc)
-- Dans + Bal: [youtube.com/watch?v=1YWpgnmlMgk](https://www.youtube.com/watch?v=1YWpgnmlMgk)
+- Dans: [youtu.be/B6qej91iYLc](https://www.youtube.com/watch?v=B6qej91iYLc)
+- Dans + Bal: [youtu.be/1YWpgnmlMgk](https://www.youtube.com/watch?v=1YWpgnmlMgk)
