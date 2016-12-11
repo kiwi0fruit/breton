@@ -29,14 +29,14 @@ _// Это описание из группы "Бретонские народн
 Счёты и ноги:  
 ![dansesbretonnes.gwalarn.org/images/rythme_1_2_3_4_et_5_6_7_8.gif](kost-ar-c-hoat/kost-ar-c-hoat.png)
 
-МУЗЫКА:
+Music:
 =======
 - Loened fall – Kost ar c'hoat 4:46
-- Mervent – Kost Ar C'hoat 3:49 [youtube.com/watch?v=EAVpaW_7qlQ](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
+- Mervent – Kost Ar C'hoat 3:49 [youtu.be/EAVpaW_7qlQ](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
 - Reelroad – Венгерская 4:29
 
-ВИДЕО:
+Video:
 ======
 Для введения в атмосферу, ибо вариация танца на видео несколько другая:
-- [youtube.com/watch?v=EAVpaW_7qlQ](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
-- [youtube.com/watch?v=P-HmNaDJCgs](https://www.youtube.com/watch?v=P-HmNaDJCgs)
+- [youtu.be/EAVpaW_7qlQ](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
+- [youtu.be/P-HmNaDJCgs](https://www.youtube.com/watch?v=P-HmNaDJCgs)
