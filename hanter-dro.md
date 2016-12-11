@@ -45,12 +45,12 @@ _// Тут счеты идут в два раза чаще: 1-2-3-4-5-6 это �
 
 _// Это описание из группы "Бретонские народные танцы в Москве", автор - Алексей Пырников: [vk.com/topic-25749886_28982641](https://vk.com/topic-25749886_28982641), [vk.com/topic-25749886_28982651](https://vk.com/topic-25749886_28982651). Комментарии - Пётр Загубисало. //_
 
-ВИДЕО:
+Video:
 ======
-- [youtube.com/watch?v=zIrcXwWvpj0](https://www.youtube.com/watch?v=zIrcXwWvpj0)
+- [youtu.be/zIrcXwWvpj0](https://www.youtube.com/watch?v=zIrcXwWvpj0)
 
 
-МУЗЫКА:
+Music:
 =======
 - Kendirvi – Ar Kilim (Hanter dro) 5:28
 - Tri Yann – Hanter-Dro Macabre 4:47
