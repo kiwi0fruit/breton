@@ -4,7 +4,7 @@ Klamm (клам)
 
 _// [Взято здесь](http://celtic-community.diary.ru/p193203999.htm?oam#more1). Автор описания - Алексей Пырников. //_
 
-МУЗЫКА:
+Music:
 =======
 - Yann Dour – Klamm 3:20
 - Monte Lunai – Hanter Dro Klamm 5:47
