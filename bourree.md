@@ -54,6 +54,7 @@ Bourrée
 - Игорь Юдинцев, Виктор Ливанов, Антон Зилле – Бурре на четверых (Bourrée) 2:15 [vk.com/video-25749886_162534468](http://vk.com/video-25749886_162534468)
 - Titom – Bacchus'song (Bourrée) 4:24
 - Mervent – Bourrée 2 temps: Chabanet/Carree de Vouvray/Bourree mouergue 4:28
+- Mervent – Bourret Chabanet 2:46
 - KV Express – Poedelkes Bourrée 3:41
 - Accordzeam – Bourraph (Bourrée 2 temps) 4:15
 - Mister Klof – Les Chamignoux / Bourrée De La Loge / Les Héritiers 4:13
