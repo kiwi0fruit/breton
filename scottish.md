@@ -26,7 +26,7 @@ Video:
 ======
 - Небольшое обучение: [youtu.be/y1mfTqRCfyg](https://www.youtube.com/watch?v=y1mfTqRCfyg)
 - Скоттиш в живую на Balfolk: раз [youtu.be/vwHZvw7jk94](https://www.youtube.com/watch?v=vwHZvw7jk94) и два [youtu.be/f7lTAVP8nrs](https://www.youtube.com/watch?v=f7lTAVP8nrs)
-- Библиотека элементов скоттиша: [libraryofdance.org/dances/schottische](http://www.libraryofdance.org/dances/schottische/)
+- Библиотека элементов скоттиша: [libraryofdance.org/dances/schottische](http://www.libraryofdance.org/dances/schottische/), например: [youtu.be/kLfWSGIAQP8](https://youtu.be/kLfWSGIAQP8)
 
 Music:
 ========
