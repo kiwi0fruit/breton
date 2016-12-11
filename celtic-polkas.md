@@ -1,18 +1,7 @@
 Celtic polkas
 =============
 
-Отличная подборка видео элементов польки сделана [Library of Dance](http://www.libraryofdance.org/dances) на их канале на Youtube. Вот некоторые:
-
-- [Esmeralda](https://www.youtube.com/watch?v=jMNLXe1gJ5Q)
-- [Pursuit](https://www.youtube.com/watch?v=JFcz35iQnWU)
-- [Vis á Vis](https://www.youtube.com/watch?v=TcAZLbb4neQ)
-- [Cross-Step Polka](https://www.youtube.com/watch?v=fUr2eZylgjY)
-- [Reverse Polka](https://www.youtube.com/watch?v=4u9JS6lLq6Y)
-- [Promenade](https://www.youtube.com/watch?v=v_tR53SI6Cg)
-- [Underarm Turn](https://www.youtube.com/watch?v=no3etzfuFVU)
-- [Double Underarm Turn](https://www.youtube.com/watch?v=FA4fdIdbu3I)
-- [Pivot Turn](https://www.youtube.com/watch?v=-XWWu18SzKc)
-- [Super Speed (Hopped Pivots)](https://www.youtube.com/watch?v=Pnwl53k46ng)
+Отличная подборка видео элементов польки сделана Library of Dance на их [канале на Youtube](https://www.youtube.com/channel/UCXxfZG671bWCeOWj6Z_8IHA). А вот [навигация по этой подборке](http://www.libraryofdance.org/dances/polka/).
 
 А вот в [этом видео](https://www.youtube.com/watch?v=sVnfVUWiBTU) хорошо показан основной шаг с поворотом. Счёт идёт на 1-и-2-3-и-4, при этом на 2 и на 4 вперед по линии танца всегда смотрит спина партнёрши - это может быть важным моментом удобства при переходе из одного элемента польки в другой.
 
