@@ -53,10 +53,10 @@ __Второй обмен местами__:
 - [Chapelloise en ronde](http://dansesbretonnes.gwalarn.org/danses/chapelloise_ronde.html)
 - [Chapelloise en ligne](http://dansesbretonnes.gwalarn.org/danses/chapelloise_ligne.html)
 
-ВИДЕО:
+Video:
 ======
-[youtube.com/watch?v=XwNRitt0AFo](https://www.youtube.com/watch?v=XwNRitt0AFo)
+[youtu.be/XwNRitt0AFo](https://www.youtube.com/watch?v=XwNRitt0AFo)
 
-МУЗЫКА:
+Music:
 =======
 - музыка для [Cercle circassien](cercle-circassien.md)
