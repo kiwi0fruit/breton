@@ -1,4 +1,4 @@
-Celtic polkas
+Polkas, Celtic polkas (Польки, Кельтские польки)
 =============
 
 Отличная подборка видео элементов польки сделана Library of Dance на их [канале на Youtube](https://www.youtube.com/channel/UCXxfZG671bWCeOWj6Z_8IHA). А вот [навигация по этой подборке](http://www.libraryofdance.org/dances/polka/).
