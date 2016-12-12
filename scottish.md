@@ -37,5 +37,5 @@ Music:
 - Brotto Lopez Sextet – Avenueschottis (Scottish) 3:37
 - Old Horned Sheep – Dancing Bear (Scottish) 3:11
 - Spakkabrianza – Mortadella Dance (Scottish) 3:41
-- Naragonia – Jean Sucré / La minute (valse / scottish from 2:08) 4:01
+- Naragonia – Jean Sucré / La minute (valse & scottish) [from 2:08] 4:01
 - Mister Klof – Scottish Ebroicienne / Papillon 6:17
