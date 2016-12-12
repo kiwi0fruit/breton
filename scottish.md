@@ -40,6 +40,5 @@ Music:
 - Naragonia – Jean Sucré / La minute (valse & scottish) [from 2:08] 4:01
 - Mister Klof – Scottish Ebroicienne / Papillon [from 3:26] 6:17
 
-.
-
+### Compositions that I don't like:
 - Brotto Lopez Sextet – Avenueschottis (Scottish) 3:37
