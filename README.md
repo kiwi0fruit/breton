@@ -24,8 +24,8 @@
 
 ### И парные танцы в закрытой позиции:
 
- 18. [Scottish](https://www.youtube.com/watch?v=y1mfTqRCfyg). Хорошая музыка [здесь](http://vk.com/search?c[q]=Mervent%20Ascarabaz%20Scottish&c[section]=audio).  
- 19. [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0)\*\*. Хорошая музыка к ней [здесь](http://vk.com/search?c[q]=ReelRoad%20polkas&c[section]=audio).  
+ 18. [Scottish](https://www.youtube.com/watch?v=vwHZvw7jk94)
+ 19. [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0)\*\*
  20. [Polka (partner dance)](https://www.youtube.com/watch?v=sVnfVUWiBTU)\*\*. [Еще фигуры](http://www.libraryofdance.org/dances/polka/).
 
 Описания танцев
