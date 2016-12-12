@@ -54,13 +54,15 @@
 \- [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
 \- [Trikot (Трикот)](trikot.md)  
 
-\- [Music for consideration / How to music (Музыка на заметку)](music.md)
+\- [Music for consideration / How to music (Музыка на заметку)](music.md)  
+\- ²[Rock and roll (Рок-н-ролл)](rock-and-roll.md)
 
 ## Примечания:
 
 __\*__ бурре - французские танцы из Ове́рни.  
-__\*\*__ кельтские польки - современные не бретонские польки под кельтскую (в основном, ирландскую) музыку. Как социальные, так и парные, c элементами из ирландских ceili dances (например: [youtu.be/kYYeX8W3Dqk](https://www.youtube.com/watch?v=kYYeX8W3Dqk), [youtu.be/jIlRLo1WVz0](https://www.youtube.com/watch?v=jIlRLo1WVz0)) и не только из них.  
-__¹__ недоделанные описания.
+__\*\*__ кельтские польки - современные не бретонские польки под кельтскую (в основном, ирландскую) музыку. Как социальные, так и парные, c элементами из ирландских ceili dances (например, из таких: [youtu.be/kYYeX8W3Dqk](https://www.youtube.com/watch?v=kYYeX8W3Dqk), [youtu.be/jIlRLo1WVz0](https://www.youtube.com/watch?v=jIlRLo1WVz0)) и не только из них.  
+__¹__ недоделанные описания.  
+__²__ Рок-н-ролл здесь вообще не в тему, но мне было лень создавать отдельный репозиторий.
 
 Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org). Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы.
 
