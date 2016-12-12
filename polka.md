@@ -6,10 +6,11 @@ Polkas, Celtic polkas (Польки, Кельтские польки)
 1. [Базовой поворот](https://www.youtube.com/watch?v=gy1qQ4GChVc) (полечное вращение)
 2. [Променады](https://www.youtube.com/watch?v=v_tR53SI6Cg) (движение вперед)
 3. [Преследование](https://www.youtube.com/watch?v=JFcz35iQnWU) (с чередованием боков)
-4. [Лицом к лицу](https://www.youtube.com/watch?v=TcAZLbb4neQ) (с отпусканием рук)
+4. [Лицом к лицу](https://www.youtube.com/watch?v=TcAZLbb4neQ) (с отпусканием половины рук)
 5. [Одинарное вращение под рукой](https://www.youtube.com/watch?v=no3etzfuFVU)
 6. [Двойное вращение под рукой](https://www.youtube.com/watch?v=FA4fdIdbu3I)
 7. [Вращение вокруг общей оси на месте](https://www.youtube.com/watch?v=-XWWu18SzKc) (+ вращение под рукой)
+8. [Полька в обратную сторону](https://www.youtube.com/watch?v=4u9JS6lLq6Y)
 
 А вот в [этом видео](https://www.youtube.com/watch?v=sVnfVUWiBTU) хорошо показан основной шаг с поворотом. Счёт идёт на 1-и-2-3-и-4, при этом на 2 и на 4 вперед по линии танца всегда смотрит спина партнёрши - это может быть важным моментом удобства при переходе из одного элемента польки в другой.
 
