@@ -17,7 +17,7 @@
 11. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
 12. [Polka de Paimpol](https://vk.com/video39341115_456239021)
 13. [Celtic polka (mixer)](https://www.youtube.com/watch?v=Yi5kxzNWQmQ)\*\*
-14. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)\*. Хорошая музыка [здесь](http://vk.com/video-25749886_170696306).
+14. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)\*
 15. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
 16. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
 17. [La Veuze](https://www.youtube.com/watch?v=w9WhHwAog38). Можно танцевать под многие популярные мелодии на 4/4 c куплетами и припевом (или даже 2/4 тоже). Но из соображений аккуратного отношения к традициям такой новодел под нетрадиционную музыку лучше называть как-то по-другому, например "Breton for Pop #1".
@@ -62,7 +62,7 @@
 __\*__ бурре - французские танцы из Ове́рни.  
 __\*\*__ кельтские польки - современные не бретонские польки под кельтскую (в основном, ирландскую) музыку. Как социальные, так и парные, c элементами из ирландских ceili dances (например, из таких: [youtu.be/kYYeX8W3Dqk](https://www.youtube.com/watch?v=kYYeX8W3Dqk), [youtu.be/jIlRLo1WVz0](https://www.youtube.com/watch?v=jIlRLo1WVz0)) и не только из них.  
 __¹__ недоделанные описания.  
-__²__ рок-н-ролл здесь в репозитории бертонских танцев и балфолка вообще не в тему, но мне было лень создавать отдельный репозиторий.
+__²__ рок-н-ролл здесь в репозитории бретонских танцев и балфолка вообще не в тему, но мне было лень создавать отдельный репозиторий.
 
 Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org). Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы.
 
