@@ -77,6 +77,8 @@ __²__ рок-н-ролл здесь в репозитории бретонск�
 - [Danses Bretonnes](http://dansesbretonnes.gwalarn.org) — сайт с подробными схемами с картинками (чтобы воспользоваться Google translate — открывайте ссылки в новой вкладке). [Алфавитный список](http://dansesbretonnes.gwalarn.org/accueil/alphabetique.html).
 - [Les danses (de A à Z)](http://nozbreizh.fr/index.php?option=com_content&task=view&id=20&Itemid=37&lettre_param=A#A) — сайт с информацией по бретонской танцевальной музыке.
 - [FestBreizh](https://www.youtube.com/channel/UCjwYudG6SWmI2mz1wS_eijA) — хороший канал с видео.
+- [Apprendre les danses bretonnes](http://lannig.e-monsite.com/) — научитесь бретонским танцам.
+- [Fest noise](https://vk.com/club69955050) — огромная музыкальная коллекция бретонской музыки.
 
 ## Другие танцы:
 
