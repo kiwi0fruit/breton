@@ -20,12 +20,12 @@
 14. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)\*. Хорошая музыка [здесь](http://vk.com/video-25749886_170696306).
 15. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
 16. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
-17. [La Veuze](https://www.youtube.com/watch?v=w9WhHwAog38). Можно танцевать под многие популярные мелодии на 4/4 c куплетами и припевом (или даже 2/4 тоже). Но, учитывая [перевод названия](https://en.wikipedia.org/wiki/Veuze) и аккуратное отношение к традициям, все же лучше такой новодел называть по-другому, например "Breton for Pop #1".
+17. [La Veuze](https://www.youtube.com/watch?v=w9WhHwAog38). Можно танцевать под многие популярные мелодии на 4/4 c куплетами и припевом (или даже 2/4 тоже). Но из соображений аккуратного отношения к традициям такой новодел под нетрадиционную музыку лучше называть как-то по-другому, например "Breton for Pop #1".
 
 ### И парные танцы в закрытой позиции:
 
- 18. [Scottish](https://www.youtube.com/watch?v=vwHZvw7jk94)
- 19. [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0)\*\*
+ 18. [Scottish](https://www.youtube.com/watch?v=vwHZvw7jk94)  
+ 19. [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0)\*\*  
  20. [Polka (partner dance)](https://www.youtube.com/watch?v=sVnfVUWiBTU)\*\*. [Еще фигуры](http://www.libraryofdance.org/dances/polka/).
 
 Описания танцев
