@@ -29,16 +29,13 @@ Music:
 - **Fiddler's Green – Donkey Riding** 2:09 (?).
 - **Fiddler's Green – Lannigan's Ball** 3:15 (?).
 - **Martina Quiere Bailar – Polka Miseria** 4:06 (?).
-- **The Irish Rovers – Mick Maguire** 2:28.
-- **Carré Manchot – Polkas** 4:04.  
-  Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 10 раз.
-- **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34.  
+- **The Irish Rovers – Mick Maguire** 2:28 (2/4).
+- **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34 (2/4 + 4/4).  
   Состоит из одной восьмёрки вступления, и чередования:  32 (4x8) счётов куплета, потом 32 (4x8) счётов припева, такие квадраты по 64 такта происходят 5 раз. John Ryan's Polka заканчивается в 2:08.
-- **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46.  
+- **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46 (2/4).  
   Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 14 раз.
-- **Sham Rock – I'll Tell Me Ma** 3:50.  
+- **Sham Rock – I'll Tell Me Ma** 3:50 (2/4).  
   Вступления нет, начинается с припева. Музыка бьётся на квадраты по 32 (4х8) счёта, таких квадратов - 15 штук.
-- **Loened Fall – An Den Dek Gwech Intañv - Polka Plinn** 4:48.
 
 Анализ музыки:
 ==============
@@ -49,6 +46,7 @@ Music:
 - **The Irish Rovers – Mick Maguire** 2:28 (2/4).
 - **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42 (4/4).
 - **Loened Fall – An Den Dek Gwech Intañv - Polka Plinn** 4:48 (2/4).
+  Слишком быстрая.
 - **Sham Rock – I'll Tell Me Ma** 3:50 (2/4).  
   - 0:00 - начало припева
   - 0:15 - начало повтора припева -> 15 сек припев [4x8]
@@ -147,6 +145,7 @@ Music:
   - 1:56 - начало припева -> 13 секунд куплет [4x8]
   - 2:08 - окончание припева -> 12 секунд припев [4x8]
 - **Carré Manchot – Polkas** 4:04 (2/4).  
+  Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 10 раз. Слишком быстрая.
   - 0:00 - начало мелодии #1
   - 0:12 - начало мелодии #A -> 12 сек мелодии #1 [4x8]
   - 0:24 - начало мелодии #2 -> 12 сек мелодии #!A [4x8]
