@@ -49,7 +49,7 @@
 \- ¹[La Veuze (Ля Вуз)](la-veuze.md)  
 \- [Pach pi (Пашпи)](pach-pi.md)  
 \- ¹[Polkas (Польки)](polka.md)\*\*  
-\- [Scottish (Скотиш)](scottish.md)  
+\- [Scottish (Скотиш)](schottische.md)  
 \- [Scottish impaire (Скотиш эмпэр/нечётный)](scottish-impaire.md)  
 \- [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
 \- [Trikot (Трикот)](trikot.md)  
