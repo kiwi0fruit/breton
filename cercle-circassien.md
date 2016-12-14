@@ -26,6 +26,8 @@
 **[на 2]:**  
 ![dansesbretonnes.gwalarn.org/bases/images/pas_de_patinette_2.gif](cercle-circassien/pas_de_patinette_2.png)
 
+- На [этом видео](https://www.youtube.com/watch?v=Ay5ExRRri1U) можно рассмотреть как ходят ноги (хоть и хват руками там не как в бретонском варинте черкесского круга).
+
 - Из вращения надо выйти так, чтобы кавалер и дама оба смотрели вдоль круга против часовой стрелки. То есть, кавалер своей левой рукой отпускает правую руку дамы и становится справа от неё. Кавалер держит правой рукой даму за талию, а дама кладёт левую руку на плечо кавалеру:
 
 ![dansesbretonnes.gwalarn.org/danses/images_am/cercle_circassien_promenade_1.gif](cercle-circassien/cercle_circassien_promenade_1.png)
