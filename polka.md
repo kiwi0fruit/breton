@@ -19,6 +19,8 @@ Polkas, Celtic polkas (Польки, Кельтские польки)
 
 Ну и просто на глаза попалось видео: [Polka Corner Turn and Lady's Turns](https://www.youtube.com/watch?v=JIERyEVNtCs).
 
+Переходы: [youtu.be/vMi8e_CV2yU](https://www.youtube.com/watch?v=vMi8e_CV2yU), [youtu.be/EniLak9Ev0Q](https://www.youtube.com/watch?v=EniLak9Ev0Q).
+
 ### Другие элементы не на полечных шагах
 Если мы не стремимся непрерывно двигаться куда-то вперед по танцполу в ритме польки, то в принципе, мы не ограничены использованием только полечных элементов. Можно использвоать, например, вот такие:
 
