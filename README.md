@@ -6,27 +6,27 @@
 
 1. [Avant-deux de Bazouges](https://www.youtube.com/watch?v=Ncds8-FMaEI)
 2. [Avant-quatre du Tregor](https://www.youtube.com/watch?v=H5DNoZ2F3jw)
-3. [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)\*
+3. [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)²
 4. [An dro](https://www.youtube.com/watch?v=p_i027FhnyA)
 5. [An dro retourne](https://www.youtube.com/watch?v=EUHjpInr1nA)
 6. [Cochinchine](https://vk.com/video-25749886_170748467)
 7. [Cercle Circassien](https://www.youtube.com/watch?v=JUIEfPi_SgY)
 8. [Danse keff](https://www.youtube.com/watch?v=B6qej91iYLc)
 9. [Kost Ar C'hoat](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
-10. [Бурре на четверых](https://vk.com/video-25749886_162534468)\*
+10. [Бурре на четверых](https://vk.com/video-25749886_162534468)²
 11. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
 12. [Polka de Paimpol](https://vk.com/video39341115_456239021)
-13. [Celtic polka (mixer)](https://www.youtube.com/watch?v=Yi5kxzNWQmQ)\*\*
-14. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)\*
+13. [Celtic polka (mixer)](https://www.youtube.com/watch?v=Yi5kxzNWQmQ)¹
+14. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)²
 15. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
 16. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
-17. [La Veuze](https://www.youtube.com/watch?v=w9WhHwAog38). Можно танцевать под многие популярные мелодии на 4/4 c куплетами и припевом (или даже 2/4 тоже). Но из соображений аккуратного отношения к традициям такой новодел под нетрадиционную музыку лучше называть как-то по-другому, например "Breton for Pop #1**".
+17. [La Veuze](https://www.youtube.com/watch?v=w9WhHwAog38). Можно танцевать под многие популярные мелодии на 4/4 c куплетами и припевом (или даже 2/4 тоже). Но из соображений аккуратного отношения к традициям такой новодел под нетрадиционную музыку лучше называть как-то по-другому, например "¹Breton for Pop #1".
 
 ### И парные танцы в закрытой позиции:
 
- 18. [Scottish](https://www.youtube.com/watch?v=vwHZvw7jk94)\*\*  
- 19. [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0)\*\*  
- 20. [Polka (partner dance)](https://www.youtube.com/watch?v=sVnfVUWiBTU)\*\*. Ещё элементы: [libraryofdance.org/dances/polka](http://www.libraryofdance.org/dances/polka/)
+ 18. [Scottish](https://www.youtube.com/watch?v=vwHZvw7jk94)¹  
+ 19. [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0)¹  
+ 20. [Polka (partner dance)](https://www.youtube.com/watch?v=sVnfVUWiBTU)¹. Ещё элементы: [libraryofdance.org/dances/polka](http://www.libraryofdance.org/dances/polka/)
 
 Описания танцев
 ===============
@@ -36,7 +36,7 @@
 \- [An dro mod kozh (Tour) (Старое андро, Тур)](tour-an-dro-mod-kozh.md)  
 \- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
 \- [An dro retourne (retourné, Chañj Tu, Андро Ретурни́)](an-dro-retourne.md)  
-\- ¹[Bourrée 2 temps, Bourrée 3 temps (Бурре на 2 счёта, Бурре на 3 счёта, Бретонское бурре)](bourree.md)\*  
+\- ²[Bourrée 2 temps, Bourrée 3 temps (Бурре на 2 счёта, Бурре на 3 счёта, Бретонское бурре)](bourree.md)\*  
 \- [Breton for Pop #1](breton-for-pop-1.md)  
 \- [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
 \- [Chapelloise (Шапелуаз)](chapelloise.md)  
@@ -46,24 +46,24 @@
 \- [Kejaj (Кежаж)](kejaj.md)  
 \- [Klamm (Клам)](klamm.md)  
 \- [Kost ar c'hoat (Gavotte 4-5) (Костархот, костарват, кастарват)](kost-ar-c-hoat.md)  
-\- ¹[La Veuze (Ля Вуз)](la-veuze.md)  
+\- [La Veuze (Ля Вуз)](la-veuze.md)\*  
 \- [Pach pi (Пашпи)](pach-pi.md)  
-\- ¹[Polka (Полька)](polka.md)\*\*  
-\- [Polka piquée (Полька п́ики)](polka-piquee.md)\*\*  
-\- [Scottish / Schottische (Скот́иш / Шотиш)](schottische.md)  
+\- ¹[Polka (Полька)](polka.md)\*  
+\- ¹[Polka piquée (Полька п́ики)](polka-piquee.md)  
+\- ¹[Polka Plinn (Полька Плин)](polka-plinn.md)  
+\- ¹[Scottish / Schottische (Скот́иш / Шотиш)](schottische.md)  
 \- [Scottish impaire (Скот́иш ампэ́, т.е. нечётный)](scottish-impaire.md)  
 \- [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
 \- [Trikot (Трикот)](trikot.md)  
 
 \- [Music for consideration / How to music (Музыка на заметку)](music.md)  
-\- ²[Rock and roll (Рок-н-ролл)](rock-and-roll.md)
+\- ³[Rock and roll (Рок-н-ролл)](rock-and-roll.md)
 
 ## Примечания:
-
-__\*__ бурре - французские танцы из Ове́рни.  
-__\*\*__ другие небретонские танцы: французские или кельтские (хотя бы по музыке).  
-__¹__ недоделанные описания.  
-__²__ рок-н-ролл здесь в репозитории бретонских танцев и балфолка вообще не в тему, но мне было лень создавать отдельный репозиторий.
+__\*__ недоделанные описания.  
+__¹__ небретонские танцы: французские или кельтские (хотя бы по музыке).  
+__²__ бурре - французские танцы из Ове́рни.  
+__³__ рок-н-ролл здесь в репозитории бретонских танцев и балфолка вообще не в тему, но мне было лень создавать отдельный репозиторий.
 
 Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org). Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы.
 
