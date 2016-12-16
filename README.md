@@ -20,7 +20,7 @@
 14. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)²
 15. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
 16. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
-17. [La Veuze](https://www.youtube.com/watch?v=w9WhHwAog38). Можно танцевать под многие популярные мелодии на 4/4 c куплетами и припевом (или даже 2/4 тоже). Но из соображений аккуратного отношения к традициям такой новодел под нетрадиционную музыку лучше называть как-то по-другому, например "¹Breton for Pop #1".
+17. [La Veuze](https://www.youtube.com/watch?v=w9WhHwAog38). Можно танцевать под многие популярные мелодии на 4/4 c куплетами и припевом (или даже 2/4 тоже). Но из соображений аккуратного отношения к традициям такой новодел под нетрадиционную музыку лучше называть как-то по-другому, например "BretPop Acacia¹".
 
 ### И парные танцы в закрытой позиции:
 
@@ -37,7 +37,7 @@
 \- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
 \- [An dro retourne (retourné, Chañj Tu, Андро Ретурни́)](an-dro-retourne.md)  
 \- ²[Bourrée 2 temps, Bourrée 3 temps (Бурре на 2 счёта, Бурре на 3 счёта, Бретонское бурре)](bourree.md)\*  
-\- [Breton for Pop #1](breton-for-pop-1.md)  
+\- [BretPop Acacia](bretpop.md)  
 \- [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
 \- [Chapelloise (Шапелуаз)](chapelloise.md)  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
