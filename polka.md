@@ -35,7 +35,7 @@ Music:
 - **Fiddler's Green – Girls Along The Road** 3:38 (?).
 - **Fiddler's Green – Donkey Riding** 2:09 (?).
 - **Fiddler's Green – Lannigan's Ball** 3:15 (?).
-- **Martina Quiere Bailar – Polka Miseria** 4:06 (?).
+- **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42 (4/4).
 - **The Irish Rovers – Mick Maguire** 2:28 (2/4).
 - **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34 (2/4 + 4/4).  
   Состоит из одной восьмёрки вступления, и чередования:  32 (4x8) счётов куплета, потом 32 (4x8) счётов припева, такие квадраты по 64 такта происходят 5 раз. John Ryan's Polka заканчивается в 2:08.
