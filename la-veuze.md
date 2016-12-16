@@ -4,4 +4,4 @@ La veuze
 
 Video:
 ======
-[youtu.be/w9WhHwAog38](https://www.youtube.com/watch?v=w9WhHwAog38)
+- [youtu.be/w9WhHwAog38](https://www.youtube.com/watch?v=w9WhHwAog38)
