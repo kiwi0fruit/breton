@@ -36,23 +36,23 @@ Bourrée
 Так же существует ленивая вариация описанного выше шага. В ней вместо "трёшки" левой-правой-левой, танцуемой на 1-и-2, используются просто один шаг левой (на 1) + приставка/подскок (на 2). Шаг может быть как скользящим с [приставкой правой ноги](https://www.youtube.com/watch?v=Ueyy8UxyfFQ), так и с [подскоком на левой](https://www.youtube.com/watch?v=RcTHI-JWBO0). Далее идёт такой же шаг правой и т.д. (так же, с поворотами по или против часовой стрелки). То есть, ритм и танцевальный рисунок точно такие же, только шагов надо меньше делать, что иногда может пригодиться.
 
 ## Бретонское бурре
-Существует фиксированная схема для оттачивания шагов бурре, известная в России как _Бретонское бурре_. Она использует ленивые шаги с подскоком (см. [видео](https://www.youtube.com/watch?v=RcTHI-JWBO0)).
+Существует фиксированная схема для оттачивания шагов бурре, известная в России как _Бретонское бурре_. Она использует ленивые шаги с подскоком (см. [видео](https://www.youtube.com/watch?v=RcTHI-JWBO0)), но ничто не мешает использовать любые другие шаги.
 
 Video:
 ======
+### Bourrée 2 temps:
 - _Пример танца + интересная музыка_: Mister Klof - bourrée 2 temps à Viellux [youtu.be/Fos5IOLRHK8](https://www.youtube.com/watch?v=Fos5IOLRHK8)
-- _Пример танца + интересная музыка_: danse elia s (bourrée d'auvergne 3 temps) [youtu.be/TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
-
-.
-
-- Le pas de bourrée à 2 temps (Bernard Coclet) [youtu.be/0lN6jjY7RqU](https://www.youtube.com/watch?v=0lN6jjY7RqU)
 - Пример стелящихся трехшагов: [youtu.be/r9SJ138nY8E?t=44](https://youtu.be/r9SJ138nY8E?t=44)
 - Пример стелящихся ленивых шагов: [youtu.be/Ueyy8UxyfFQ](https://www.youtube.com/watch?v=Ueyy8UxyfFQ)
-- _Пример танца_: bourree 2 temps [youtu.be/cJVMRbQcWWk](https://www.youtube.com/watch?v=cJVMRbQcWWk)
-- _Пример танца_: Бретонское бурре [youtu.be/RcTHI-JWBO0](https://www.youtube.com/watch?v=RcTHI-JWBO0), [youtu.be/Ueyy8UxyfFQ](https://www.youtube.com/watch?v=Ueyy8UxyfFQ)
+- _Пример танца_ (+ пример равномерных трехшагов): [youtu.be/cJVMRbQcWWk](https://www.youtube.com/watch?v=cJVMRbQcWWk)
+- _Бретонское бурре_ (+ пример ленивых шагов с подскоком): [youtu.be/RcTHI-JWBO0](https://www.youtube.com/watch?v=RcTHI-JWBO0)
+- Le pas de bourrée à 2 temps (Bernard Coclet) [youtu.be/0lN6jjY7RqU](https://www.youtube.com/watch?v=0lN6jjY7RqU)
 - Pas de Bourrée par Bernard Coclet (3 temps, 2 temps) [youtu.be/YthmdiLPB5U](https://www.youtube.com/watch?v=YthmdiLPB5U)
+
+### Bourrée 3 temps:
+- _Пример танца + интересная музыка_: danse elia s (bourrée d'auvergne 3 temps) [youtu.be/TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
 - Le pas de bourrée à 3 temps (Bernard Coclet) [youtu.be/uD7XTxLylmU](https://www.youtube.com/watch?v=uD7XTxLylmU)
-- _Бретонское бурре_ (пример ленивых шагов с подскоком): [youtu.be/RcTHI-JWBO0](https://www.youtube.com/watch?v=RcTHI-JWBO0)
+- Pas de Bourrée par Bernard Coclet (3 temps, 2 temps) [youtu.be/YthmdiLPB5U](https://www.youtube.com/watch?v=YthmdiLPB5U)
 
 Music:
 ======
