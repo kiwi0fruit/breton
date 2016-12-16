@@ -35,7 +35,7 @@
 \- [An dro nevez (Новое андро)](an-dro-nevez.md)  
 \- [An dro mod kozh (Tour) (Старое андро, Тур)](tour-an-dro-mod-kozh.md)  
 \- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
-\- [An dro retourne (retourné, Chañj Tu, Андро Ретурни́)](an-dro-retourne.md)  
+\- [An dro Retourné (Chañj Tu, Андро Ретурни́)](an-dro-retourne.md)  
 \- ²[Bourrée 2 temps, Bourrée 3 temps (Бурре на 2 счёта, Бурре на 3 счёта, Бретонское бурре)](bourree.md)\*  
 \- ¹[BretPop Acacia](bretpop.md)  
 \- [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
@@ -49,10 +49,10 @@
 \- [La Veuze (Ля Вуз)](la-veuze.md)\*  
 \- [Pach pi (Пашпи)](pach-pi.md)  
 \- ¹[Polka (Полька)](polka.md)\*  
-\- ¹[Polka piquée (Полька п́ики)](polka-piquee.md)  
+\- ¹[Polka piquée (Полька пи́ки)](polka-piquee.md)  
 \- ¹[Polka Plinn (Полька Плин)](polka-plinn.md)  
-\- ¹[Scottish / Schottische (Скот́иш / Шотиш)](schottische.md)  
-\- [Scottish impaire (Скот́иш ампэ́, т.е. нечётный)](scottish-impaire.md)  
+\- ¹[Scottish / Schottische (Скоти́ш / Шотиш)](schottische.md)  
+\- [Scottish impaire (Скоти́ш ампэ́, т.е. нечётный)](scottish-impaire.md)  
 \- [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
 \- [Trikot (Трикот)](trikot.md)  
 
