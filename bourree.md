@@ -47,11 +47,12 @@ Video:
 
 - Le pas de bourrée à 2 temps (Bernard Coclet) [youtu.be/0lN6jjY7RqU](https://www.youtube.com/watch?v=0lN6jjY7RqU)
 - Пример стелящихся трехшагов: [youtu.be/r9SJ138nY8E?t=44](https://youtu.be/r9SJ138nY8E?t=44)
+- Пример стелящихся ленивых шагов: [youtu.be/Ueyy8UxyfFQ](https://www.youtube.com/watch?v=Ueyy8UxyfFQ)
 - _Пример танца_: bourree 2 temps [youtu.be/cJVMRbQcWWk](https://www.youtube.com/watch?v=cJVMRbQcWWk)
 - _Пример танца_: Бретонское бурре [youtu.be/RcTHI-JWBO0](https://www.youtube.com/watch?v=RcTHI-JWBO0), [youtu.be/Ueyy8UxyfFQ](https://www.youtube.com/watch?v=Ueyy8UxyfFQ)
 - Pas de Bourrée par Bernard Coclet (3 temps, 2 temps) [youtu.be/YthmdiLPB5U](https://www.youtube.com/watch?v=YthmdiLPB5U)
 - Le pas de bourrée à 3 temps (Bernard Coclet) [youtu.be/uD7XTxLylmU](https://www.youtube.com/watch?v=uD7XTxLylmU)
-- _Бретонское бурре_: [youtu.be/RcTHI-JWBO0](https://www.youtube.com/watch?v=RcTHI-JWBO0)
+- _Бретонское бурре_ (пример ленивых шагов с подскоком): [youtu.be/RcTHI-JWBO0](https://www.youtube.com/watch?v=RcTHI-JWBO0)
 
 Music:
 ======
