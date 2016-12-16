@@ -48,8 +48,8 @@
 \- [Kost ar c'hoat (Gavotte 4-5) (Костархот, костарват, кастарват)](kost-ar-c-hoat.md)  
 \- ¹[La Veuze (Ля Вуз)](la-veuze.md)  
 \- [Pach pi (Пашпи)](pach-pi.md)  
-\- ¹[Polka (Полька)](polka.md)\*\*
-\- [Polka piquée (Полька п́ики)](polka-piquee.md)\*\*
+\- ¹[Polka (Полька)](polka.md)\*\*  
+\- [Polka piquée (Полька п́ики)](polka-piquee.md)\*\*  
 \- [Scottish / Schottische (Скот́иш / Шотиш)](schottische.md)  
 \- [Scottish impaire (Скот́иш ампэ́, т.е. нечётный)](scottish-impaire.md)  
 \- [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
