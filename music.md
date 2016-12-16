@@ -8,7 +8,7 @@ Link in the format of [http://vk.com/search?c%5Bq%5D=Mervent%20Bourret%20Chabane
 
 Анализ музыки:
 ==============
-# Polka
+# Polka:
 - **Fiddler's Green – Girls Along The Road** 3:38.
 - **Fiddler's Green – Donkey Riding** 2:09.
 - **Fiddler's Green – Lannigan's Ball** 3:15.
@@ -137,3 +137,4 @@ Link in the format of [http://vk.com/search?c%5Bq%5D=Mervent%20Bourret%20Chabane
   - 3:37 - начало мелодии #9 -> 12 сек мелодии #!C [4x8]
   - 4:49 - начало мелодии #C -> 12 сек мелодии #9 [4x8]
   - 4:00 - конец композиции -> 11 сек мелодии #!C [4x8]
+  
