@@ -50,7 +50,7 @@ Music:
 ======
 Просто Bourrée – тоже самое, что и Bourrée 2 temps
 
-## Bourrée 2 temps:
+### Bourrée 2 temps:
 - Accordzéâm – Bourraph (Bourrée 2 temps) 4:15
 - KV Express – Poedelkes Bourrée 3:41
 - Mervent – Bourrée 2 temps: Chabanet/Carree de Vouvray/Bourree mouergue 4:28
@@ -63,7 +63,7 @@ Music:
 - Trio TTK – Марлезонский буррет (Bourrée) 5:05 [vk.com/video-25749886_170696306](https://vk.com/video-25749886_170696306)
 - Игорь Юдинцев, Виктор Ливанов, Антон Зилле – Бурре на четверых (Bourrée) 2:15 [vk.com/video-25749886_162534468](http://vk.com/video-25749886_162534468)
 
-## Bourrée 3 temps:
+### Bourrée 3 temps:
 - Ar Re Yaouank – Bourée [3 temps?] 5:14
 - Les Danses Bretonnes – danse elia s (bourrée d'auvergne 3 temps) 7:28 [youtu.be/TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
 - Melomel – Fil et bobine suite (bourrées 3 temps) (2013 demo) 3:41
