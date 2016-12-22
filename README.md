@@ -21,13 +21,14 @@
 15. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
 16. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
 17. [La Veuze](https://www.youtube.com/watch?v=w9WhHwAog38). Можно танцевать под многие популярные мелодии на 4/4 c куплетами и припевом (или даже 2/4 тоже). Но из соображений аккуратного отношения к традициям такой новодел под нетрадиционную музыку лучше называть как-то по-другому, например "BretPop Acacia¹".
+18. [Chapelloise](https://www.youtube.com/watch?v=XwNRitt0AFo)
 
 ### И парные танцы в закрытой позиции:
 
- 18. [Schottische](https://www.youtube.com/watch?v=vwHZvw7jk94)¹  
- 19. [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0)¹  
- 20. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)¹  
- 21. [Polka (partner dance)](https://www.youtube.com/watch?v=sVnfVUWiBTU)¹. Ещё элементы: [libraryofdance.org/dances/polka](http://www.libraryofdance.org/dances/polka/)
+ 19. [Schottische](https://www.youtube.com/watch?v=vwHZvw7jk94)¹  
+ 20. [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0)¹  
+ 21. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)¹  
+ 22. [Polka (partner dance)](https://www.youtube.com/watch?v=sVnfVUWiBTU)¹. Ещё элементы: [libraryofdance.org/dances/polka](http://www.libraryofdance.org/dances/polka/)
 
 Описания танцев
 ===============
