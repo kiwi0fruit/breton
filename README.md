@@ -26,7 +26,7 @@
 
  18. [Schottische](https://www.youtube.com/watch?v=vwHZvw7jk94)¹  
  19. [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0)¹  
- 20. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)¹  
+ 20. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)¹  
  21. [Polka (partner dance)](https://www.youtube.com/watch?v=sVnfVUWiBTU)¹. Ещё элементы: [libraryofdance.org/dances/polka](http://www.libraryofdance.org/dances/polka/)
 
 Описания танцев
