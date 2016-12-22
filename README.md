@@ -6,18 +6,18 @@
 
 1. [Avant-deux de Bazouges](https://www.youtube.com/watch?v=Ncds8-FMaEI)
 2. [Avant-quatre du Tregor](https://www.youtube.com/watch?v=H5DNoZ2F3jw)
-3. [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)²
-4. [An dro](https://www.youtube.com/watch?v=p_i027FhnyA)
-5. [An dro retourne](https://www.youtube.com/watch?v=EUHjpInr1nA)
-6. [Cochinchine](https://vk.com/video-25749886_170748467)
-7. [Cercle Circassien](https://www.youtube.com/watch?v=JUIEfPi_SgY)
-8. [Danse keff](https://www.youtube.com/watch?v=B6qej91iYLc)
-9. [Kost Ar C'hoat](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
-10. [Бурре на четверых](https://vk.com/video-25749886_162534468)²
-11. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
-12. [Polka de Paimpol](https://vk.com/video39341115_456239021)
-13. [Celtic polka (mixer)](https://www.youtube.com/watch?v=Yi5kxzNWQmQ)¹
-14. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)²
+3. [An dro](https://www.youtube.com/watch?v=p_i027FhnyA)
+4. [An dro retourne](https://www.youtube.com/watch?v=EUHjpInr1nA)
+5. [Cochinchine](https://vk.com/video-25749886_170748467)
+6. [Cercle Circassien](https://www.youtube.com/watch?v=JUIEfPi_SgY)
+7. [Danse keff](https://www.youtube.com/watch?v=B6qej91iYLc)
+8. [Kost Ar C'hoat](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
+9. [Бурре на четверых](https://vk.com/video-25749886_162534468)²
+10. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
+11. [Polka de Paimpol](https://vk.com/video39341115_456239021)
+12. [Celtic polka (mixer)](https://www.youtube.com/watch?v=Yi5kxzNWQmQ)¹
+13. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)²
+14. [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)²
 15. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
 16. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
 17. [La Veuze](https://www.youtube.com/watch?v=w9WhHwAog38). Можно танцевать под многие популярные мелодии на 4/4 c куплетами и припевом (или даже 2/4 тоже). Но из соображений аккуратного отношения к традициям такой новодел под нетрадиционную музыку лучше называть как-то по-другому, например "BretPop Acacia¹".
@@ -26,7 +26,8 @@
 
  18. [Schottische](https://www.youtube.com/watch?v=vwHZvw7jk94)¹  
  19. [Celtic polka](https://www.youtube.com/watch?v=Z904QR1uSD0)¹  
- 20. [Polka (partner dance)](https://www.youtube.com/watch?v=sVnfVUWiBTU)¹. Ещё элементы: [libraryofdance.org/dances/polka](http://www.libraryofdance.org/dances/polka/)
+ 20. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)¹  
+ 21. [Polka (partner dance)](https://www.youtube.com/watch?v=sVnfVUWiBTU)¹. Ещё элементы: [libraryofdance.org/dances/polka](http://www.libraryofdance.org/dances/polka/)
 
 Описания танцев
 ===============
