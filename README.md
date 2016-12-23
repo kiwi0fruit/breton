@@ -50,7 +50,7 @@
 \- [Kost ar c'hoat (Gavotte 4-5) (Костархот, костарват, кастарват)](kost-ar-c-hoat.md)  
 \- [La Veuze (Ля Вуз)](la-veuze.md)\*  
 \- [Pach pi (Пашпи)](pach-pi.md)  
-\- ¹[Polka (Полька)](polka.md)\*  
+\- ¹[Polka (Полька, Полуимпровизационная полька пи́ки)](polka.md)\*  
 \- ¹[Polka piquée (Полька пи́ки)](polka-piquee.md)  
 \- ¹[Polka Plinn (Полька Плин)](polka-plinn.md)  
 \- ¹[Scottish / Schottische (Скоти́ш / Шотиш)](schottische.md)  
