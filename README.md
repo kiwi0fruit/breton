@@ -35,30 +35,30 @@
 \- [Avant-deux de Bazouges (Аван-дё де Базуж)](avant-deux-de-bazouges.md)  
 \- [Avant-quatre du Tregor / Avant-deux du Tregor (Аван-кятр дю Трегор / Аван-дё дю Трегор)](avant-quatre-du-tregor.md)  
 \- [An dro nevez (Новое андро)](an-dro-nevez.md)  
-\- [An dro mod kozh (Tour) (Старое андро, Тур)](tour-an-dro-mod-kozh.md)  
+\- [An dro mod kozh / Tour (Старое андро / Тур)](tour-an-dro-mod-kozh.md)  
 \- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
-\- [An dro Retourné (Chañj Tu, Андро Ретурни́)](an-dro-retourne.md)  
-\- ²[Bourrée 2 temps, Bourrée 3 temps (Бурре на 2 счёта, Бурре на 3 счёта, Бретонское бурре)](bourree.md)\*  
+\- [An dro Retourné (Андро Ретурни́)](an-dro-retourne.md)  
+\- ²[Bourrée 2 temps (Бурре на 2 счёта), Bourrée 3 temps (Бурре на 3 счёта), Бретонское бурре](bourree.md)\*  
 \- ¹[BretPop Acacia](bretpop.md)  
-\- [Cercle Circassien (Сёркль Сиркасьён, Черкесский круг)](cercle-circassien.md)  
+\- [Cercle Circassien (Сёркль Сиркасьён / Черкесский круг)](cercle-circassien.md)  
 \- [Chapelloise (Шапелуаз)](chapelloise.md)  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
 \- [Galop Nantais (Нантский галоп)](galop-nantais.md)  
 \- [Hanter dro (Антердро)](hanter-dro.md)  
 \- [Kejaj (Кежаж)](kejaj.md)  
 \- [Klamm (Клам)](klamm.md)  
-\- [Kost ar c'hoat (Gavotte 4-5) (Костархот, костарват, кастарват)](kost-ar-c-hoat.md)  
+\- [Kost ar c'hoat (Костархот / кастарват)](kost-ar-c-hoat.md)  
 \- [La Veuze (Ля Вуз)](la-veuze.md)\*  
 \- [Pach pi (Пашпи)](pach-pi.md)  
-\- ¹[Polka (Полька, Полуимпровизационная полька пи́ки)](polka.md)\*  
+\- ¹[Polka (Полька), Полуимпровизационная полька пи́ки](polka.md)\*  
 \- ¹[Polka piquée (Полька пи́ки)](polka-piquee.md)  
 \- ¹[Polka Plinn (Полька Плин)](polka-plinn.md)  
 \- ¹[Scottish / Schottische (Скоти́ш / Шотиш)](schottische.md)  
 \- [Scottish impaire (Скоти́ш ампэ́, т.е. нечётный)](scottish-impaire.md)  
-\- [Suite Keff (Dans Keff + Bal Keff) (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
+\- [Suite Keff: Dans Keff + Bal Keff (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
 \- [Trikot (Трикот)](trikot.md)  
 
-\- [Music for consideration / How to music (Музыка на заметку)](music.md)  
+\- [Music for consideration (Музыка на заметку), How to music](music.md)  
 \- ³[Rock and roll (Рок-н-ролл)](rock-and-roll.md)
 
 ## Примечания:
