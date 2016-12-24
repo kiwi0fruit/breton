@@ -3,6 +3,8 @@ Bourrée St. Patrick (Бурре Святого Патрика)
 
 Music:
 =======
+- Два пенни для леприкона – Gwin at Hallowed 1:49
+- Reelroad – La sanconette 3:48
 
 Video:
 ======
