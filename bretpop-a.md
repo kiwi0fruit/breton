@@ -11,6 +11,8 @@ Bretpop Acacia (An dro), Бретпоп Акация (Андро)
 
 Подпрыгиваем мы, в итоге, на каждый счёт. Прыгать так нужно до окончания припева.
 
+Если музыка слишеом быстрая, то руками можно делать как в [пашпи](pach-pi.md).
+
 Немного про La Veuze:
 ====================
 [Схема](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Fveuze.html&sandbox=1). [Оригинал на французском](http://dansesbretonnes.gwalarn.org/danses/veuze.html).
