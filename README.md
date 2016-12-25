@@ -44,6 +44,7 @@
 \- [Cercle Circassien (Сёркль Сиркасьён / Черкесский круг)](cercle-circassien.md)  
 \- [Chapelloise (Шапелуаз)](chapelloise.md)  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
+\- ³[Doudlebská polka (simplified semi-improvisational remix), Дудлебская полька (упрощённый полуимпровизационный ремикс)](doudlebska-polka-remix.md)\*  
 \- ¹[Galop Nantais (Нантский галоп)](galop-nantais.md)  
 \- [Hanter dro (Антердро)](hanter-dro.md)  
 \- [Kejaj (Кежаж)](kejaj.md)  
@@ -52,7 +53,7 @@
 \- [Pach pi (Пашпи)](pach-pi.md)  
 \- ¹[Polka (Полька)](polka.md)\*  
 \- ¹[Polka piquée (Полька пи́ки)](polka-piquee.md)  
-\- ³[Polka piquée (semi-improvisée remix), Полька пи́ки (полуимпровизационный ремикс)](polka-piquee-semi-improvisee.md)  
+\- ³[Polka piquée (semi-improvisational remix), Полька пи́ки (полуимпровизационный ремикс)](polka-piquee-remix.md)  
 \- ¹[Polka Plinn (Полька Плин)](polka-plinn.md)  
 \- ¹[Scottish / Schottische (Скоти́ш / Шотиш)](schottische.md)  
 \- [Scottish impaire (Скоти́ш ампэ́, т.е. нечётный)](scottish-impaire.md)  
