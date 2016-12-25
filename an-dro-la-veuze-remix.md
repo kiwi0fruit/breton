@@ -1,4 +1,4 @@
-An dro (La Veuze remix par kiwi0fruit), Андро (Ля Вуз remix by kiwi0fruit)
+An dro (La Veuze remix), Андро (Ля Вуз ремикс)
 =================
 Этот танец - новодел, причём мой.
 
