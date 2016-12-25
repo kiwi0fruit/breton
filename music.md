@@ -1,6 +1,10 @@
 Music for consideration (Музыка на заметку)
 =================
-- VAG – Zelda (Mixer) 4:14 // Цикл 4x8+4x8
+## 2/4:
+- Clann Lir – Hug Air A' Bhonaid Mhoir 5:15 [2/4?]
+
+## Не считал размер:
+- VAG – Zelda (Mixer) 4:14 [Цикл 4x8+4x8]
 
 How to music
 ============
@@ -8,7 +12,7 @@ Link in the format of [http://vk.com/search?c%5Bq%5D=Mervent%20Bourret%20Chabane
 
 Анализ музыки:
 ==============
-## Polka:
+## Polka?
 - **Fiddler's Green – Girls Along The Road** 3:38.
 - **Fiddler's Green – Donkey Riding** 2:09.
 - **Fiddler's Green – Lannigan's Ball** 3:15.
