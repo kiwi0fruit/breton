@@ -40,7 +40,7 @@
 \- [An dro Retourné (Андро Ретурни́)](an-dro-retourne.md)  
 \- ²[Bourrée 2 temps (Бурре на 2 счёта), Bourrée 3 temps (Бурре на 3 счёта), Бретонское бурре](bourree.md)\*  
 \- ¹[Bourrée St. Patrick (Бурре Святого Патрика)](bourree-st-patrick.md)  
-\- ¹[BretPop Acacia](bretpop.md)  
+\- ¹[Bretpop: (An dro) Acacia, Бретпоп: (Андро) Акация](bretpop-a.md)  
 \- [Cercle Circassien (Сёркль Сиркасьён / Черкесский круг)](cercle-circassien.md)  
 \- [Chapelloise (Шапелуаз)](chapelloise.md)  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
@@ -49,7 +49,6 @@
 \- [Kejaj (Кежаж)](kejaj.md)  
 \- [Klamm (Клам)](klamm.md)  
 \- [Kost ar c'hoat (Костархот / кастарват)](kost-ar-c-hoat.md)  
-\- [La Veuze (Ля Вуз)](la-veuze.md)\*  
 \- [Pach pi (Пашпи)](pach-pi.md)  
 \- ¹[Polka (Полька), Полуимпровизационная полька пи́ки](polka.md)\*  
 \- ¹[Polka piquée (Полька пи́ки)](polka-piquee.md)  
