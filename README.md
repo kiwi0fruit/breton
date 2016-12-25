@@ -36,7 +36,7 @@
 \- [An dro mod kozh / Tour (Старое андро / Тур)](tour-an-dro-mod-kozh.md)  
 \- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
 \- [An dro Retourné (Андро Ретурни́)](an-dro-retourne.md)  
-\- ¹[An dro (La Veuze remix), Андро (Ля Вуз remix)](an-dro-la-veuze-remix.md)  
+\- ³[An dro (La Veuze remix), Андро (Ля Вуз ремикс)](an-dro-la-veuze-remix.md)  
 \- ²[Bourrée 2 temps (Бурре на 2 счёта)](bourree.md)  
 \- ²[Bourrée 3 temps (Бурре на 3 счёта)](bourree-3-temps.md)\*  
 \- ¹[Bourrée St. Patrick (Бурре Святого Патрика)](bourree-st-patrick.md)  
@@ -52,7 +52,7 @@
 \- [Pach pi (Пашпи)](pach-pi.md)  
 \- ¹[Polka (Полька)](polka.md)\*  
 \- ¹[Polka piquée (Полька пи́ки)](polka-piquee.md)  
-\- ¹[Polka piquée semi-improvisée (Полуимпровизационная полька пи́ки)](polka-piquee-semi-improvisee.md)  
+\- ³[Polka piquée (semi-improvisée remix), Полька пи́ки (полуимпровизационный ремикс)](polka-piquee-semi-improvisee.md)  
 \- ¹[Polka Plinn (Полька Плин)](polka-plinn.md)  
 \- ¹[Scottish / Schottische (Скоти́ш / Шотиш)](schottische.md)  
 \- [Scottish impaire (Скоти́ш ампэ́, т.е. нечётный)](scottish-impaire.md)  
@@ -60,13 +60,14 @@
 \- [Trikot (Трикот)](trikot.md)  
 
 \- [Music for consideration (Музыка на заметку), How to music](music.md)  
-\- ³[Rock and roll (Рок-н-ролл)](rock-and-roll.md)
+\- ⁴[Rock and roll (Рок-н-ролл)](rock-and-roll.md)
 
 ### Примечания:
 __\*__ недоделанные описания.  
 __¹__ небретонские танцы, в основном французские или кельтские.  
 __²__ бурре - французские танцы из Ове́рни.  
-__³__ рок-н-ролл здесь в репозитории бретонских танцев и балфолка вообще не в тему, но мне было лень создавать отдельный репозиторий.
+__³__ remixes by kiwi0fruit.
+__⁴__ рок-н-ролл здесь в репозитории бретонских танцев и балфолка вообще не в тему, но мне было лень создавать отдельный репозиторий.
 
 Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org). Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы.
 
