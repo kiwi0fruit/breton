@@ -53,7 +53,7 @@
 \- [Pach pi (Пашпи)](pach-pi.md)  
 \- ¹[Polka (Полька)](polka.md)\*  
 \- ¹[Polka piquée (Полька пи́ки)](polka-piquee.md)  
-\- ³[Polka piquée (semi-improvisational remix), Полька пи́ки (полуимпровизационный ремикс)](polka-piquee-remix.md)  
+\- ³[Polka piquée (semi-improvisational remix), Полька пи́ки (полуимпровизационный ремикс)](polka-piquee-remix.md)  
 \- ¹[Polka Plinn (Полька Плин)](polka-plinn.md)  
 \- ¹[Scottish / Schottische (Скоти́ш / Шотиш)](schottische.md)  
 \- [Scottish impaire (Скоти́ш ампэ́, т.е. нечётный)](scottish-impaire.md)  
