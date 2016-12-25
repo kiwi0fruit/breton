@@ -50,7 +50,7 @@
 \- [Klamm (Клам)](klamm.md)  
 \- [Kost ar c'hoat (Костархот / кастарват)](kost-ar-c-hoat.md)  
 \- [Pach pi (Пашпи)](pach-pi.md)  
-\- ¹[Polka (Полька)](polka.md)\*  
+\- ¹[Polka (Полька)](polka.md)\*  
 \- ¹[Polka piquée (Полька пи́ки)](polka-piquee.md)  
 \- ¹[Polka piquée semi-improvisée (Полуимпровизационная полька пи́ки)](polka-piquee-semi-improvisee.md)  
 \- ¹[Polka Plinn (Полька Плин)](polka-plinn.md)  
