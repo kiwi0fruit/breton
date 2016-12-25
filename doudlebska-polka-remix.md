@@ -1,4 +1,4 @@
-Doudlebská polka (simplified semi-improvisational remix), Дудлебская полька (упрощённый полуимпровизационный ремикс)
+Doudlebská polka (impro remix), Дудлебская полька (импро ремикс)
 =====================
 ...
 
