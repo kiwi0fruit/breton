@@ -40,7 +40,7 @@
 \- ²[Bourrée 3 temps (Бурре на 3 счёта)](bourree-3-temps.md)\*  
 \- ¹[Bourrée St. Patrick (Бурре Святого Патрика)](bourree-st-patrick.md)  
 \- ²[Bourrée en russe («Бретонское» бурре)](bourree-en-russe.md)  
-\- ¹[Bretpop Acacia (An dro), Бретпоп Акация (Андро)](bretpop-a.md)  
+\- ¹[Bretpop: An dro Acacia (Бретпоп: Андро Акация)](bretpop-an-dro-acacia.md)  
 \- [Cercle Circassien (Сёркль Сиркасьён / Черкесский круг)](cercle-circassien.md)  
 \- [Chapelloise (Шапелуаз)](chapelloise.md)  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
