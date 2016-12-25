@@ -36,9 +36,10 @@
 \- [An dro mod kozh / Tour (Старое андро / Тур)](tour-an-dro-mod-kozh.md)  
 \- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
 \- [An dro Retourné (Андро Ретурни́)](an-dro-retourne.md)  
-\- ²[Bourrée 2 temps (Бурре на 2 счёта), Bourrée 3 temps (Бурре на 3 счёта)](bourree.md)\*  
+\- ²[Bourrée 2 temps (Бурре на 2 счёта)](bourree.md)  
+\- ²[Bourrée 3 temps (Бурре на 3 счёта)](bourree.md)\*  
 \- ¹[Bourrée St. Patrick (Бурре Святого Патрика)](bourree-st-patrick.md)  
-\- ²[Bourrée en russe («Бретонское» бурре)](bourree-russian.md)\*  
+\- ²[Bourrée en russe («Бретонское» бурре)](bourree-en-russe.md)  
 \- ¹[Bretpop Acacia (An dro), Бретпоп Акация (Андро)](bretpop-a.md)  
 \- [Cercle Circassien (Сёркль Сиркасьён / Черкесский круг)](cercle-circassien.md)  
 \- [Chapelloise (Шапелуаз)](chapelloise.md)  
