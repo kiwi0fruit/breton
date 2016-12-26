@@ -36,7 +36,7 @@
 \- [An dro mod kozh / Tour (Старое андро / Тур)](tour-an-dro-mod-kozh.md)  
 \- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
 \- [An dro Retourné (Андро Ретурни́)](an-dro-retourne.md)  
-\- ³[An dro (La Veuze remix), Андро (Ля Вуз ремикс)](an-dro-la-veuze-remix.md)  
+\- ³[An dro (La Veuze remix) [Андро (Ля Вуз ремикс)]](an-dro-la-veuze-remix.md)  
 \- ²[Bourrée 2 temps (Бурре на 2 счёта)](bourree.md)  
 \- ²[Bourrée 3 temps (Бурре на 3 счёта)](bourree-3-temps.md)\*  
 \- ¹[Bourrée St. Patrick (Бурре Святого Патрика)](bourree-st-patrick.md)  
@@ -53,8 +53,8 @@
 \- ¹[Polka (Полька)](polka.md)\*  
 \- ¹[Polka piquée (Полька пи́ки)](polka-piquee.md)  
 \- ¹[Polka Plinn (Полька Плин)](polka-plinn.md)  
-\- ³[Polka mixer-impro (Circassien mixer), Полька миксер + импровизация (Черкесский миксер)](polka-mixer-impro-circassien.md)\*  
-\- ³[Polka mixer-impro (Doudlebská mixer), Полька миксер + импровизация (Дудлебский миксер)](polka-mixer-impro-doudlebska.md)\*  
+\- ³[Polka mixer-impro (Circassien mixer) [Полька миксер-импро (Черкесский миксер)]](polka-mixer-impro-circassien.md)\*  
+\- ³[Polka mixer-impro (Doudlebská mixer) [Полька миксер-импро (Дудлебский миксер)]](polka-mixer-impro-doudlebska.md)\*  
 \- ¹[Scottish / Schottische (Скоти́ш / Шотиш)](schottische.md)  
 \- [Scottish impaire (Скоти́ш ампэ́, т.е. нечётный)](scottish-impaire.md)  
 \- [Suite Keff: Dans Keff + Bal Keff (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
