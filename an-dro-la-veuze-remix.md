@@ -13,6 +13,10 @@ An dro (La Veuze remix), Андро (Ля Вуз ремикс)
 
 Если музыка слишком быстрая, то руками можно делать как в [пашпи](pach-pi.md).
 
+Music:
+======
+Любые мелодии с тактовым размером 4/4, в которых есть легко выделяемые куплеты и припев.
+
 Немного про La Veuze:
 ====================
 [Схема](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Fveuze.html&sandbox=1). [Оригинал на французском](http://dansesbretonnes.gwalarn.org/danses/veuze.html).
