@@ -27,6 +27,7 @@ Polka mixer-impro (Полька миксер-импро)
 
 __Video__:
 
+- [youtu.be/Ytqfp5QVOnQ](https://www.youtube.com/watch?v=Ytqfp5QVOnQ)
 - [youtu.be/Y9gmBrAwtPo](https://www.youtube.com/watch?v=Y9gmBrAwtPo)
 - [youtu.be/vffEuIGNsiQ](https://www.youtube.com/watch?v=vffEuIGNsiQ)
 
