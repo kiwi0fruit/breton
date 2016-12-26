@@ -1,6 +1,6 @@
-Doudlebská polka (impro remix), Дудлебская полька (импро ремикс)
+Polka semi-impro (Doudlebská mixer), Полуимпровизационная полька (Дудлебский миксер)
 =====================
-...
+polka-semi-impro-doudlebska-mixer.md
 
 Music:
 ======
