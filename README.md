@@ -17,7 +17,7 @@
 11. [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)²
 12. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
 13. [Polka de Paimpol](https://vk.com/video39341115_456239021)
-14. [Celtic mixer dance](https://www.youtube.com/watch?v=Yi5kxzNWQmQ)¹
+14. [Celtic mixer dance](https://www.youtube.com/watch?v=Yi5kxzNWQmQ)³
 15. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
 16. [Chapelloise](https://www.youtube.com/watch?v=XwNRitt0AFo)
 
@@ -26,32 +26,32 @@
 1. [Schottische](https://www.youtube.com/watch?v=vwHZvw7jk94)¹
 2. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)¹
 3. [Polka](https://youtu.be/sVnfVUWiBTU?t=20)¹. Ещё элементы: [libraryofdance.org/dances/polka](http://www.libraryofdance.org/dances/polka/)
-4. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
+4. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)²
 
 Описания танцев
 ===============
 \- [Avant-deux de Bazouges (Аван-дё де Базуж)](avant-deux-de-bazouges.md)  
 \- [Avant-quatre du Tregor / Avant-deux du Tregor (Аван-кятр дю Трегор / Аван-дё дю Трегор)](avant-quatre-du-tregor.md)  
 \- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
-\- ³[An dro - La Veuze remix (Андро - Ля Вуз ремикс)](an-dro-la-veuze-remix.md)  
+\- ⁴[An dro - La Veuze remix (Андро - Ля Вуз ремикс)](an-dro-la-veuze-remix.md)  
 \- [An dro mod kozh / Tour (Старое андро / Тур)](tour-an-dro-mod-kozh.md)  
 \- [An dro nevez (Новое андро)](an-dro-nevez.md)  
 \- [An dro Retourné (Андро Ретурни́)](an-dro-retourne.md)  
 \- ²[Bourrée 2 temps (Бурре на 2 счёта)](bourree.md)  
 \- ²[Bourrée 3 temps (Бурре на 3 счёта)](bourree-3-temps.md)\*  
 \- ²[Bourrée en russe («Бретонское» бурре)](bourree-en-russe.md)  
-\- ¹[Bourrée St. Patrick (Бурре Святого Патрика)](bourree-st-patrick.md)  
+\- ³[Bourrée St. Patrick (Бурре Святого Патрика)](bourree-st-patrick.md)  
 \- [Cercle Circassien (Сёркль Сиркасьён / Черкесский круг)](cercle-circassien.md)  
 \- [Chapelloise (Шапелуаз)](chapelloise.md)  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
-\- ¹[Galop Nantais (Нантский галоп)](galop-nantais.md)  
+\- ²[Galop Nantais (Нантский галоп)](galop-nantais.md)  
 \- [Hanter dro (Антердро)](hanter-dro.md)  
 \- [Kejaj (Кежаж)](kejaj.md)  
 \- [Klamm (Клам)](klamm.md)  
 \- [Kost ar c'hoat (Костархот / кастарват)](kost-ar-c-hoat.md)  
 \- [Pach pi (Пашпи)](pach-pi.md)  
 \- ¹[Polka (Полька)](polka.md)\*  
-\- ³[Polka mixer-impro (Полька миксер-импро)](polka-mixer-impro.md)  
+\- ⁴[Polka mixer-impro (Полька миксер-импро)](polka-mixer-impro.md)  
 \- ¹[Polka piquée (Полька пи́ки)](polka-piquee.md)  
 \- ¹[Polka Plinn (Полька Плин)](polka-plinn.md)  
 \- ¹[Scottish / Schottische (Скоти́ш / Шотиш)](schottische.md)  
@@ -60,14 +60,15 @@
 \- [Trikot (Трикот)](trikot.md)  
 
 \- [Music for consideration (Музыка на заметку), How to music](music.md)  
-\- ⁴[Rock and roll (Рок-н-ролл)](rock-and-roll.md)
+\- ⁵[Rock and roll (Рок-н-ролл)](rock-and-roll.md)
 
 ### Примечания:
 __\*__ недоделанные описания.  
-__¹__ небретонские танцы, в основном французские или кельтские.  
-__²__ бурре - французские танцы из Ове́рни.  
-__³__ remixes by kiwi0fruit.  
-__⁴__ рок-н-ролл здесь в репозитории бретонских танцев и балфолка вообще не в тему, но мне было лень создавать отдельный репозиторий.
+__¹__ небретонские танцы: французские, кельтские или европейские.  
+__²__ французские танцы.  
+__³__ кельтские танцы.
+__⁴__ remixes by kiwi0fruit.  
+__⁵__ рок-н-ролл здесь в репозитории бретонских танцев и балфолка вообще не в тему, но мне было лень создавать отдельный репозиторий.
 
 Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org). Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы.
 
