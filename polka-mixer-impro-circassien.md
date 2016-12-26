@@ -1,6 +1,6 @@
-Polka semi-impro (Circassien mixer), Полуимпровизационная полька (Черкесский миксер)
+Polka mixer-impro (Circassien mixer), Полька миксер + импровизация (Черкесский миксер)
 =====================
-polka-semi-impro-circassien-mixer.md
+...
 
 Music:
 ======
