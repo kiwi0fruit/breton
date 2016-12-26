@@ -16,7 +16,7 @@ _Замечание_: как основной шаг, так и полечное
 - [Лицом к лицу](https://www.youtube.com/watch?v=TcAZLbb4neQ) (с отпусканием половины рук)
 - [Одинарное вращение под рукой](https://www.youtube.com/watch?v=no3etzfuFVU)
 - [Двойное вращение под рукой](https://www.youtube.com/watch?v=FA4fdIdbu3I)
-- [Вращение в паре вокруг общей оси на месте](https://www.youtube.com/watch?v=-XWWu18SzKc) (+ вращение под рукой)
+- [Вращение в паре вокруг общей оси на месте](https://www.youtube.com/watch?v=-XWWu18SzKc) (+ вращение под рукой). На [следующем видео](https://www.youtube.com/watch?v=WxP_os4oMSw) бородатый, похоже, использует то же вращение.
 - [Полька в обратную сторону](https://www.youtube.com/watch?v=4u9JS6lLq6Y)
 
 Ну и просто на глаза попалось видео: [Polka Corner Turn and Lady's Turns](https://www.youtube.com/watch?v=JIERyEVNtCs).
