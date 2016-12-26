@@ -11,6 +11,7 @@ Video:
 - _Пример танца + интересная музыка_: danse elia s (bourrée d'auvergne 3 temps) [youtu.be/TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
 - Le pas de bourrée à 3 temps (Bernard Coclet) [youtu.be/uD7XTxLylmU](https://www.youtube.com/watch?v=uD7XTxLylmU)
 - Pas de Bourrée par Bernard Coclet (3 temps, 2 temps) [youtu.be/YthmdiLPB5U](https://www.youtube.com/watch?v=YthmdiLPB5U)
+- Обучающие видео: [youtu.be/i_-vc8ddlHY](https://www.youtube.com/watch?v=i_-vc8ddlHY), [youtu.be/A186jBMs6sE](https://www.youtube.com/watch?v=A186jBMs6sE)
 
 Music:
 ======
