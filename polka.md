@@ -19,7 +19,7 @@ _Замечание_: как основной шаг, так и полечное
 - [Вращение в паре вокруг общей оси на месте](https://www.youtube.com/watch?v=-XWWu18SzKc) (+ вращение под рукой). На [следующем видео](https://www.youtube.com/watch?v=WxP_os4oMSw) бородатый, похоже, использует то же вращение.
 - [Полька в обратную сторону](https://www.youtube.com/watch?v=4u9JS6lLq6Y)
 
-Ну и просто на глаза попалось видео: [Polka Corner Turn and Lady's Turns](https://www.youtube.com/watch?v=JIERyEVNtCs).
+Ну и просто на глаза попались видео: [youtu.be/JIERyEVNtCs](https://www.youtube.com/watch?v=JIERyEVNtCs), [youtu.be/at782bhv22I](https://www.youtube.com/watch?v=at782bhv22I).
 
 Переходы: [youtu.be/vMi8e_CV2yU](https://www.youtube.com/watch?v=vMi8e_CV2yU), [youtu.be/EniLak9Ev0Q](https://www.youtube.com/watch?v=EniLak9Ev0Q).
 
