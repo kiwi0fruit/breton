@@ -43,6 +43,10 @@ Video:
 - Le pas de bourrée à 2 temps (Bernard Coclet) [youtu.be/0lN6jjY7RqU](https://www.youtube.com/watch?v=0lN6jjY7RqU)
 - Pas de Bourrée par Bernard Coclet (3 temps, 2 temps) [youtu.be/YthmdiLPB5U](https://www.youtube.com/watch?v=YthmdiLPB5U)
 
+.
+
+- Третий вид шага: [youtu.be/yDCbfE0p3_Q](https://www.youtube.com/watch?v=yDCbfE0p3_Q)
+
 Music:
 ======
 Просто Bourrée – тоже самое, что и Bourrée 2 temps
