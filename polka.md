@@ -10,12 +10,12 @@ _Замечание_: как основной шаг, так и полечное
 ### Другие элементы непрерывного движения вперёд
 Отличная подборка видео элементов польки сделана Library of Dance на их [канале на Youtube](https://www.youtube.com/channel/UCXxfZG671bWCeOWj6Z_8IHA). А вот [навигация по этой подборке](http://www.libraryofdance.org/dances/polka/). Там показаны следующие элементы:
 
-- [Базовой поворот](https://www.youtube.com/watch?v=gy1qQ4GChVc) (полечное вращение)
-- [Променады](https://www.youtube.com/watch?v=v_tR53SI6Cg) (движение вперед)
-- [Преследование](https://www.youtube.com/watch?v=JFcz35iQnWU) (с чередованием боков)
-- [Лицом к лицу](https://www.youtube.com/watch?v=TcAZLbb4neQ) (с отпусканием половины рук)
-- [Одинарное вращение под рукой](https://www.youtube.com/watch?v=no3etzfuFVU)
-- [Двойное вращение под рукой](https://www.youtube.com/watch?v=FA4fdIdbu3I)
+- [Turning Basic (Базовой шаг с поворотами)](https://www.youtube.com/watch?v=gy1qQ4GChVc): полечное вращение.
+- [Promenade (Променады)](https://www.youtube.com/watch?v=v_tR53SI6Cg): оба движутся вперед лицом, держатся только за талию и плечо.
+- [Pursuit (Преследование)](https://www.youtube.com/watch?v=JFcz35iQnWU): кавалер вперед лицом, дама вперед спиной. Кавалер ведет то левой половиной, то правой (и ногами и рукой) так, что получаются как бы покачивания во время движения.
+- [Vis á Vis (Лицом к лицу)](https://www.youtube.com/watch?v=TcAZLbb4neQ): в начале перехватываются так, чтобы держаться только за кисти рук, двигаются вбок - в это время полечный трёхшаг с внешних ног. Когда делается трёхшаг с внутренних ног, то отпускаются передние руки, а задние выносятся вперед так, что партнёры разворачиваются спиной друг к другу.
+- [Underarm Turn (Вращение под рукой)](https://www.youtube.com/watch?v=no3etzfuFVU): один оборот дамы по часовой стрелке на полечных шагах во время движения по линии танца.
+- [Double Underarm Turn (Двойное вращение под рукой)](https://www.youtube.com/watch?v=FA4fdIdbu3I): два оборота дамы по часовой стрелке на _pivot_'ах (наверное, оно так называется) во время движения по линии танца.
 - [Вращение в паре вокруг общей оси на месте](https://www.youtube.com/watch?v=-XWWu18SzKc) (+ вращение под рукой). На [следующем видео](https://www.youtube.com/watch?v=WxP_os4oMSw) бородатый, похоже, использует то же вращение.
 - [Полька в обратную сторону](https://www.youtube.com/watch?v=4u9JS6lLq6Y)
 
