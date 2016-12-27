@@ -15,7 +15,7 @@
 - **[на 25-28]:** Кавалеры идут вперед с левой ноги как в **[на 1-4]** (также машут руками), но на счёт 4 делают не просто хоп, а хоп с разворотом на 180 градусов. Дамы в это время хлопают в ладоши в такт музыке.
 - **[на 29-32]:** [двойной, вперед с правой ноги, поднятый](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fdouble_avant_droit_pied_leve.html)  
   Кавалеры идут вперед к даме, которая справа (когда стояли в кругу, она была слева от кавалера). На счёт 1-2-3-4 шагают вперед правой-левой-правой-мах-левой. Руками, наверно, можно не махать, ибо легко сбиться после разворота.
-- **[на 33-48]:** [шаг Patinette](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_patinette.html)  
+- **[на 33-48]:** __Вращение самокатом__: [шаг Patinette](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_patinette.html)  
   Кавалер берет даму: правая рука кавалера на талии дамы, левая рука кавалера держит правую руку дамы на расстоянии от туловища, дама кладёт левую руку на правое плечо кавалера. За 16 счётов происходит вращение. Как происходит вращение смотрите по [ссылке](https://translate.google.ru/translate?hl=en&sl=fr&tl=ru&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fbases%2Fpas_de_patinette.html), или угадайте по картинкам (чёрным показано где находится вес тела):
 
 **[исходное положение]:**  
