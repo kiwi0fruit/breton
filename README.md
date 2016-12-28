@@ -53,7 +53,7 @@
 \- ¹[Polka (Полька)](polka.md)\*  
 \- ⁴[Polka mixer-impro (Полька миксер-импро)](polka-mixer-impro.md)  
 \- ¹[Polka piquée (Полька пи́ки)](polka-piquee.md)  
-\- ¹[Polka Plinn (Полька Плин)](polka-plinn.md)  
+\- [Polka Plinn (Полька Плин)](polka-plinn.md)  
 \- ¹[Scottish / Schottische (Скоти́ш / Шотиш)](schottische.md)  
 \- [Scottish impaire (Скоти́ш ампэ́, т.е. нечётный)](scottish-impaire.md)  
 \- [Suite Keff: Dans Keff + Bal Keff (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
