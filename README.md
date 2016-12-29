@@ -60,8 +60,9 @@
 \- [Suite Keff: Dans Keff + Bal Keff (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
 \- [Trikot (Трикот)](trikot.md)  
 
+\- ⁴[Alien experiment #1: An-dro-like (Элиэн экспэ́римент №1: типа-андро)](alien-experiment-1-an-dro-like.md)  
+\- ⁵[Rock and roll (Рок-н-ролл)](rock-and-roll.md)  
 \- [Music for consideration (Музыка на заметку), How to music](music.md)  
-\- ⁵[Rock and roll (Рок-н-ролл)](rock-and-roll.md)
 
 ### Примечания:
 __\*__ недоделанные описания.  
