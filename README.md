@@ -48,7 +48,7 @@
 \- [Kejaj (Кежаж)](kejaj.md)  
 \- [Klamm (Клам)](klamm.md)  
 \- [Kost ar c'hoat (Костархот / кастарват)](kost-ar-c-hoat.md)  
-\- [Mazurka](Мазурка)\*  
+\- [Mazurka (Мазурка)](mazurka.md)\*  
 \- [Pach pi (Пашпи)](pach-pi.md)  
 \- ¹[Polka (Полька)](polka.md)\*  
 \- ⁴[Polka mixer-impro (Полька миксер-импро)](polka-mixer-impro.md)  
