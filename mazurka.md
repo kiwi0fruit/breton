@@ -12,7 +12,7 @@ Video:
 
 ### Бретонская мазурка:
 - Видеоурок (бретонской мазурки?): [youtu.be/SOMAKkDINZU](https://www.youtube.com/watch?v=SOMAKkDINZU)
-- Мазурка на Fest Noz в Бретани: [youtu.be/BM8_lH1OiBA?t=80](https://youtu.be/BM8_lH1OiBA?t=80)
+- Мазурка на Fest Noz в Бретани: [youtu.be/BM8_lH1OiBA](https://youtu.be/BM8_lH1OiBA?t=80) и [youtu.be/N_CMgmKl1Q4](https://youtu.be/N_CMgmKl1Q4?t=34)
 - Бретонская мазурка (Mazurka à Monterfil): [youtu.be/aBmPLklCZuc](https://www.youtube.com/watch?v=aBmPLklCZuc)
 
 Music:
