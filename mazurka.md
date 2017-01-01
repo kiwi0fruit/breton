@@ -1,17 +1,16 @@
 Mazurka (Мазурка)
 =================
-...  
-Перевести счёт из видеоурока можно как: ма-зур-ка (шаг, шаг, пауза - он же не перенос веса) и топ-топ-топ (шаг-шаг-шаг).
+Перевести счёт из видеоурока можно как: ма-зур-ка (шаг, шаг, пауза - он же не перенос веса - с чередованием ног) и топ-топ-топ (шаг-шаг-шаг с чередованием ног). На счёт "ка" происходит либо пауза, либо небольшой пронос ноги без переноса веса на неё (потом можно снова шагать с неё). Либо даже подскок на той же ноге, которой шагали "зур" - если музыка быстрая.
 
 Video:
 ======
 ### Французская мазурка:
+- Видеоурок (французской мазурки?): [youtu.be/SOMAKkDINZU](https://www.youtube.com/watch?v=SOMAKkDINZU)
 - Pierre Chesneau e Minga #1: [youtu.be/vEDn9frcy08](https://www.youtube.com/watch?v=vEDn9frcy08)
 - Pierre Chesneau e Minga #2: [youtu.be/vTj6wwWyEro](https://www.youtube.com/watch?v=vTj6wwWyEro)
 - Pierre Chesneau & Minga, Koen & Julie: [youtu.be/GqrPlBoTqdk](https://www.youtube.com/watch?v=GqrPlBoTqdk)
 
 ### Бретонская мазурка:
-- Видеоурок (бретонской мазурки?): [youtu.be/SOMAKkDINZU](https://www.youtube.com/watch?v=SOMAKkDINZU)
 - Мазурка на Fest Noz в Бретани: [youtu.be/BM8_lH1OiBA](https://youtu.be/BM8_lH1OiBA?t=80) и [youtu.be/N_CMgmKl1Q4](https://youtu.be/N_CMgmKl1Q4?t=34)
 - Бретонская мазурка (Mazurka à Monterfil): [youtu.be/aBmPLklCZuc](https://www.youtube.com/watch?v=aBmPLklCZuc)
 
