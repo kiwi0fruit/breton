@@ -13,9 +13,12 @@ Video:
 
 Music:
 ======
+### I recommend:
 - Accordzéâm – Des Hauts Débats (Mazurka-Valse) 6:00
 - Brotto Lopez – La Candèla (Mazurka) 4:56
 - Fol&ar – 21 Gramas (Mazurka klandestina) 5:10
-- Le Sextet à Claques – Derniers Sourires (Mazurka) 3:41
 - Spakkabrianza – Ke Noja (Mazurka) 6:49
 - Zayendo – Mazurk'afro (Mazurka) 4:32
+
+### Other:
+- Le Sextet à Claques – Derniers Sourires (Mazurka) 3:41
