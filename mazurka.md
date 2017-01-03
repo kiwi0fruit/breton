@@ -10,6 +10,14 @@ without wt. Or opp ftwk. In tango mazurka, the bounce is almost imperceptible.
 
 Правда, bounce может быть и подскок... Но для медленных и "чувственных" мелодий больше подходит пауза или пружинить, нежели подскок. Там же в файле есть еще интересные моменты.
 
+[Здесь](http://www.libraryofdance.org/dances/mazurka-clandestina/) же некоторые элементы записаны на видео.
+
+Мне нравится стиль Pierre Chesneau. Он похож на танго меньше, чем некоторые другие. При этом танцует на расстоянии от дамы, что позволяет держать "рамку" и даёт возможность танцевать динамично. И упор в танце делает на обыгрывании мелодии. Вот примечательный комментарий про его манеру танца:
+ 
+All dancers in a mazurka clandestina dance like this... also mixing in some contact, tango, bachata, free dancing always coming back to a more traditional mazurka, it is easy you just need to listen to the music and be open to your partner :)﻿
+
+Замечания по поводу ведения в описании [польки](polka.md) справедливы и для мазурки.
+
 ### Немного про терминологию:
 Тут в статье речь идёт про современную европейскую мазурку, популярную на балфолках (bal folk) и саму по себе. Название этой мазурки еще не устаканилось. [Здесь](http://www.socalfolkdance.com/dances/T/Tango_Mazurka-Mazurka_Clandestina.pdf) её называют _Contemporary french-flemish mazurka_, _Tango mazurka_ и _Mazurka Clandestina_. В основном, её называют просто мазуркой - все в курсе, что имеется в виду. Я буду называть её _современной мазуркой_.
 
@@ -20,7 +28,8 @@ Video:
 - Видеоурок: [youtu.be/SOMAKkDINZU](https://www.youtube.com/watch?v=SOMAKkDINZU)
 - Pierre Chesneau e Minga #1: [youtu.be/vEDn9frcy08](https://www.youtube.com/watch?v=vEDn9frcy08)
 - Pierre Chesneau e Minga #2: [youtu.be/vTj6wwWyEro](https://www.youtube.com/watch?v=vTj6wwWyEro)
-- Pierre Chesneau & Minga, Koen & Julie: [youtu.be/GqrPlBoTqdk](https://www.youtube.com/watch?v=GqrPlBoTqdk)
+- Pierre Chesneau & Minga, Koen & Julie #1: [youtu.be/GqrPlBoTqdk](https://www.youtube.com/watch?v=GqrPlBoTqdk)
+- Pierre Chesneau & Minga, Koen & Julie #2: [youtu.be/R6FteMBI5dc](https://www.youtube.com/watch?v=R6FteMBI5dc)
 
 Music:
 ======
