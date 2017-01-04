@@ -41,6 +41,7 @@ ___Скипчейнджы___ - это шаги, выполняющие ту же
 Music:
 ======
 - Danse McCabre - Cumberland Square Eight (The Helicopter) 4:29
+- Danse McCabre - Flying Scotsman 5:38 // ещё не пробовал, но должно быть норм.
 
 Video:
 ======
