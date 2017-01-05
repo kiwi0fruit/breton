@@ -1,4 +1,4 @@
-Cumberland Square Eight (The Helicopter) / Камбэлэнд сквэр эйт (Зэ хеликоптэ)
+Cèilidh: Cumberland Square Eight (The Helicopter) / Кейли: Площадь Камберленд 8 (Вертолёт)
 =======================
 ## Основные шаги
 
