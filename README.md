@@ -43,7 +43,7 @@
 \- ²[Cèilidh: Irish Jig from Russia (Кейли: ирландская джига из России)](ceilidh-irish-jig-from-russia.md)\*  
 \- [Chapelloise (Шапелуаз)](chapelloise.md)  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
-\- ³[Cumberland Square Eight / The Helicopter (Камбэлэнд сквэр эйт / Зэ хеликоптэ)](cumberland-square-eight.md)  
+\- ³[Cèilidh: Cumberland Square Eight / The Helicopter (Кейли: Площадь Камберленд 8 / Вертолёт)](ceilidh-cumberland-square-eight.md)  
 \- ¹[Galop Nantais (Нантский галоп)](galop-nantais.md)  
 \- [Hanter dro (Антердро)](hanter-dro.md)  
 \- [Kejaj (Кежаж)](kejaj.md)  
