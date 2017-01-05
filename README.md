@@ -12,21 +12,20 @@
 6. [Cercle Circassien](https://www.youtube.com/watch?v=JUIEfPi_SgY)
 7. [Danse keff](https://www.youtube.com/watch?v=B6qej91iYLc)
 8. [Kost Ar C'hoat](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
-9. [Бурре на четверых](https://vk.com/video-25749886_162534468)²
-10. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)²
-11. [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)²
+9. [Бурре на четверых](https://vk.com/video-25749886_162534468)¹
+10. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)¹
+11. [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)¹
 12. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
 13. [Polka de Paimpol](https://vk.com/video39341115_456239021)
-14. [Celtic mixer dance](https://www.youtube.com/watch?v=Yi5kxzNWQmQ)³
-15. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
-16. [Chapelloise](https://www.youtube.com/watch?v=XwNRitt0AFo)
+14. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
+15. [Chapelloise](https://www.youtube.com/watch?v=XwNRitt0AFo)
 
 ### И парные танцы в закрытой позиции:
 
 1. [Schottische](https://www.youtube.com/watch?v=vwHZvw7jk94)¹
 2. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)¹
-3. [Polka](https://youtu.be/sVnfVUWiBTU?t=20)¹. Ещё элементы: [libraryofdance.org/dances/polka](http://www.libraryofdance.org/dances/polka/)
-4. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)²
+3. [Polka](https://youtu.be/sVnfVUWiBTU?t=20)⁴. Ещё элементы: [libraryofdance.org/dances/polka](http://www.libraryofdance.org/dances/polka/)
+4. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)¹
 
 Описания танцев
 ===============
@@ -36,43 +35,44 @@
 \- [An dro mod kozh / Tour (Старое андро / Тур)](tour-an-dro-mod-kozh.md)  
 \- [An dro nevez (Новое андро)](an-dro-nevez.md)  
 \- [An dro Retourné (Андро Ретурни́)](an-dro-retourne.md)  
-\- ²[Bourrée 2 temps (Бурре на 2 счёта)](bourree.md)  
-\- ²[Bourrée 3 temps (Бурре на 3 счёта)](bourree-3-temps.md)\*  
-\- ²[Bourrée en russe («Бретонское» бурре)](bourree-en-russe.md)  
-\- ³[Bourrée St. Patrick (Бурре Святого Патрика)](bourree-st-patrick.md)  
+\- ¹[Bourrée 2 temps (Бурре на 2 счёта)](bourree.md)  
+\- ¹[Bourrée 3 temps (Бурре на 3 счёта)](bourree-3-temps.md)\*  
+\- ²[Bourrée from Russia («Бретонское» бурре)](bourree-from-russia.md)  
+\- ²[Bourrée St. Patrick (Бурре Святого Патрика)](bourree-st-patrick.md)  
 \- [Cercle Circassien (Сёркль Сиркасьён / Черкесский круг)](cercle-circassien.md)  
 \- [Chapelloise (Шапелуаз)](chapelloise.md)  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
 \- ³[Cumberland Square Eight / The Helicopter (Камбэлэнд сквэр эйт / Зэ хеликоптэ)](cumberland-square-eight.md)  
-\- ²[Galop Nantais (Нантский галоп)](galop-nantais.md)  
+\- ¹[Galop Nantais (Нантский галоп)](galop-nantais.md)  
 \- [Hanter dro (Антердро)](hanter-dro.md)  
 \- [Kejaj (Кежаж)](kejaj.md)  
 \- [Klamm (Клам)](klamm.md)  
 \- [Kost ar c'hoat (Костархот / кастарват)](kost-ar-c-hoat.md)  
-\- ²[Mazurka (Мазурка)](mazurka.md)\*  
+\- ¹[Mazurka (Мазурка)](mazurka.md)\*  
 \- [Pach pi (Пашпи)](pach-pi.md)  
-\- ¹[Polka (Полька)](polka.md)\*  
-\- ⁴[Polka mixer-impro (Полька миксер-импро)](polka-mixer-impro.md)  
+\- ⁴[Polka (Полька)](polka.md)\*  
+\- ⁰[Polka mixer-impro (Полька миксер-импро)](polka-mixer-impro.md)  
 \- ¹[Polka piquée (Полька пи́ки)](polka-piquee.md)  
-\- ⁴[Polka piquée prolongé (Полька пи́ки расширенная)](polka-piquee-prolonge.md)  
+\- ⁰[Polka piquée prolongé (Полька пи́ки расширенная)](polka-piquee-prolonge.md)  
 \- [Polka Plinn (Полька Плин)](polka-plinn.md)  
 \- ¹[Scottish / Schottische (Скоти́ш / Шотиш)](schottische.md)  
 \- [Scottish impaire (Скоти́ш ампэ́, т.е. нечётный)](scottish-impaire.md)  
 \- [Suite Keff: Dans Keff + Bal Keff (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
 \- [Trikot (Трикот)](trikot.md)  
 
-\- ⁴[Alien experiment #1: An-dro-like (Элиэн экспэ́римент №1: типа-андро)](alien-experiment-1-an-dro-like.md)  
+\- ⁰[Alien experiment #1: An-dro-like (Элиэн экспэ́римент №1: типа-андро)](alien-experiment-1-an-dro-like.md)  
 \- ⁵[Rock and roll (Рок-н-ролл)](rock-and-roll.md)  
 \- [Music for consideration (Музыка на заметку), How to music](music.md)  
 
 ### Примечания:
 __\*__ недоделанные описания.  
-__¹__ бретонские / французские / европейские танцы.  
 Следующими цифрами обозначены не бретонские танцы:  
-__²__ французские.  
-__³__ кельтские.  
-__⁴__ remixes by kiwi0fruit.  
-__⁵__ мне было лень создавать отдельный репозиторий под рок-н-ролл.
+__⁰__ модификации танцев от kiwi0fruit (kiwi0fruit remixes),  
+__¹__ танцы, популярные на балфолках во Франции (bal folk in France),  
+__²__ танцы, предположительно придуманные российским кельтским сообществом (russian celtic community),  
+__³__ шотландские кейли (scottish cèilidh),  
+__⁴__ чешские танцы (czech dances),  
+__⁵__ мне было лень создать отдельный репозиторий под рок-н-ролл.
 
 Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org). Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы.
 
