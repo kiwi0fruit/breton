@@ -40,7 +40,7 @@
 \- ²[Bourrée from Russia («Бретонское» бурре)](bourree-from-russia.md)  
 \- ²[Bourrée St. Patrick (Бурре Святого Патрика)](bourree-st-patrick.md)  
 \- [Cercle Circassien (Сёркль Сиркасьён / Черкесский круг)](cercle-circassien.md)  
-\- ²[Cèilidh from Russia to Irish Jig (Кейли из России под ирландскую джигу)](ceilidh-to-irish-jig.md)\*  
+\- ²[Cèilidh: Irish Jig from Russia (Кейли: ирландская джига из России)](ceilidh-irish-jig-from-russia.md)\*  
 \- [Chapelloise (Шапелуаз)](chapelloise.md)  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
 \- ³[Cumberland Square Eight / The Helicopter (Камбэлэнд сквэр эйт / Зэ хеликоптэ)](cumberland-square-eight.md)  
