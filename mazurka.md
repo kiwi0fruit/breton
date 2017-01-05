@@ -12,7 +12,7 @@ without wt. Or opp ftwk. In tango mazurka, the bounce is almost imperceptible.
 
 [Здесь](http://www.libraryofdance.org/dances/mazurka-clandestina/) же некоторые элементы записаны на видео.
 
-Мне нравится стиль Pierre Chesneau. Он похож на танго меньше, чем некоторые другие. При этом танцует на расстоянии от дамы, что позволяет держать "рамку" и даёт возможность танцевать динамично. И упор в танце делает на обыгрывании мелодии. Вот примечательный комментарий про его манеру танца:
+Мне нравится стиль Pierre Chesneau. Он похож на танго меньше, чем некоторые другие. При этом танцует на расстоянии от дамы, что более прилично что ли. И упор в танце делает на обыгрывании мелодии. Вот примечательный комментарий про его манеру танца:
  
 All dancers in a mazurka clandestina dance like this... also mixing in some contact, tango, bachata, free dancing always coming back to a more traditional mazurka, it is easy you just need to listen to the music and be open to your partner :)﻿
 
