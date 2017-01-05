@@ -37,7 +37,7 @@
 \- [An dro Retourné (Андро Ретурни́)](an-dro-retourne.md)  
 \- ¹[Bourrée 2 temps (Бурре на 2 счёта)](bourree.md)  
 \- ¹[Bourrée 3 temps (Бурре на 3 счёта)](bourree-3-temps.md)\*  
-\- ²[Bourrée from Russia («Бретонское» бурре)](bourree-from-russia.md)  
+\- ²[Bourrée from Russia («Бретонское» бурре / Русское бурре)](bourree-from-russia.md)  
 \- ²[Bourrée St. Patrick (Бурре Святого Патрика)](bourree-st-patrick.md)  
 \- [Cercle Circassien (Сёркль Сиркасьён / Черкесский круг)](cercle-circassien.md)  
 \- ²[Cèilidh: Irish Jig from Russia (Кейли: ирландская джига из России)](ceilidh-irish-jig-from-russia.md)\*  
