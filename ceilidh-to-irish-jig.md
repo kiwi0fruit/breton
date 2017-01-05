@@ -1,4 +1,4 @@
-Cèilidh to Irish Jig from Russia (Кейли под ирландскую джигу из России)
+Cèilidh from Russia to Irish Jig  (Кейли из России под ирландскую джигу)
 ================================
 
 
