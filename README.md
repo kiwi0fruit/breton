@@ -42,7 +42,7 @@
 | [An dro Retourné](an-dro-retourne.md) | [Андро Ретурни́](an-dro-retourne.md) |
 | [Bourrée 2 temps](bourree.md)¹ | [Бурре на 2 счёта](bourree.md)¹ |
 | [Bourrée 3 temps](bourree-3-temps.md)¹ | \*[Бурре на 3 счёта](bourree-3-temps.md)¹ |
-| [Bourrée from Russia](bourree-from-russia.md)² | [Русское бурре («Бретонское» бурре)](bourree-from-russia.md)² |
+| [“Breton” Bourree from Russia](breton-bourree-from-russia.md)² | [«Бретонское» бурре из России](breton-bourree-from-russia.md)² |
 | [Bourrée St. Patrick](bourree-st-patrick.md)² | [Бурре Святого Патрика](bourree-st-patrick.md)² |
 | [Cèilidh: Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)³ | [Кейли: Площадь Камберленд 8 (Геликоптер)](ceilidh-cumberland-square-eight.md)³ |
 | [Cèilidh: Irish Jig from Russia](ceilidh-irish-jig-from-russia.md)² | [Кейли: Ирландская джига из России](ceilidh-irish-jig-from-russia.md)² |
