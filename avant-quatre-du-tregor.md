@@ -1,5 +1,6 @@
-Avant-quatre du Tregor / Avant-deux du Tregor
+Avant-quatre du Tregor (Avant-deux du Tregor)
 =============================================
+# Аван-кятр дю Трегор (Аван-дё дю Трегор)
 
 ## Основной шаг
 
