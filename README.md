@@ -47,7 +47,7 @@
 \- [Cercle Circassien (Сёркль Сиркасьён / Черкесский круг)](cercle-circassien.md)  
 \- [Chapelloise (Шапелуаз)](chapelloise.md)  
 \- [Cochinchine (Кошиншин)](cochinchine.md)  
-\- ¹[Galop Nantais (Нантский галоп)](galop-nantais.md)  
+\- [Galop Nantais (Нантский галоп)](galop-nantais.md)¹\*  
 \- [Hanter dro (Антердро)](hanter-dro.md)  
 \- [Kejaj (Кежаж)](kejaj.md)  
 \- [Klamm (Клам)](klamm.md)  
