@@ -45,7 +45,7 @@
 | [“Breton” Bourree from Russia](breton-bourree-from-russia.md)² | [«Бретонское» бурре из России](breton-bourree-from-russia.md)² |
 | [Bourrée St. Patrick](bourree-st-patrick.md)² | [Бурре Святого Патрика](bourree-st-patrick.md)² |
 | [Cèilidh: Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)³ | [Кейли: Площадь Камберленд 8 (Геликоптер)](ceilidh-cumberland-square-eight.md)³ |
-| [Cèilidh: Irish Jig from Russia](ceilidh-irish-jig-from-russia.md)² | [Кейли: Ирландская джига из России](ceilidh-irish-jig-from-russia.md)² |
+| [Cèilidh: “Irish” Jig from Russia](ceilidh-irish-jig-from-russia.md)² | [Кейли: «Ирландская» джига из России](ceilidh-irish-jig-from-russia.md)² |
 | [Cèilidh: Riverside](ceilidh-riverside.md)³ | \*[Кейли: Риверсайд](ceilidh-riverside.md)³ |
 | [Cercle Circassien](cercle-circassien.md) | [Черкесский круг (Сёркль Сиркасьён)](cercle-circassien.md) |
 | [Chapelloise](chapelloise.md) | [Шапелуаз](chapelloise.md) |
