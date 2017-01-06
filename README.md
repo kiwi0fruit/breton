@@ -31,42 +31,45 @@
 
 Описания танцев
 ===============
-\- [Avant-deux de Bazouges (Аван-дё де Базуж)](avant-deux-de-bazouges.md)  
-\- [Avant-quatre du Tregor / Avant-deux du Tregor (Аван-кятр дю Трегор / Аван-дё дю Трегор)](avant-quatre-du-tregor.md)  
-\- [An dro du Bono (Андро дю Бон́у)](an-dro-du-bono.md)  
-\- [An dro mod kozh / Tour (Старое андро / Тур)](tour-an-dro-mod-kozh.md)  
-\- [An dro nevez (Новое андро)](an-dro-nevez.md)  
-\- [An dro Retourné (Андро Ретурни́)](an-dro-retourne.md)  
-\- [Bourrée 2 temps (Бурре на 2 счёта)](bourree.md)¹  
-\- [Bourrée 3 temps (Бурре на 3 счёта)](bourree-3-temps.md)¹\*  
-\- [Bourrée from Russia («Бретонское» бурре / Русское бурре)](bourree-from-russia.md)²  
-\- [Bourrée St. Patrick (Бурре Святого Патрика)](bourree-st-patrick.md)²  
-\- [Cèilidh: Cumberland Square Eight / The Helicopter (Кейли: Площадь Камберленд 8 / Вертолёт)](ceilidh-cumberland-square-eight.md)³  
-\- [Cèilidh: Irish Jig from Russia (Кейли: ирландская джига из России)](ceilidh-irish-jig-from-russia.md)²  
-\- [Cèilidh: Riverside (Кейли: Риверсайд)](ceilidh-riverside.md)³\*  
-\- [Cercle Circassien (Сёркль Сиркасьён / Черкесский круг)](cercle-circassien.md)  
-\- [Chapelloise (Шапелуаз)](chapelloise.md)  
-\- [Cochinchine (Кошиншин)](cochinchine.md)  
-\- [Galop Nantais (Нантский галоп)](galop-nantais.md)¹\*  
-\- [Hanter dro (Антердро)](hanter-dro.md)  
-\- [Kejaj (Кежаж)](kejaj.md)  
-\- [Klamm (Клам)](klamm.md)  
-\- [Kost ar c'hoat (Костархот / кастарват)](kost-ar-c-hoat.md)  
-\- [Mazurka (Мазурка)](mazurka.md)¹\*  
-\- [Pach pi (Пашпи)](pach-pi.md)  
-\- [Polka (Полька)](polka.md)⁴\*  
-\- [Polka mixer-impro (Полька миксер-импро)](polka-mixer-impro.md)⁰  
-\- [Polka piquée (Полька пи́ки)](polka-piquee.md)¹  
-\- [Polka piquée prolongé (Полька пи́ки расширенная)](polka-piquee-prolonge.md)⁰  
-\- [Polka Plinn (Полька Плин)](polka-plinn.md)  
-\- [Scottish / Schottische (Скоти́ш / Шотиш)](schottische.md)¹  
-\- [Scottish impaire (Скоти́ш ампэ́, т.е. нечётный)](scottish-impaire.md)  
-\- [Suite Keff: Dans Keff + Bal Keff (Сюита Кеф: даньс Кеф + баль Кеф)](suite-keff.md)  
-\- [Trikot (Трикот)](trikot.md)  
 
-\- [Alien experiment #1: An-dro-like (Элиэн экспэ́римент №1: типа-андро)](alien-experiment-1-an-dro-like.md)⁰  
-\- [Rock and roll (Рок-н-ролл)](rock-and-roll.md)⁵  
-\- [Music for consideration (Музыка на заметку), How to music](music.md)  
+| Name | Название |
+| ---- | -------- |
+| [Avant-deux de Bazouges](avant-deux-de-bazouges.md) | [Аван-дё де Базуж](avant-deux-de-bazouges.md) |
+| [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
+| [An dro du Bono](an-dro-du-bono.md) | [Андро дю Бон́у](an-dro-du-bono.md) |
+| [An dro mod kozh (Tour)](tour-an-dro-mod-kozh.md) | [Старое андро (Тур)](tour-an-dro-mod-kozh.md) |
+| [An dro nevez](an-dro-nevez.md) | [Новое андро](an-dro-nevez.md) |
+| [An dro Retourné](an-dro-retourne.md) | [Андро Ретурни́](an-dro-retourne.md) |
+| [Bourrée 2 temps](bourree.md)¹ | [Бурре на 2 счёта](bourree.md)¹ |
+| [Bourrée 3 temps](bourree-3-temps.md)¹ | \*[Бурре на 3 счёта](bourree-3-temps.md)¹ |
+| [Bourrée from Russia](bourree-from-russia.md)² | [Русское бурре («Бретонское» бурре)](bourree-from-russia.md)² |
+| [Bourrée St. Patrick](bourree-st-patrick.md)² | [Бурре Святого Патрика](bourree-st-patrick.md)² |
+| [Cèilidh: Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)³ | [Кейли: Площадь Камберленд 8 (Геликоптер)](ceilidh-cumberland-square-eight.md)³ |
+| [Cèilidh: Irish Jig from Russia](ceilidh-irish-jig-from-russia.md)² | [Кейли: Ирландская джига из России](ceilidh-irish-jig-from-russia.md)² |
+| [Cèilidh: Riverside](ceilidh-riverside.md)³ | \*[Кейли: Риверсайд](ceilidh-riverside.md)³ |
+| [Cercle Circassien](cercle-circassien.md) | [Черкесский круг (Сёркль Сиркасьён)](cercle-circassien.md) |
+| [Chapelloise](chapelloise.md) | [Шапелуаз](chapelloise.md) |
+| [Cochinchine](cochinchine.md) | [Кошиншин](cochinchine.md) |
+| [Galop Nantais](galop-nantais.md)¹ | \*[Нантский галоп](galop-nantais.md)¹ |
+| [Hanter dro](hanter-dro.md) | [Антердро](hanter-dro.md) |
+| [Kejaj](kejaj.md) | [Кежаж](kejaj.md) |
+| [Klamm](klamm.md) | [Клам](klamm.md) |
+| [Kost ar c'hoat](kost-ar-c-hoat.md) | [Костархот (Кастарват)](kost-ar-c-hoat.md) |
+| [Mazurka](mazurka.md)¹ | \*[Мазурка](mazurka.md)¹ |
+| [Pach pi](pach-pi.md) | [Пашпи](pach-pi.md) |
+| [Polka](polka.md)⁴ | \*[Полька](polka.md)⁴ |
+| [Polka mixer-impro](polka-mixer-impro.md)⁰ | [Полька миксер-импро](polka-mixer-impro.md)⁰ |
+| [Polka piquée](polka-piquee.md)¹ | [Полька пи́ки](polka-piquee.md)¹ |
+| [Polka piquée prolongé](polka-piquee-prolonge.md)⁰ | [Полька пи́ки расширенная](polka-piquee-prolonge.md)⁰ |
+| [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
+| [Scottish (Schottische)](schottische.md)¹ | [Скоти́ш (Шотиш)](schottische.md)¹ |
+| [Scottish impaire](scottish-impaire.md) | [Скоти́ш ампэ́ (нечётный)](scottish-impaire.md) |
+| [Suite Keff: Dans Keff + Bal Keff](suite-keff.md) | [Сюита Кеф: даньс Кеф + баль Кеф](suite-keff.md) |
+| [Trikot](trikot.md) | [Трикот](trikot.md) |
+| . |  |
+| [Alien experiment #1: An dro](alien-experiment-1-an-dro.md)⁰ | [Эксперимент над пришельцами №1: Андро](alien-experiment-1-an-dro.md)⁰ |
+| [Rock and roll](rock-and-roll.md)⁵ | [Рок-н-ролл](rock-and-roll.md)⁵ |
+| [Music for consideration, How to music](music.md) | [Музыка на заметку](music.md) |
 
 ### Примечания:
 __\*__ недоделанные описания.
