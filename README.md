@@ -28,6 +28,7 @@
 2. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)¹
 3. [Polka](https://youtu.be/sVnfVUWiBTU?t=20)⁴. Ещё элементы: [libraryofdance.org/dances/polka](http://www.libraryofdance.org/dances/polka/)
 4. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)¹
+5. [Mazurka](https://www.youtube.com/watch?v=vEDn9frcy08)¹
 
 Описания танцев
 ===============
