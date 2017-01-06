@@ -36,7 +36,7 @@
 | ---- | -------- |
 | [Avant-deux de Bazouges](avant-deux-de-bazouges.md) | [Аван-дё де Базуж](avant-deux-de-bazouges.md) |
 | [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
-| [An dro du Bono](an-dro-du-bono.md) | [Андро дю Бон́у](an-dro-du-bono.md) |
+| [An dro du Bono](an-dro-du-bono.md) | [Андро дю Бону́](an-dro-du-bono.md) |
 | [An dro mod kozh (Tour)](tour-an-dro-mod-kozh.md) | [Старое андро (Тур)](tour-an-dro-mod-kozh.md) |
 | [An dro nevez](an-dro-nevez.md) | [Новое андро](an-dro-nevez.md) |
 | [An dro Retourné](an-dro-retourne.md) | [Андро Ретурни́](an-dro-retourne.md) |
