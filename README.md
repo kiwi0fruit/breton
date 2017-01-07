@@ -39,16 +39,16 @@
 
 | Name | Название |
 | ---- | -------- |
-| [Avant-deux de Bazouges](avant-deux-de-bazouges.md) | [Аван-дё де Базуж](avant-deux-de-bazouges.md) |
-| [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
 | [An dro du Bono](an-dro-du-bono.md) | [Андро дю Бону́](an-dro-du-bono.md) |
 | [An dro mod kozh (Tour)](tour-an-dro-mod-kozh.md) | [Старое андро (Тур)](tour-an-dro-mod-kozh.md) |
 | [An dro nevez](an-dro-nevez.md) | [Новое андро](an-dro-nevez.md) |
 | [An dro Retourné](an-dro-retourne.md) | [Андро Ретурни́](an-dro-retourne.md) |
+| [Avant-deux de Bazouges](avant-deux-de-bazouges.md) | [Аван-дё де Базуж](avant-deux-de-bazouges.md) |
+| [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
 | [Bourrée 2 temps](bourree.md)¹ | [Бурре на 2 счёта](bourree.md)¹ |
 | [Bourrée 3 temps](bourree-3-temps.md)¹ | \*[Бурре на 3 счёта](bourree-3-temps.md)¹ |
-| [“Breton” Bourree from Russia](breton-bourree-from-russia.md)² | [«Бретонское» бурре из России](breton-bourree-from-russia.md)² |
 | [Bourrée St. Patrick](bourree-st-patrick.md)² | [Бурре Святого Патрика](bourree-st-patrick.md)² |
+| [“Breton” Bourree from Russia](breton-bourree-from-russia.md)² | [«Бретонское» бурре из России](breton-bourree-from-russia.md)² |
 | [Cèilidh: Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)³ | [Кейли: Площадь Камберленд 8 (Геликоптер)](ceilidh-cumberland-square-eight.md)³ |
 | [Cèilidh: “Irish” Jig from Russia](ceilidh-irish-jig-from-russia.md)² | [Кейли: «Ирландская» джига из России](ceilidh-irish-jig-from-russia.md)² |
 | [Cèilidh: Riverside](ceilidh-riverside.md)³ | \*[Кейли: Риверсайд](ceilidh-riverside.md)³ |
