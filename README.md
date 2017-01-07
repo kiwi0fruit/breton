@@ -79,10 +79,10 @@
 | [Twmpath: Cylch Y Cymry (Welsh Circle)](twmpath-cylch-y-cymry.md)² | [Тумпаф: Валлийский круг](twmpath-cylch-y-cymry.md)² |
 | [Twmpath: Rhwng Ddwy (Between Two)](twmpath-rhwng-ddwy.md)² | [Тумпаф: Между двумя](twmpath-rhwng-ddwy.md)² |
 | [Twmpath: Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md)² | [Тумпаф: Рогатый баран](twmpath-y-ddafad-gorniog.md)² |
+| [Yet another an dro: with aliens](yet-another-an-dro-with-aliens.md)⁰ | [Ещё одно андро: с пришельцами](yet-another-an-dro-with-aliens.md)⁰ |
 | [Yet another celtic polka](yet-another-celtic-polka.md)⁰ | [Ещё одна кельтская полька](yet-another-celtic-polka.md)⁰ |
 | [Yet another polka mixer](yet-another-polka-mixer.md)⁰ | [Ещё одна полька-миксер](yet-another-polka-mixer.md)⁰ |
 | . |  |
-| [Alien experiment #1: An dro](alien-experiment-1-an-dro.md)⁰ | [Эксперимент над пришельцами №1: Андро](alien-experiment-1-an-dro.md)⁰ |
 | [Rock and roll](rock-and-roll.md)⁵ | [Рок-н-ролл](rock-and-roll.md)⁵ |
 | [Music for consideration, How to music](music.md) | [Музыка на заметку](music.md) |
 
