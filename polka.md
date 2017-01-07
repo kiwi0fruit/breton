@@ -56,9 +56,11 @@ Music:
 - **Loened Fall – An Den Dek Gwech Intañv - Polka Plinn** 4:48 (2/4)
 
 ## Celtic:
-#### I recommend:
 - **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34 (2/4 + 4/4),  
   Состоит из одной восьмёрки вступления, и чередования:  32 (4x8) счётов куплета, потом 32 (4x8) счётов припева, такие квадраты по 64 такта происходят 5 раз. John Ryan's Polka заканчивается в 2:08.
+- **Fiddler's Green – Girls Along The Road** 3:38
+- **Fiddler's Green – Donkey Riding** 2:09
+- **Fiddler's Green – Lannigan's Ball** 3:15
 - **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46 (2/4),  
   Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 14 раз.
 - **ReelRoad – Polkas [Холландерка cut]** 6:16 (2/4)
@@ -71,8 +73,3 @@ Music:
 - **The Boys Of Country Nashville – Whiskey In The Jar (Instrumental)** 4:14 [non 32 square]
 - **The Irish Rovers – Mick Maguire** 2:28 (2/4) [32 куплет + 32 припев + иногда лишние 8 инструменталки],
 - **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42
-
-#### Other:
-- **Fiddler's Green – Girls Along The Road** 3:38
-- **Fiddler's Green – Donkey Riding** 2:09
-- **Fiddler's Green – Lannigan's Ball** 3:15
