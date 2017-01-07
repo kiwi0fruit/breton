@@ -2,9 +2,6 @@ Music for consideration
 =======================
 # Музыка на заметку
 
-### 2/4:
-- Clann Lir – Hug Air A' Bhonaid Mhoir 5:15 [2/4?]
-
 How to music
 ============
 Link in the format of [http://vk.com/search?c%5Bq%5D=Mervent%20Bourret%20Chabanet&c%5Bsection%5D=audio](http://vk.com/search?c%5Bq%5D=Mervent%20Bourret%20Chabanet&c%5Bsection%5D=audio) is a link for the music search engine of a VK social network.
