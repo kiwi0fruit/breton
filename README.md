@@ -57,6 +57,7 @@
 | [Cèilidh: Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)² | [Кейли: Площадь Камберленд 8 (Геликоптер)](ceilidh-cumberland-square-eight.md)² |
 | [Cèilidh: “Irish” Jig from Russia](ceilidh-irish-jig-from-russia.md)³ | [Кейли: «Ирландская» джига из России](ceilidh-irish-jig-from-russia.md)³ |
 | [Cèilidh: Riverside](ceilidh-riverside.md)² | [Кейли: Риверсайд](ceilidh-riverside.md)² |
+| [Cèilidh: Strip The Willow](ceilidh-strip-the-willow.md)² | [Кейли: Обдери липку](ceilidh-strip-the-willow.md)² |
 | [Cercle Circassien](cercle-circassien.md) | [Черкесский круг (Сёркль Сиркасьён)](cercle-circassien.md) |
 | [Chapelloise](chapelloise.md) | [Шапелуаз](chapelloise.md) |
 | [Cochinchine](cochinchine.md) | [Кошиншин](cochinchine.md) |
