@@ -30,12 +30,17 @@
 
 Описания танцев
 ===============
-Описаны следующие современные танцы:
+Описаны танцы, популярные на следующих танцевальных вечеринках:
 
-- бретонские,
-- французский бал-фолк,
-- кейли,
-- полька.
+- _без цифры_ - бретонский фест-ноз (fest-noz),
+- __¹__ - бал-фолк во Франции (bal folk in France),
+- __²__ - кейли в Шотландии (scottish cèilidh),
+- __³__ - вечеринки российского кельтского сообщества (russian celtic community parties).
+
+Другие танцы:
+
+- __⁴__ - полька,
+- __⁰__ - модификации танцев by kiwi0fruit.
 
 | Name | Название |
 | ---- | -------- |
@@ -47,11 +52,11 @@
 | [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
 | [Bourrée 2 temps](bourree.md)¹ | [Бурре на 2 счёта](bourree.md)¹ |
 | [Bourrée 3 temps](bourree-3-temps.md)¹ | \*[Бурре на 3 счёта](bourree-3-temps.md)¹ |
-| [Bourrée St. Patrick](bourree-st-patrick.md)² | [Бурре Святого Патрика](bourree-st-patrick.md)² |
-| [“Breton” Bourree from Russia](breton-bourree-from-russia.md)² | [«Бретонское» бурре из России](breton-bourree-from-russia.md)² |
-| [Cèilidh: Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)³ | [Кейли: Площадь Камберленд 8 (Геликоптер)](ceilidh-cumberland-square-eight.md)³ |
-| [Cèilidh: “Irish” Jig from Russia](ceilidh-irish-jig-from-russia.md)² | [Кейли: «Ирландская» джига из России](ceilidh-irish-jig-from-russia.md)² |
-| [Cèilidh: Riverside](ceilidh-riverside.md)³ | \*[Кейли: Риверсайд](ceilidh-riverside.md)³ |
+| [Bourrée St. Patrick](bourree-st-patrick.md)³ | [Бурре Святого Патрика](bourree-st-patrick.md)³ |
+| [“Breton” Bourree from Russia](breton-bourree-from-russia.md)³ | [«Бретонское» бурре из России](breton-bourree-from-russia.md)³ |
+| [Cèilidh: Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)² | [Кейли: Площадь Камберленд 8 (Геликоптер)](ceilidh-cumberland-square-eight.md)² |
+| [Cèilidh: “Irish” Jig from Russia](ceilidh-irish-jig-from-russia.md)³ | [Кейли: «Ирландская» джига из России](ceilidh-irish-jig-from-russia.md)³ |
+| [Cèilidh: Riverside](ceilidh-riverside.md)² | \*[Кейли: Риверсайд](ceilidh-riverside.md)² |
 | [Cercle Circassien](cercle-circassien.md) | [Черкесский круг (Сёркль Сиркасьён)](cercle-circassien.md) |
 | [Chapelloise](chapelloise.md) | [Шапелуаз](chapelloise.md) |
 | [Cochinchine](cochinchine.md) | [Кошиншин](cochinchine.md) |
@@ -77,16 +82,8 @@
 | [Music for consideration, How to music](music.md) | [Музыка на заметку](music.md) |
 
 ### Примечания:
-__\*__ недоделанные описания.
-
-Следующими цифрами обозначены не бретонские танцы:
-
-__⁰__ модификации танцев by kiwi0fruit,  
-__¹__ танцы, популярные на бал-фолке во Франции (bal folk in France),  
-__²__ танцы, предположительно придуманные российским кельтским сообществом (russian celtic community),  
-__³__ шотландские кейли (scottish cèilidh),  
-__⁴__ разнообразная полька - моя отдельная слабость,  
-__⁵__ мне было лень создать отдельный репозиторий под рок-н-ролл.
+- __\*__ - недоделанные описания.
+- __⁵__ - мне было лень создать отдельный репозиторий под рок-н-ролл.
 
 Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org). Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы.
 
