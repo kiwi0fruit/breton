@@ -52,10 +52,7 @@
 | [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
 | [Bourrée 2 temps](bourree.md)¹ | [Бурре на 2 счёта](bourree.md)¹ |
 | [Bourrée 3 temps](bourree-3-temps.md)¹ | [Бурре на 3 счёта](bourree-3-temps.md)¹\* |
-| [Bourrée St. Patrick](bourree-st-patrick.md)³ | [Бурре Святого Патрика](bourree-st-patrick.md)³ |
-| [“Breton” Bourree from Russia](breton-bourree-from-russia.md)³ | [«Бретонское» бурре из России](breton-bourree-from-russia.md)³ |
 | [Cèilidh: Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)² | [Кейли: Геликоптер](ceilidh-cumberland-square-eight.md)² |
-| [Cèilidh: “Irish” Jig from Russia](ceilidh-irish-jig-from-russia.md)³ | [Кейли: «Ирландская» джига из России](ceilidh-irish-jig-from-russia.md)³ |
 | [Cèilidh: Riverside](ceilidh-riverside.md)² | [Кейли: Риверсайд](ceilidh-riverside.md)² |
 | [Cèilidh: Strip The Willow](ceilidh-strip-the-willow.md)² | [Кейли: Обдери липку](ceilidh-strip-the-willow.md)² |
 | [Cercle Circassien](cercle-circassien.md) | [Черкесский круг (Сёркль Сиркасьён)](cercle-circassien.md) |
@@ -71,6 +68,9 @@
 | [Polka](polka.md)⁴ | [Полька](polka.md)⁴\* |
 | [Polka piquée](polka-piquee.md)¹ | [Полька пи́ки](polka-piquee.md)¹ |
 | [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
+| [Rus-celtic: Bourrée St. Patrick](rus-celtic-bourree-st-patrick.md)³ | [Рус-кельт: Бурре Святого Патрика](rus-celtic-bourree-st-patrick.md)³ |
+| [Rus-celtic: “Breton” Bourree](rus-celtic-breton-bourree.md)³ | [Рус-кельт: «Бретонское» бурре](rus-celtic-breton-bourree.md)³ |
+| [Rus-celtic: “Irish” Jig](rus-celtic-irish-jig.md)³ | [Рус-кельт: «Ирландская» джига](rus-celtic-irish-jig.md)³ |
 | [Scottish (Schottische)](schottische.md)¹ | [Скоти́ш (Шотиш)](schottische.md)¹ |
 | [Scottish impaire](scottish-impaire.md) | [Скоти́ш ампэ́ (нечётный)](scottish-impaire.md) |
 | [Suite Keff: Dans Keff + Bal Keff](suite-keff.md) | [Сюита Кеф: даньс Кеф + баль Кеф](suite-keff.md) |
