@@ -61,7 +61,7 @@ Music:
 - **Fiddler's Green – Girls Along The Road** 3:38
 - **Fiddler's Green – Donkey Riding** 2:09
 - **Fiddler's Green – Lannigan's Ball** 3:15
-- **ReelRoad – Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka (polkas)** 6:46 (2/4),  
+- **ReelRoad – Polkas: Morris mandley's / d-major polka / eagan's / tarmon's / tralee gaole / sean ryan's polka** 6:46 (2/4),  
   Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 14 раз.
 - **ReelRoad – Polkas [Холландерка cut]** 6:16 (2/4)
 - **Sham Rock – I'll Tell Me Ma** 3:50 (2/4),  
