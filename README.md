@@ -51,23 +51,23 @@
 | [Avant-deux de Bazouges](avant-deux-de-bazouges.md) | [Аван-дё де Базуж](avant-deux-de-bazouges.md) |
 | [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
 | [Bourrée 2 temps](bourree.md)¹ | [Бурре на 2 счёта](bourree.md)¹ |
-| [Bourrée 3 temps](bourree-3-temps.md)¹ | \*[Бурре на 3 счёта](bourree-3-temps.md)¹ |
+| [Bourrée 3 temps](bourree-3-temps.md)¹ | [Бурре на 3 счёта](bourree-3-temps.md)¹\* |
 | [Bourrée St. Patrick](bourree-st-patrick.md)³ | [Бурре Святого Патрика](bourree-st-patrick.md)³ |
 | [“Breton” Bourree from Russia](breton-bourree-from-russia.md)³ | [«Бретонское» бурре из России](breton-bourree-from-russia.md)³ |
 | [Cèilidh: Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)² | [Кейли: Площадь Камберленд 8 (Геликоптер)](ceilidh-cumberland-square-eight.md)² |
 | [Cèilidh: “Irish” Jig from Russia](ceilidh-irish-jig-from-russia.md)³ | [Кейли: «Ирландская» джига из России](ceilidh-irish-jig-from-russia.md)³ |
-| [Cèilidh: Riverside](ceilidh-riverside.md)² | \*[Кейли: Риверсайд](ceilidh-riverside.md)² |
+| [Cèilidh: Riverside](ceilidh-riverside.md)² | [Кейли: Риверсайд](ceilidh-riverside.md)²\* |
 | [Cercle Circassien](cercle-circassien.md) | [Черкесский круг (Сёркль Сиркасьён)](cercle-circassien.md) |
 | [Chapelloise](chapelloise.md) | [Шапелуаз](chapelloise.md) |
 | [Cochinchine](cochinchine.md) | [Кошиншин](cochinchine.md) |
-| [Galop Nantais](galop-nantais.md)¹ | \*[Нантский галоп](galop-nantais.md)¹ |
+| [Galop Nantais](galop-nantais.md)¹ | [Нантский галоп](galop-nantais.md)¹\* |
 | [Hanter dro](hanter-dro.md) | [Антердро](hanter-dro.md) |
 | [Kejaj](kejaj.md) | [Кежаж](kejaj.md) |
 | [Klamm](klamm.md) | [Клам](klamm.md) |
 | [Kost ar c'hoat](kost-ar-c-hoat.md) | [Костархот (Кастарват)](kost-ar-c-hoat.md) |
-| [Mazurka](mazurka.md)¹ | \*[Мазурка](mazurka.md)¹ |
+| [Mazurka](mazurka.md)¹ | [Мазурка](mazurka.md)¹\* |
 | [Pach pi](pach-pi.md) | [Пашпи](pach-pi.md) |
-| [Polka](polka.md)⁴ | \*[Полька](polka.md)⁴ |
+| [Polka](polka.md)⁴ | [Полька](polka.md)⁴\* |
 | [Polka mixer-impro](polka-mixer-impro.md)⁰ | [Полька миксер-импро](polka-mixer-impro.md)⁰ |
 | [Polka piquée](polka-piquee.md)¹ | [Полька пи́ки](polka-piquee.md)¹ |
 | [Polka piquée prolongé](polka-piquee-prolonge.md)⁰ | [Полька пи́ки расширенная](polka-piquee-prolonge.md)⁰ |
