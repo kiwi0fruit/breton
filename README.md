@@ -70,12 +70,12 @@
 | [Polka](polka.md)⁴ | [Полька](polka.md)⁴\* |
 | [Polka mixer-impro](polka-mixer-impro.md)⁰ | [Полька миксер-импро](polka-mixer-impro.md)⁰ |
 | [Polka piquée](polka-piquee.md)¹ | [Полька пи́ки](polka-piquee.md)¹ |
-| [Polka piquée prolongé](polka-piquee-prolonge.md)⁰ | [Полька пи́ки расширенная](polka-piquee-prolonge.md)⁰ |
 | [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
 | [Scottish (Schottische)](schottische.md)¹ | [Скоти́ш (Шотиш)](schottische.md)¹ |
 | [Scottish impaire](scottish-impaire.md) | [Скоти́ш ампэ́ (нечётный)](scottish-impaire.md) |
 | [Suite Keff: Dans Keff + Bal Keff](suite-keff.md) | [Сюита Кеф: даньс Кеф + баль Кеф](suite-keff.md) |
 | [Trikot](trikot.md) | [Трикот](trikot.md) |
+| [Yet another celtic polka](yet-another-celtic-polka.md)⁰ | [Ещё одна кельтская полька](yet-another-celtic-polka.md)⁰ |
 | . |  |
 | [Alien experiment #1: An dro](alien-experiment-1-an-dro.md)⁰ | [Эксперимент над пришельцами №1: Андро](alien-experiment-1-an-dro.md)⁰ |
 | [Rock and roll](rock-and-roll.md)⁵ | [Рок-н-ролл](rock-and-roll.md)⁵ |
