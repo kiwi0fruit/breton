@@ -54,7 +54,7 @@
 | [Bourrée 3 temps](bourree-3-temps.md)¹ | [Бурре на 3 счёта](bourree-3-temps.md)¹\* |
 | [Bourrée St. Patrick](bourree-st-patrick.md)³ | [Бурре Святого Патрика](bourree-st-patrick.md)³ |
 | [“Breton” Bourree from Russia](breton-bourree-from-russia.md)³ | [«Бретонское» бурре из России](breton-bourree-from-russia.md)³ |
-| [Cèilidh: Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)² | [Кейли: Площадь Камберленд 8 (Геликоптер)](ceilidh-cumberland-square-eight.md)² |
+| [Cèilidh: Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)² | [Кейли: Геликоптер](ceilidh-cumberland-square-eight.md)² |
 | [Cèilidh: “Irish” Jig from Russia](ceilidh-irish-jig-from-russia.md)³ | [Кейли: «Ирландская» джига из России](ceilidh-irish-jig-from-russia.md)³ |
 | [Cèilidh: Riverside](ceilidh-riverside.md)² | [Кейли: Риверсайд](ceilidh-riverside.md)² |
 | [Cèilidh: Strip The Willow](ceilidh-strip-the-willow.md)² | [Кейли: Обдери липку](ceilidh-strip-the-willow.md)² |
