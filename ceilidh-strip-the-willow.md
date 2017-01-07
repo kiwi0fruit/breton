@@ -8,8 +8,9 @@ Cèilidh: Strip The Willow
 
 Video:
 ======
-- Танец на скипчейнджах: [youtu.be/vboU2A59POs](https://www.youtube.com/watch?v=vboU2A59POs) (правильная схема),
-- Танец на шагах вприпрыжку: [youtu.be/uBBdgcHimoM](https://youtu.be/uBBdgcHimoM?t=399) (неправильная схема).
+- Танец на скипчейнджах, повороты за кисти: [youtu.be/vboU2A59POs](https://www.youtube.com/watch?v=vboU2A59POs) (правильная схема),
+- Танец на шагах вприпрыжку, повороты под локотки: [youtu.be/uBBdgcHimoM](https://youtu.be/uBBdgcHimoM?t=399) (неправильная схема),
+- Танец на шагах вприпрыжку, повороты за предплечья: [outu.be/gBCayM6aFJQ](https://www.youtube.com/watch?v=gBCayM6aFJQ) (другая схема).
 
 Music:
 ======
