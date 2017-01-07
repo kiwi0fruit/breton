@@ -34,7 +34,7 @@
 
 - _без цифры_ - бретонский фест-ноз (fest-noz),
 - __¹__ - бал-фолк во Франции (bal folk in France),
-- __²__ - кейли в Шотландии (scottish cèilidh),
+- __²__ - шотландские кейли и валлийский тумпаф (scottish cèilidh & welsh twmpath),
 - __³__ - вечеринки российского кельтского сообщества (russian celtic community parties).
 
 Другие танцы:
@@ -75,6 +75,9 @@
 | [Scottish impaire](scottish-impaire.md) | [Скоти́ш ампэ́ (нечётный)](scottish-impaire.md) |
 | [Suite Keff: Dans Keff + Bal Keff](suite-keff.md) | [Сюита Кеф: даньс Кеф + баль Кеф](suite-keff.md) |
 | [Trikot](trikot.md) | [Трикот](trikot.md) |
+| [Twmpath: Cylch Y Cymry (Welsh Circle)](twmpath-cylch-y-cymry.md)² | [Тумпаф: Валлийский круг](twmpath-cylch-y-cymry.md)² |
+| [Twmpath: Rhwng Ddwy (Between Two)](twmpath-rhwng-ddwy.md)² | [Тумпаф: Между двумя](twmpath-rhwng-ddwy.md)² |
+| [Twmpath: Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md)² | [Тумпаф: Рогатый баран](twmpath-y-ddafad-gorniog.md)² |
 | [Yet another celtic polka](yet-another-celtic-polka.md)⁰ | [Ещё одна кельтская полька](yet-another-celtic-polka.md)⁰ |
 | [Yet another polka mixer](yet-another-polka-mixer.md)⁰ | [Ещё одна полька-миксер](yet-another-polka-mixer.md)⁰ |
 | . |  |
