@@ -68,7 +68,6 @@
 | [Mazurka](mazurka.md)¹ | [Мазурка](mazurka.md)¹\* |
 | [Pach pi](pach-pi.md) | [Пашпи](pach-pi.md) |
 | [Polka](polka.md)⁴ | [Полька](polka.md)⁴\* |
-| [Polka mixer-impro](polka-mixer-impro.md)⁰ | [Полька миксер-импро](polka-mixer-impro.md)⁰ |
 | [Polka piquée](polka-piquee.md)¹ | [Полька пи́ки](polka-piquee.md)¹ |
 | [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
 | [Scottish (Schottische)](schottische.md)¹ | [Скоти́ш (Шотиш)](schottische.md)¹ |
@@ -76,6 +75,7 @@
 | [Suite Keff: Dans Keff + Bal Keff](suite-keff.md) | [Сюита Кеф: даньс Кеф + баль Кеф](suite-keff.md) |
 | [Trikot](trikot.md) | [Трикот](trikot.md) |
 | [Yet another celtic polka](yet-another-celtic-polka.md)⁰ | [Ещё одна кельтская полька](yet-another-celtic-polka.md)⁰ |
+| [Yet another polka mixer](yet-another-polka-mixer.md)⁰ | [Ещё одна полька-миксер](yet-another-polka-mixer.md)⁰ |
 | . |  |
 | [Alien experiment #1: An dro](alien-experiment-1-an-dro.md)⁰ | [Эксперимент над пришельцами №1: Андро](alien-experiment-1-an-dro.md)⁰ |
 | [Rock and roll](rock-and-roll.md)⁵ | [Рок-н-ролл](rock-and-roll.md)⁵ |
