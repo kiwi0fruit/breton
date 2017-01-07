@@ -55,7 +55,7 @@ Music:
 - **Loened Fall – Al Luton (Polka Plinn?)** 4:48
 - **Loened Fall – An Den Dek Gwech Intañv - Polka Plinn** 4:48 (2/4)
 
-## Celtic:
+## Irish:
 - **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34 (2/4 + 4/4),  
   Состоит из одной восьмёрки вступления, и чередования:  32 (4x8) счётов куплета, потом 32 (4x8) счётов припева, такие квадраты по 64 такта происходят 5 раз. John Ryan's Polka заканчивается в 2:08.
 - **Fiddler's Green – Girls Along The Road** 3:38
