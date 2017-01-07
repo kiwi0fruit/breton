@@ -39,7 +39,7 @@ Avant-quatre du Tregor (Avant-deux du Tregor)
 ![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_du_tregor_balance_position_16.gif](avant-quatre-du-tregor/avant-deux_du_tregor_balance_position_16.gif) ![dansesbretonnes.gwalarn.org/danses/images_am/avant-deux_du_tregor_balance_position_finale.gif](avant-quatre-du-tregor/avant-deux_du_tregor_balance_position_finale.gif)  
 Таким образом, у нас снова есть две пары, смотрящие друг на друга, только они махнулись партнёрами.
 
-Далее всё повтояется. На правах шутки: это довольно однообразно так танцевать, поэтому танец можно разнообразить вариацией "бегущий чайник". В ней через раз бежит не кавалер, а дама. Бежит прямо в позе чайника - так веселее.
+Далее всё повтояется. На правах шутки: это довольно однообразно так танцевать, поэтому танец можно разнообразить вариацией "бегущий чайник". В ней через раз бежит не кавалер, а дама. Бежит прямо в позе чайника - так веселее. Ещё вариант - квалер стоит в позе гитары, а дама прибегает в эту гитару (в этом варианте кавалер держит даму прямо за талию - без прокладки в виде руки).
 
 ## Avant-quatre du Tregor
 
