@@ -110,6 +110,7 @@
 - [Les danses (de A à Z)](http://nozbreizh.fr/index.php?option=com_content&task=view&id=20&Itemid=37&lettre_param=A#A) — сайт с информацией по бретонской танцевальной музыке.
 - [FestBreizh](https://www.youtube.com/channel/UCjwYudG6SWmI2mz1wS_eijA) — хороший канал с видео.
 - [Apprendre les danses bretonnes](http://lannig.e-monsite.com/) — научитесь бретонским танцам.
+- [Видеоархив околобретонских событий в Питере](https://www.youtube.com/user/Natuskinfun/videos?shelf_id=0&sort=dd&view=0).
 
 ### Другие танцы:
 
