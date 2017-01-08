@@ -1,7 +1,9 @@
 Music for consideration
 =======================
 # Музыка на заметку
-...
+
+- The Irish Rovers – Weigh, Hey and Up She Rises 2:56
+- The Irish Rovers – Weigh, Hey and Up She Rises 2:42
 
 How to music
 ============
