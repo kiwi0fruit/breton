@@ -36,7 +36,7 @@
 - __¹__ - бал-фолк во Франции (bal folk in France),
 - префикс _Cèilidh_ - шотландские кейли (scottish cèilidh),
 - префикс _Twmpath_ - валлийский тумпаф (welsh twmpath),
-- префикс _Rus-celtic_ - вечеринки российского кельтского сообщества (russian celtic community parties).
+- префикс _Rus-celtic_ - вечеринки кельтских сообществ в России/Белоруссии/Украине (celtic community parties in Russia/Belarus/Ukraine).
 
 Другие танцы:
 
