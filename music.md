@@ -6,7 +6,7 @@ Music for consideration
 - The Irish Rovers – Weigh, Hey and Up She Rises 2:42
 
 ### Reels:
-- Govannen – Billy In The Low Ground / Blackberry Blossom [0:44 start] 3:37
+- Govannen – Billy In The Low Ground / Blackberry Blossom 3:37 [0:44 start]
 - Govannen – Shannons 4:43 [0:36 start]
 - Govannen – Queen of the May - the Congress 3:44
 - Leahy – B Minor: Jenny's Chicken; The Glasgow Reel 3:58
