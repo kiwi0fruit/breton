@@ -69,10 +69,10 @@
 | [Polka](polka.md)² | [Полька](polka.md)\* |
 | [Polka piquée](polka-piquee.md)¹ | [Полька пи́ки](polka-piquee.md) |
 | [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
-| [_Rus-celtic:_ “Breton” Bourrée](rus-celtic-breton-bourree.md) | [_Рус-кельт:_ «Бретонское» бурре](rus-celtic-breton-bourree.md) |
-| [_Rus-celtic:_ “Irish” Jig](rus-celtic-irish-jig.md) | [_Рус-кельт:_ «Ирландская» джига](rus-celtic-irish-jig.md) |
-| [_Rus-celtic:_ Mixer](rus-celtic-mixer.md) | [_Рус-кельт:_ Миксер](rus-celtic-mixer.md) |
-| [_Rus-celtic:_ Saint Patrick Bourrée](rus-celtic-saint-patrick-bourree.md) | [_Рус-кельт:_ Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md) |
+| [_Rus-celtic:_ “Breton” Bourrée](rus-celtic-breton-bourree.md) | [_Rus-celtic:_ «Бретонское» бурре](rus-celtic-breton-bourree.md) |
+| [_Rus-celtic:_ “Irish” Jig](rus-celtic-irish-jig.md) | [_Rus-celtic:_ «Ирландская» джига](rus-celtic-irish-jig.md) |
+| [_Rus-celtic:_ Mixer](rus-celtic-mixer.md) | [_Rus-celtic:_ Миксер](rus-celtic-mixer.md) |
+| [_Rus-celtic:_ Saint Patrick Bourrée](rus-celtic-saint-patrick-bourree.md) | [_Rus-celtic:_ Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md) |
 | [Scottish (Schottische)](schottische.md)¹ | [Скоти́ш (Шотиш)](schottische.md) |
 | [Scottish impaire](scottish-impaire.md) | [Скоти́ш ампэ́ (нечётный)](scottish-impaire.md) |
 | [Suite Keff: Dans Keff + Bal Keff](suite-keff.md) | [Сюита Кеф: даньс Кеф + баль Кеф](suite-keff.md) |
