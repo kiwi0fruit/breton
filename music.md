@@ -5,6 +5,12 @@ Music for consideration
 - The Irish Rovers – Weigh, Hey and Up She Rises 2:56
 - The Irish Rovers – Weigh, Hey and Up She Rises 2:42
 
+### Reels:
+- Govannen – Billy In The Low Ground / Blackberry Blossom [0:44 start] 3:37
+- Govannen – Shannons 4:43
+- Leahy – B Minor: Jenny's Chicken; The Glasgow Reel 3:58
+- Leahy – The Call To Dance (Westburne Reel, Andy Renwick's Ferret) 6:54
+
 How to music
 ============
 Link in the format of [http://vk.com/search?c%5Bq%5D=Mervent%20Bourret%20Chabanet&c%5Bsection%5D=audio](http://vk.com/search?c%5Bq%5D=Mervent%20Bourret%20Chabanet&c%5Bsection%5D=audio) is a link for the music search engine of a VK social network.
