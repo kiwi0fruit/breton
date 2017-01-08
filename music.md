@@ -15,7 +15,8 @@ Link in the format of [http://vk.com/search?c%5Bq%5D=Mervent%20Bourret%20Chabane
 - **Fiddler's Green – Lannigan's Ball** 3:15.
 - **Martina Quiere Bailar – Polka Miseria** 4:06.
 - **The Irish Rovers – Mick Maguire** 2:28 (2/4) [32 куплет + 32 припев + иногда лишние 8 инструменталки].
-- **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42 (?).
+- **The Irish Rovers – Weigh, Hey and Up She Rises** 2:42 (4/4).
+- **The Irish Rovers – Weigh, Hey and Up She Rises** 2:25 (4/4).
 - **Loened Fall – An Den Dek Gwech Intañv - Polka Plinn** 4:48 (2/4).
   Слишком быстрая.
 - **Sham Rock – I'll Tell Me Ma** 3:50 (2/4).  
