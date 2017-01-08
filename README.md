@@ -34,13 +34,14 @@
 
 - _без цифры_ - бретонский фест-ноз (fest-noz),
 - __¹__ - бал-фолк во Франции (bal folk in France),
-- __²__ - шотландские кейли и валлийский тумпаф (scottish cèilidh & welsh twmpath),
-- __³__ - вечеринки российского кельтского сообщества (russian celtic community parties).
+- префикс _Cèilidh_ - шотландские кейли (scottish cèilidh),
+- префикс _Twmpath_ - валлийский тумпаф (welsh twmpath),
+- префикс _Rus-celtic_ - вечеринки российского кельтского сообщества (russian celtic community parties).
 
 Другие танцы:
 
-- __⁴__ - полька,
-- __⁰__ - модификации танцев by kiwi0fruit.
+- __²__ - полька,
+- префикс _Yet another_ - модификации танцев by kiwi0fruit.
 
 | Name | Название |
 | ---- | -------- |
@@ -52,9 +53,9 @@
 | [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
 | [Bourrée 2 temps](bourree.md)¹ | [Бурре на 2 счёта](bourree.md)¹ |
 | [Bourrée 3 temps](bourree-3-temps.md)¹ | [Бурре на 3 счёта](bourree-3-temps.md)¹\* |
-| [_Cèilidh:_ Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)² | [_Кейли:_ Геликоптер](ceilidh-cumberland-square-eight.md)² |
-| [_Cèilidh:_ Riverside](ceilidh-riverside.md)² | [_Кейли:_ Риверсайд](ceilidh-riverside.md)² |
-| [_Cèilidh:_ Strip The Willow](ceilidh-strip-the-willow.md)² | [_Кейли:_ Обдери липку](ceilidh-strip-the-willow.md)² |
+| [_Cèilidh:_ Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md) | [_Кейли:_ Геликоптер](ceilidh-cumberland-square-eight.md) |
+| [_Cèilidh:_ Riverside](ceilidh-riverside.md) | [_Кейли:_ Риверсайд](ceilidh-riverside.md) |
+| [_Cèilidh:_ Strip The Willow](ceilidh-strip-the-willow.md) | [_Кейли:_ Обдери липку](ceilidh-strip-the-willow.md) |
 | [Cercle Circassien](cercle-circassien.md) | [Черкесский круг (Сёркль Сиркасьён)](cercle-circassien.md) |
 | [Chapelloise](chapelloise.md) | [Шапелуаз](chapelloise.md) |
 | [Cochinchine](cochinchine.md) | [Кошиншин](cochinchine.md) |
@@ -65,30 +66,30 @@
 | [Kost ar c'hoat](kost-ar-c-hoat.md) | [Костархот (Кастарват)](kost-ar-c-hoat.md) |
 | [Mazurka](mazurka.md)¹ | [Мазурка](mazurka.md)¹\* |
 | [Pach pi](pach-pi.md) | [Пашпи](pach-pi.md) |
-| [Polka](polka.md)⁴ | [Полька](polka.md)⁴\* |
+| [Polka](polka.md)² | [Полька](polka.md)²\* |
 | [Polka piquée](polka-piquee.md)¹ | [Полька пи́ки](polka-piquee.md)¹ |
 | [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
-| [_Rus-celtic:_ “Breton” Bourrée](rus-celtic-breton-bourree.md)³ | [_Рус-кельт:_ «Бретонское» бурре](rus-celtic-breton-bourree.md)³ |
-| [_Rus-celtic:_ “Irish” Jig](rus-celtic-irish-jig.md)³ | [_Рус-кельт:_ «Ирландская» джига](rus-celtic-irish-jig.md)³ |
-| [_Rus-celtic:_ Mixer](rus-celtic-mixer.md)³ | [_Рус-кельт:_ Миксер](rus-celtic-mixer.md)³ |
-| [_Rus-celtic:_ Saint Patrick Bourrée](rus-celtic-saint-patrick-bourree.md)³ | [_Рус-кельт:_ Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md)³ |
+| [_Rus-celtic:_ “Breton” Bourrée](rus-celtic-breton-bourree.md) | [_Рус-кельт:_ «Бретонское» бурре](rus-celtic-breton-bourree.md) |
+| [_Rus-celtic:_ “Irish” Jig](rus-celtic-irish-jig.md) | [_Рус-кельт:_ «Ирландская» джига](rus-celtic-irish-jig.md) |
+| [_Rus-celtic:_ Mixer](rus-celtic-mixer.md) | [_Рус-кельт:_ Миксер](rus-celtic-mixer.md) |
+| [_Rus-celtic:_ Saint Patrick Bourrée](rus-celtic-saint-patrick-bourree.md) | [_Рус-кельт:_ Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md) |
 | [Scottish (Schottische)](schottische.md)¹ | [Скоти́ш (Шотиш)](schottische.md)¹ |
 | [Scottish impaire](scottish-impaire.md) | [Скоти́ш ампэ́ (нечётный)](scottish-impaire.md) |
 | [Suite Keff: Dans Keff + Bal Keff](suite-keff.md) | [Сюита Кеф: даньс Кеф + баль Кеф](suite-keff.md) |
 | [Trikot](trikot.md) | [Трикот](trikot.md) |
-| [_Twmpath:_ Cylch Y Cymry (Welsh Circle)](twmpath-cylch-y-cymry.md)² | [_Тумпаф:_ Валлийский круг](twmpath-cylch-y-cymry.md)² |
-| [_Twmpath:_ Rhwng Ddwy (Between Two)](twmpath-rhwng-ddwy.md)² | [_Тумпаф:_ Между двумя](twmpath-rhwng-ddwy.md)² |
-| [_Twmpath:_ Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md)² | [_Тумпаф:_ Рогатый баран](twmpath-y-ddafad-gorniog.md)² |
-| [_Yet another_ An dro: with aliens](yet-another-an-dro-with-aliens.md)⁰ | [_Ещё одно_ Андро: с пришельцами](yet-another-an-dro-with-aliens.md)⁰ |
-| [_Yet another_ Celtic polka](yet-another-celtic-polka.md)⁰ | [_Ещё одна_ Кельтская полька](yet-another-celtic-polka.md)⁰ |
-| [_Yet another_ Polka mixer](yet-another-polka-mixer.md)⁰ | [_Ещё одна_ Полька-миксер](yet-another-polka-mixer.md)⁰ |
+| [_Twmpath:_ Cylch Y Cymry (Welsh Circle)](twmpath-cylch-y-cymry.md) | [_Тумпаф:_ Валлийский круг](twmpath-cylch-y-cymry.md) |
+| [_Twmpath:_ Rhwng Ddwy (Between Two)](twmpath-rhwng-ddwy.md) | [_Тумпаф:_ Между двумя](twmpath-rhwng-ddwy.md) |
+| [_Twmpath:_ Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md) | [_Тумпаф:_ Рогатый баран](twmpath-y-ddafad-gorniog.md) |
+| [_Yet another_ An dro: with aliens](yet-another-an-dro-with-aliens.md) | [_Ещё одно_ Андро: с пришельцами](yet-another-an-dro-with-aliens.md) |
+| [_Yet another_ Celtic polka](yet-another-celtic-polka.md) | [_Ещё одна_ Кельтская полька](yet-another-celtic-polka.md) |
+| [_Yet another_ Polka mixer](yet-another-polka-mixer.md) | [_Ещё одна_ Полька-миксер](yet-another-polka-mixer.md) |
 | . |  |
-| [Rock and roll](rock-and-roll.md)⁵ | [Рок-н-ролл](rock-and-roll.md)⁵ |
+| [Rock and roll](rock-and-roll.md)⁰ | [Рок-н-ролл](rock-and-roll.md)⁰ |
 | [Music for consideration, How to music](music.md) | [Музыка на заметку](music.md) |
 
 ### Примечания:
 - __\*__ - недоделанные описания.
-- __⁵__ - мне было лень создать отдельный репозиторий под рок-н-ролл.
+- __⁰__ - мне было лень создать отдельный репозиторий под рок-н-ролл.
 
 Ко многим описаниям есть ссылки на автоматически переведенные схемы с сайта [dansesbretonnes.gwalarn.org](http://dansesbretonnes.gwalarn.org). Они всегда отлично помогут прояснить ньюансы, т.к. содержат крайне информативные иллюстрации и схемы.
 
