@@ -1,7 +1,6 @@
 Twmpath: Rhwng Ddwy (Between Two)
 ==========================================
 # Тумпаф: Между двумя
-Музыка: 32-квадратная, тактовый размер 4/4.
 
 Video:
 ======
@@ -11,7 +10,7 @@ Video:
 
 Music:
 ======
-Можно попробовать:
+Музыка: 32-квадратная, тактовый размер 4/4. [Здесь](http://www.pluckandsqueeze.com/Rhwng.htm) рекомендуют рилы. Можно попробовать:
 
 - The Irish Rovers – Weigh, Hey and Up She Rises 2:56
 - The Irish Rovers – Weigh, Hey and Up She Rises 2:42
