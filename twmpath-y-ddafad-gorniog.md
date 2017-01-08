@@ -1,7 +1,7 @@
 Twmpath: Y Ddafad Gorniog (The Horned Ram)
 ==========================================
 # Тумпаф: Рогатый баран
-...
+To be added.
 
 Video:
 ======
