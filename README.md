@@ -46,7 +46,7 @@
 | Name | Название |
 | ---- | -------- |
 | [An dro du Bono](an-dro-du-bono.md) | [Андро дю Бону́](an-dro-du-bono.md) |
-| [An dro mod kozh (Tour)](tour-an-dro-mod-kozh.md) | [Старое андро (Тур)](tour-an-dro-mod-kozh.md) |
+| [An dro mod kozh (Tour)](an-dro-mod-kozh-tour.md) | [Старое андро (Тур)](an-dro-mod-kozh-tour.md) |
 | [An dro nevez](an-dro-nevez.md) | [Новое андро](an-dro-nevez.md) |
 | [An dro Retourné](an-dro-retourne.md) | [Андро Ретурни́](an-dro-retourne.md) |
 | [Avant-deux de Bazouges](avant-deux-de-bazouges.md) | [Аван-дё де Базуж](avant-deux-de-bazouges.md) |
