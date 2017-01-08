@@ -8,8 +8,11 @@ Music for consideration
 ### Reels:
 - Govannen – Billy In The Low Ground / Blackberry Blossom [0:44 start] 3:37
 - Govannen – Shannons 4:43
+- Govannen – Queen of the May - the Congress 3:44
 - Leahy – B Minor: Jenny's Chicken; The Glasgow Reel 3:58
 - Leahy – The Call To Dance (Westburne Reel, Andy Renwick's Ferret) 6:54
+- Leahy – Seamus 4:20
+- Leahy – McBrides 4:19
 
 How to music
 ============
