@@ -42,7 +42,7 @@ Cèilidh: Strip The Willow
 
 ### Вариации танца:
 
-Multiple willow stripping, best done in long sets, with every fourth or fifth couple stripping downwards and everyone else constantly moving upwards. Once a couple reach the top, they wait for the appropriate bar and start another movement. This is called ___Orcadian Strip The Willow___.
+Multiple willow stripping, best done in long sets, with every fourth or fifth couple stripping downwards and everyone else constantly moving upwards. Once a couple reach the top, they wait for the appropriate bar and start another movement. This is called ___Orcadian Strip The Willow (Оркнейская версия Обдери липку)___.
 
 ### Замечания:
 
