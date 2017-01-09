@@ -2,12 +2,15 @@ Music for consideration
 =======================
 # Музыка на заметку
 
+### Misc:
 - The Irish Rovers – Weigh, Hey and Up She Rises 2:56
 - The Irish Rovers – Weigh, Hey and Up She Rises 2:42
 
 ### Reels:
 - Govannen – Billy In The Low Ground / Blackberry Blossom 3:37 [0:44 start]
 - Govannen – Shannons 4:43 [0:36 start]
+
+### Рилы сомнительной пригодности для простых танцев:
 - Govannen – Queen of the May - the Congress 3:44
 - Govannen – A Stor Mo Chroi - Farewell To Erin 6:26
 - Leahy – B Minor: Jenny's Chicken; The Glasgow Reel 3:58
