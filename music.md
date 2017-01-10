@@ -24,6 +24,7 @@ Music for consideration
 - Old Horned Sheep – Morrison Jig / Eight And Forty 3:52
 - Paddy O'connor & Friends – Morrison Jig / Merrily Kissed The Quaker 2:51
 - Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom 4:43
+- Figgy Duff – Auntie Mary / Brother's Jig (extended) 6:26
 
 How to music
 ============
