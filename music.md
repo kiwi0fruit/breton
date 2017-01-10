@@ -9,7 +9,8 @@ Music for consideration
 ### Reels:
 - Govannen – Billy In The Low Ground / Blackberry Blossom 3:37 [0:44 start]
 - Govannen – Shannons 4:43 [0:36 start]
-- __Рилы сомнительной пригодности для простых танцев:__
+- ...
+- Fiddler's Green – Weaver's reel 3:27
 - Govannen – Queen of the May - the Congress 3:44
 - Govannen – A Stor Mo Chroi - Farewell To Erin 6:26
 - Leahy – B Minor: Jenny's Chicken; The Glasgow Reel 3:58
@@ -21,6 +22,8 @@ Music for consideration
 ### Jigs:
 - Reelroad – Kesh / swallow tail 3:55
 - Natalie MacMaster – Volcanic Jig 6:02
+- Natalie MacMaster – Jean's Reel [from 3:08 cut] 2:36
+- Natalie MacMaster – David's Jig 4:48
 - Old Horned Sheep – Morrison Jig / Eight And Forty 3:52
 - Paddy O'connor & Friends – Morrison Jig / Merrily Kissed The Quaker 2:51
 - Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom 4:43
