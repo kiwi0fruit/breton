@@ -20,6 +20,10 @@ Music for consideration
 
 ### Jigs:
 - Reelroad – Kesh / swallow tail 3:55
+- Natalie MacMaster – Volcanic Jig 6:02
+- Old Horned Sheep – Morrison Jig / Eight And Forty 3:52
+- Paddy O'connor & Friends – Morrison Jig / Merrily Kissed The Quaker 2:51
+- Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom 4:43
 
 How to music
 ============
