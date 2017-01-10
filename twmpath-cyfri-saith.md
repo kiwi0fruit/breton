@@ -1,11 +1,12 @@
-Twmpath: Lucky Seven
+Twmpath: Cyfri Saith (Lucky Seven)
 =====================
 # Тумпаф: Лаки севен
 
-...
+Не уверен, что это валлийский танец, но они точно взяли его в оборот: [раз](https://www.cambridgefolk.org.uk/dance_index/dance_index.php?function=show_dance&dance=1256) и [два](https://cy.wikipedia.org/wiki/Dawnsie_Twmpath).
 
 Video:
 ======
+- []()
 
 Music:
 ======
