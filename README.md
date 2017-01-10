@@ -74,12 +74,13 @@
 | [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
 | [_Rus-celtic:_ “Breton” Bourrée](rus-celtic-breton-bourree.md) | [_Rus-celtic:_ «Бретонское» бурре](rus-celtic-breton-bourree.md) |
 | [_Rus-celtic:_ “Irish” Jig](rus-celtic-irish-jig.md) | [_Rus-celtic:_ «Ирландская» джига](rus-celtic-irish-jig.md) |
-| [_Rus-celtic:_ The Mixer](rus-celtic-the-mixer.md) | [_Rus-celtic:_ Зэ Миксер](rus-celtic-the-mixer.md) |
+| [_Rus-celtic:_ The Mixer](rus-celtic-the-mixer.md) | [_Rus-celtic:_ The Миксер](rus-celtic-the-mixer.md) |
 | [_Rus-celtic:_ Saint Patrick Bourrée](rus-celtic-saint-patrick-bourree.md) | [_Rus-celtic:_ Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md) |
 | [Scottish (Schottische)](schottische.md)¹ | [Скоти́ш (Шотиш)](schottische.md) |
 | [Scottish impaire](scottish-impaire.md) | [Скоти́ш ампэ́ (нечётный)](scottish-impaire.md) |
 | [Suite Keff: Dans Keff + Bal Keff](suite-keff.md) | [Сюита Кеф: даньс Кеф + баль Кеф](suite-keff.md) |
 | [Trikot](trikot.md) | [Трикот](trikot.md) |
+| [_Twmpath:_ Cyfri Saith (Lucky Seven)](twmpath-cyfri-saith.md) | [_Тумпаф:_ Семь раз](twmpath-cyfri-saith.md)\* |
 | [_Twmpath:_ Cylch Y Cymry (Welsh Circle)](twmpath-cylch-y-cymry.md) | [_Тумпаф:_ Валлийский круг](twmpath-cylch-y-cymry.md)\* |
 | [_Twmpath:_ Rhwng Ddwy (Between Two)](twmpath-rhwng-ddwy.md) | [_Тумпаф:_ Между двумя](twmpath-rhwng-ddwy.md) |
 | [_Twmpath:_ Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md) | [_Тумпаф:_ Рогатый баран](twmpath-y-ddafad-gorniog.md)\* |
