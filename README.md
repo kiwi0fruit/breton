@@ -41,7 +41,7 @@
 Другие танцы:
 
 - __²__ - полька,
-- префикс _Yet another_ - модификации танцев by kiwi0fruit.
+- префикс _Kiwi's_ - модификации танцев by kiwi0fruit.
 
 | Name | Название |
 | ---- | -------- |
@@ -59,12 +59,12 @@
 | [Cercle Circassien](cercle-circassien.md) | [Черкесский круг (Сёркль Сиркасьён)](cercle-circassien.md) |
 | [Chapelloise](chapelloise.md) | [Шапелуаз](chapelloise.md) |
 | [Cochinchine](cochinchine.md) | [Кошиншин](cochinchine.md) |
-| [Galop Nantais](galop-nantais.md)¹ | [Нантский галоп](galop-nantais.md)\* |
+| [Galop Nantais](galop-nantais.md) | [Нантский галоп](galop-nantais.md)\* |
 | [Hanter dro](hanter-dro.md) | [Антердро](hanter-dro.md) |
 | [Kejaj](kejaj.md) | [Кежаж](kejaj.md) |
 | [_Kiwi's:_ An dro with aliens](kiwi-s-an-dro-with-aliens.md) | [_Kiwi's:_ Андро с пришельцами](kiwi-s-an-dro-with-aliens.md) |
 | [_Kiwi's:_ Yet another polka](kiwi-s-yet-another-polka.md) | [_Kiwi's:_ Ещё одна полька](kiwi-s-yet-another-polka.md) |
-| [_Kiwi's:_ Yet another polka mixer](kiwi-s-yet-another-polka-mixer.md) | [_Kiwi's:_ Ещё одна полька-миксер](kiwi-s-yet-another-polka-mixer.md) |
+| [_Kiwi's:_ Yet another polka mixer](kiwi-s-yet-another-polka-mixer.md) | [_Kiwi's:_ Ещё одна полька-миксер](kiwi-s-yet-another-polka-mixer.md)\* |
 | [Klamm](klamm.md) | [Клам](klamm.md) |
 | [Kost ar c'hoat](kost-ar-c-hoat.md) | [Костархот (Кастарват)](kost-ar-c-hoat.md) |
 | [Mazurka](mazurka.md)¹ | [Мазурка](mazurka.md)\* |
@@ -80,9 +80,9 @@
 | [Scottish impaire](scottish-impaire.md) | [Скоти́ш ампэ́ (нечётный)](scottish-impaire.md) |
 | [Suite Keff: Dans Keff + Bal Keff](suite-keff.md) | [Сюита Кеф: даньс Кеф + баль Кеф](suite-keff.md) |
 | [Trikot](trikot.md) | [Трикот](trikot.md) |
-| [_Twmpath:_ Cylch Y Cymry (Welsh Circle)](twmpath-cylch-y-cymry.md) | [_Тумпаф:_ Валлийский круг](twmpath-cylch-y-cymry.md) |
+| [_Twmpath:_ Cylch Y Cymry (Welsh Circle)](twmpath-cylch-y-cymry.md) | [_Тумпаф:_ Валлийский круг](twmpath-cylch-y-cymry.md)\* |
 | [_Twmpath:_ Rhwng Ddwy (Between Two)](twmpath-rhwng-ddwy.md) | [_Тумпаф:_ Между двумя](twmpath-rhwng-ddwy.md) |
-| [_Twmpath:_ Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md) | [_Тумпаф:_ Рогатый баран](twmpath-y-ddafad-gorniog.md) |
+| [_Twmpath:_ Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md) | [_Тумпаф:_ Рогатый баран](twmpath-y-ddafad-gorniog.md)\* |
 | . |  |
 | [Rock and roll](rock-and-roll.md)⁰ | [Рок-н-ролл](rock-and-roll.md) |
 | [Music for consideration, How to music](music.md) | [Музыка на заметку](music.md) |
