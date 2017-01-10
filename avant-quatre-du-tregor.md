@@ -64,4 +64,4 @@ Video:
 
 Music:
 =======
-Apprenez Les Danses Bretonnes vol.1 – En avant quatre du Tregor 2:51
+- Apprenez Les Danses Bretonnes – En Avant-quatre du Trégor (vol.1 Léon - Trégor) 2:51
