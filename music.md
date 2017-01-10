@@ -10,6 +10,8 @@ Music for consideration
 - Govannen – Billy In The Low Ground / Blackberry Blossom 3:37 [0:44 start]
 - Govannen – Shannons 4:43 [0:36 start]
 - ...
+- Danse McCabre – Cumberland Square Eight (The Helicopter) 4:29
+- Danse McCabre – Flying Scotsman 5:37
 - Fiddler's Green – Weaver's reel 3:27
 - Govannen – Queen of the May - the Congress 3:44
 - Govannen – A Stor Mo Chroi - Farewell To Erin 6:26
