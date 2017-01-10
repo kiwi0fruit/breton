@@ -12,4 +12,6 @@ Music:
 ======
 Музыка: 32-квадратная. [Здесь](http://www.pluckandsqueeze.com/lucky7.htm) рекомендуют джигу или хорнпайп, а [здесь](https://www.scottishdance.net/ceilidh/dances.html#LuckySeven) - джигу или рил. Можно попробовать:
 
-- ...
+- такая же, как и в [Cèilidh: Strip The Willow](ceilidh-strip-the-willow.md)
+- такая же, как и в [Cèilidh: Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md)
+- такая же, как и в [Rus-celtic: “Irish” Jig](rus-celtic-irish-jig.md)
