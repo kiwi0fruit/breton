@@ -49,6 +49,7 @@ Music:
 Полька классически танцуется под размер 2/4 ([подробнее](http://music.stackexchange.com/questions/5621/is-there-a-difference-between-2-4-and-4-4)). Все указания ритмов ниже указаны на угад - как мне послышалось.
 
 ## Breton:
+- **Amieva – La Rociniega (Polka)** 4:46
 - **Carré Manchot – Polkas** 4:04 (2/4),  
   Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 10 раз.
 - **Liamm – Ar milinaer laer (Polka-Plinn)** 4:22
