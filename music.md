@@ -9,8 +9,7 @@ Music for consideration
 ### Reels:
 - Govannen – Billy In The Low Ground / Blackberry Blossom 3:37 [0:44 start]
 - Govannen – Shannons 4:43 [0:36 start]
-
-### Рилы сомнительной пригодности для простых танцев:
+- __Рилы сомнительной пригодности для простых танцев:__
 - Govannen – Queen of the May - the Congress 3:44
 - Govannen – A Stor Mo Chroi - Farewell To Erin 6:26
 - Leahy – B Minor: Jenny's Chicken; The Glasgow Reel 3:58
@@ -18,6 +17,9 @@ Music for consideration
 - Leahy – Seamus 4:20
 - Leahy – McBrides 4:19
 - Mark Arrington – Glasgow Reel Set 113 3:59
+
+### Jigs:
+- Reelroad – Kesh / swallow tail 3:55
 
 How to music
 ============
