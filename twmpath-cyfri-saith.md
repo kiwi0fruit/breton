@@ -13,10 +13,10 @@ Music:
 Музыка: 32-квадратная. [Здесь](http://www.pluckandsqueeze.com/lucky7.htm) рекомендуют джигу или хорнпайп, а [здесь](https://www.scottishdance.net/ceilidh/dances.html#LuckySeven) - джигу или рил. Можно попробовать:
 
 ### [__Джиги__](music.md#jigs):
+- Ronan Hardiman – Siamsa (reel into jig back and forth) 4:31
 - Paddy O'connor & Friends – Morrison Jig / Merrily Kissed The Quaker 2:51
 - Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom 4:43
 - ...
-- Ronan Hardiman – Siamsa (reel into jig back and forth) 4:31
 - The Columba Minstrels – Kesh Jig / The Blarney Pilgrim 3:15
 
 ### [__Рилы__](music.md#reels):
