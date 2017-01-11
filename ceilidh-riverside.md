@@ -22,6 +22,7 @@ Video:
 
 Music:
 ======
-- Natalie MacMaster – Volcanic Jig 6:02
+[Здесь](http://www.scottish-country-dancing-dictionary.com/dance-crib/riverside.html) рекомендуют джиги.
 
-Можно попробовать и другие [джиги](music.md#jigs) и [рилы](music.md#reels).
+- Natalie MacMaster – Volcanic Jig 6:02
+- см. другие [джиги](music.md#jigs)
