@@ -7,29 +7,28 @@ Music for consideration
 - The Irish Rovers – Weigh, Hey and Up She Rises 2:42
 
 ### Reels:
-- Govannen – Billy In The Low Ground / Blackberry Blossom 3:37 [0:44 start]
-- Govannen – Shannons 4:43 [0:36 start]
-- ...
-- Danse McCabre – Cumberland Square Eight (The Helicopter) 4:29
-- Danse McCabre – Flying Scotsman 5:37
+- __Danse McCabre – Cumberland Square Eight (The Helicopter)__ 4:29
+- __Danse McCabre – Flying Scotsman__ 5:37
 - Fiddler's Green – Weaver's reel 3:27
-- Govannen – Queen of the May - the Congress 3:44
 - Govannen – A Stor Mo Chroi - Farewell To Erin 6:26
+- __Govannen – Billy In The Low Ground / Blackberry Blossom__ 3:37 [0:44 start]
+- Govannen – Queen of the May - the Congress 3:44
+- __Govannen – Shannons__ 4:43 [0:36 start]
 - Leahy – B Minor: Jenny's Chicken; The Glasgow Reel 3:58
-- Leahy – The Call To Dance (Westburne Reel, Andy Renwick's Ferret) 6:54
-- Leahy – Seamus 4:20
 - Leahy – McBrides 4:19
+- Leahy – Seamus 4:20
+- Leahy – The Call To Dance (Westburne Reel, Andy Renwick's Ferret) 6:54
 - Mark Arrington – Glasgow Reel Set 113 3:59
 
 ### Jigs:
-- Reelroad – Kesh / swallow tail 3:55
-- Natalie MacMaster – Volcanic Jig 6:02
+- __Figgy Duff – Auntie Mary / Brother's Jig (extended)__ 6:26
+- __Natalie MacMaster – Volcanic Jig__ 6:02
 - Natalie MacMaster – Jean's Reel [from 3:08 cut] 2:36
 - Natalie MacMaster – David's Jig 4:48
 - Old Horned Sheep – Morrison Jig / Eight And Forty 3:52
-- Paddy O'connor & Friends – Morrison Jig / Merrily Kissed The Quaker 2:51
-- Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom 4:43
-- Figgy Duff – Auntie Mary / Brother's Jig (extended) 6:26
+- __Paddy O'connor & Friends – Morrison Jig / Merrily Kissed The Quaker__ 2:51
+- Reelroad – Kesh / swallow tail 3:55
+- __Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom__ 4:43
 
 How to music
 ============
