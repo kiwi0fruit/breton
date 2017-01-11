@@ -23,6 +23,5 @@ Video:
 Music:
 ======
 - Natalie MacMaster – Volcanic Jig 6:02
-- Ronan Hardiman - Siamsa 4:31
 
 Можно попробовать и другие [джиги](music.md#jigs) и [рилы](music.md#reels).
