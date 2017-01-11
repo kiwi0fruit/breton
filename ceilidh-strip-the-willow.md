@@ -61,4 +61,6 @@ Music:
 Music: 6/8 or 9/8 double jigs. E.g. "The Irish Washerwoman", "The Curlew", "The Jig of Slurs" for 6/8 and "Drops of Brandy" for 9/8. [Source](https://www.scottishdance.net/ceilidh/dances.html#StripTheWillow).
 
 - Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom 4:43
+- ...
+- The Columba Minstrels – Kesh Jig / The Blarney Pilgrim 3:15
 - см. другие [джиги](music.md#jigs)
