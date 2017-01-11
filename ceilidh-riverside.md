@@ -25,4 +25,9 @@ Music:
 [Здесь](http://www.scottish-country-dancing-dictionary.com/dance-crib/riverside.html) рекомендуют джиги.
 
 - Natalie MacMaster – Volcanic Jig 6:02
+- Paddy O'connor & Friends – Morrison Jig / Merrily Kissed The Quaker 2:51
+- Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom 4:43
+- Siamsa (reel into jig back and forth)
+- ...
+- The Columba Minstrels – Kesh Jig / The Blarney Pilgrim 3:15
 - см. другие [джиги](music.md#jigs)
