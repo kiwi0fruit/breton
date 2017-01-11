@@ -57,6 +57,7 @@ Music:
 - Spakkabrianza – Mortadella Dance (Scottish) 3:41
 - Titom – Axelle' scottish 3:27
 - Titom – Scottish Des Egarés 5:00
+- Dédale – Ombre Blanche / Scottish Jazzy [from 2:38] 5:37
 
 ### Other:
 - Brotto Lopez Sextet – Avenueschottis (Scottish) 3:37
