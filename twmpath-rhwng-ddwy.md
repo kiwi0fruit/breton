@@ -22,5 +22,4 @@ Music:
 Музыка: 32-квадратная, тактовый размер 4/4. [Здесь](http://www.pluckandsqueeze.com/Rhwng.htm) рекомендуют рилы. Можно попробовать:
 
 - Govannen – Billy In The Low Ground / Blackberry Blossom 3:37 [0:44 start]
-- Govannen – Shannons 4:43 [0:36 start]
 - см. другие [рилы](music.md#reels)
