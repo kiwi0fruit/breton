@@ -21,6 +21,8 @@ Music for consideration
 - Mark Arrington – Glasgow Reel Set 113 3:59
 
 ### Jigs:
+- Bothy Band – The Kesh Jig / Give Us a Drink of Water / The Flower of the Flock / Famous Ballymote 4:35
+- Bothy Band – The Kesh Jig / Give Us a Drink of Water / The Flower of the Flock / Famous Ballymote (live) 4:41 
 - __Figgy Duff – Auntie Mary / Brother's Jig (extended)__ 6:26
 - __Natalie MacMaster – Volcanic Jig__ 6:02
 - Natalie MacMaster – Jean's Reel [from 3:08 cut] 2:36
@@ -29,6 +31,7 @@ Music for consideration
 - __Paddy O'connor & Friends – Morrison Jig / Merrily Kissed The Quaker__ 2:51
 - Reelroad – Kesh / swallow tail 3:55
 - Ronan Hardiman – Siamsa (reel into jig back and forth) 4:31
+- The Columba Minstrels – Kesh Jig / The Blarney Pilgrim 3:15
 - __Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom__ 4:43
 
 How to music
