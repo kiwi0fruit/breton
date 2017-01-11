@@ -57,6 +57,7 @@ Music: This is normally danced to tunes in common time (32 bar and the dance is 
 
 - Danse McCabre - Cumberland Square Eight (The Helicopter) 4:29
 - Danse McCabre - Flying Scotsman 5:38 // ещё не пробовал, но должно быть норм.
+- Они находятся в секции [reels](music.md#reels)
 
 Video:
 ======
