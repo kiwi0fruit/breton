@@ -12,13 +12,14 @@ Music:
 ======
 Музыка: 32-квадратная. [Здесь](http://www.pluckandsqueeze.com/lucky7.htm) рекомендуют джигу или хорнпайп, а [здесь](https://www.scottishdance.net/ceilidh/dances.html#LuckySeven) - джигу или рил. Можно попробовать:
 
-- [__Джиги__](music.md#jigs):
+### [__Джиги__](music.md#jigs):
 - Paddy O'connor & Friends – Morrison Jig / Merrily Kissed The Quaker 2:51
 - Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom 4:43
 - Ronan Hardiman – Siamsa (reel into jig back and forth) 4:31
 - ...
 - The Columba Minstrels – Kesh Jig / The Blarney Pilgrim 3:15
-- [__Рилы__](music.md#reels):
+
+### [__Рилы__](music.md#reels):
 - Danse McCabre – Cumberland Square Eight (The Helicopter) 4:29
 - Danse McCabre – Flying Scotsman 5:37
 - Govannen – Billy In The Low Ground / Blackberry Blossom 3:37 [0:44 start]
