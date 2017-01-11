@@ -15,7 +15,7 @@ Music:
 - [__Джиги__](music.md#jigs):
 - Paddy O'connor & Friends – Morrison Jig / Merrily Kissed The Quaker 2:51
 - Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom 4:43
-- Siamsa (reel into jig back and forth)
+- Ronan Hardiman – Siamsa (reel into jig back and forth)
 - ...
 - The Columba Minstrels – Kesh Jig / The Blarney Pilgrim 3:15
 - [__Рилы__](music.md#reels):
