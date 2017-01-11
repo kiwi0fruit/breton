@@ -20,9 +20,7 @@ Music for consideration
 - Leahy – The Call To Dance (Westburne Reel, Andy Renwick's Ferret) 6:54
 - Mark Arrington – Glasgow Reel Set 113 3:59
 
-### Jigs:
-- Bothy Band – The Kesh Jig / Give Us a Drink of Water / The Flower of the Flock / Famous Ballymote 4:35
-- Bothy Band – The Kesh Jig / Give Us a Drink of Water / The Flower of the Flock / Famous Ballymote (live) 4:41 
+### Jigs: 
 - __Figgy Duff – Auntie Mary / Brother's Jig (extended)__ 6:26
 - __Natalie MacMaster – Volcanic Jig__ 6:02
 - Natalie MacMaster – Jean's Reel [from 3:08 cut] 2:36
