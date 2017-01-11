@@ -24,5 +24,4 @@ Music:
 - Govannen – Billy In The Low Ground / Blackberry Blossom 3:37 [0:44 start]
 - Govannen – Shannons 4:43 [0:36 start]
 - ...
-- Fiddler's Green – Weaver's reel 3:27
 - Mark Arrington – Glasgow Reel Set 113 3:59
