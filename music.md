@@ -18,7 +18,7 @@ Music for consideration
 - Leahy – McBrides 4:19
 - Leahy – Seamus 4:20
 - Leahy – The Call To Dance (Westburne Reel, Andy Renwick's Ferret) 6:54
-- Mark Arrington – Glasgow Reel Set 113 3:59
+- __Mark Arrington – Glasgow Reel Set 113__ 3:59
 
 ### Jigs: 
 - __Figgy Duff – Auntie Mary / Brother's Jig (extended)__ 6:26
@@ -28,8 +28,8 @@ Music for consideration
 - Old Horned Sheep – Morrison Jig / Eight And Forty 3:52
 - __Paddy O'connor & Friends – Morrison Jig / Merrily Kissed The Quaker__ 2:51
 - Reelroad – Kesh / swallow tail 3:55
-- Ronan Hardiman – Siamsa (reel into jig back and forth) 4:31
-- The Columba Minstrels – Kesh Jig / The Blarney Pilgrim 3:15
+- __Ronan Hardiman – Siamsa (reel into jig back and forth)__ 4:31
+- __The Columba Minstrels – Kesh Jig / The Blarney Pilgrim__ 3:15
 - __Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom__ 4:43
 
 How to music
