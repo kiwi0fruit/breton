@@ -56,7 +56,7 @@ Music:
 Music: This is normally danced to tunes in common time (32 bar and the dance is 64 bars long) but can be and is sometimes done to jigs (6/8 tempo). [Source](https://www.scottishdance.net/ceilidh/dances.html#CumberlandSquareEight).
 
 - Danse McCabre - Cumberland Square Eight (The Helicopter) 4:29
-- см. секции [Reels](music.md#reels) и [Jigs](music.md#jigs).
+- см. другие [рилы](music.md#reels), а так же [джиги](music.md#jigs).
 
 Video:
 ======
