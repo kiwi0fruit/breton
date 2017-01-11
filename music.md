@@ -28,6 +28,7 @@ Music for consideration
 - Old Horned Sheep – Morrison Jig / Eight And Forty 3:52
 - __Paddy O'connor & Friends – Morrison Jig / Merrily Kissed The Quaker__ 2:51
 - Reelroad – Kesh / swallow tail 3:55
+- Ronan Hardiman – Siamsa (reel into jig back and forth) 4:31
 - __Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom__ 4:43
 
 How to music
