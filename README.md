@@ -64,7 +64,7 @@
 | [Kejaj](kejaj.md) | [Кежаж](kejaj.md) |
 | [_Kiwi's:_ An dro with aliens](kiwi-s-an-dro-with-aliens.md) | [_Kiwi's:_ Андро с пришельцами](kiwi-s-an-dro-with-aliens.md) |
 | [_Kiwi's:_ Yet another polka](kiwi-s-yet-another-polka.md) | [_Kiwi's:_ Ещё одна полька](kiwi-s-yet-another-polka.md) |
-| [_Kiwi's:_ Yet another polka mixer](kiwi-s-yet-another-polka-mixer.md) | [_Kiwi's:_ Ещё одна полька-миксер](kiwi-s-yet-another-polka-mixer.md)\* |
+| [_Kiwi's:_ Yet another polka mixer](kiwi-s-yet-another-polka-mixer.md) | [_Kiwi's:_ Ещё одна полька-миксер](kiwi-s-yet-another-polka-mixer.md) |
 | [Klamm](klamm.md) | [Клам](klamm.md) |
 | [Kost ar c'hoat](kost-ar-c-hoat.md) | [Костархот (Кастарват)](kost-ar-c-hoat.md) |
 | [La Veuze](la-veuze.md) | [Ля вёз](la-veuze.md) |
