@@ -30,6 +30,8 @@ Music for consideration
 - Reelroad – Kesh / swallow tail 3:55
 - __Ronan Hardiman – Siamsa (reel into jig back and forth)__ 4:31
 - __The Columba Minstrels – Kesh Jig / The Blarney Pilgrim__ 3:15
+- The Columba Minstrels – Drunken Landlady / Mawdoborne 4:22
+- The Columba Minstrels – The Musical Priest / The Wind That Shakes the Barley 3:01
 - __Waxies Dargle – Jigs & Reel: Father O'Flyn / Irish Washerwoman / The Blackberry Blossom__ 4:43
 
 How to music
