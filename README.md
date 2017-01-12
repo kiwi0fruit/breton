@@ -73,7 +73,6 @@
 | [Polka](polka.md)² | [Полька](polka.md)\* |
 | [Polka piquée](polka-piquee.md)¹ | [Полька пи́ки](polka-piquee.md) |
 | [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
-| [_Rus-celtic:_ “Breton” Bourrée](rus-celtic-breton-bourree.md) | [_Rus-celtic:_ «Бретонское» бурре](rus-celtic-breton-bourree.md) |
 | [_Rus-celtic:_ “Irish” Jig](rus-celtic-irish-jig.md) | [_Rus-celtic:_ «Ирландская» джига](rus-celtic-irish-jig.md) |
 | [_Rus-celtic:_ The Mixer](rus-celtic-the-mixer.md) | [_Rus-celtic:_ The Миксер](rus-celtic-the-mixer.md) |
 | [_Rus-celtic:_ Saint Patrick Bourrée](rus-celtic-saint-patrick-bourree.md) | [_Rus-celtic:_ Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md) |
