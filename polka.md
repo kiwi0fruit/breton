@@ -48,16 +48,13 @@ Music:
 =======
 Полька классически танцуется под размер 2/4 ([подробнее](http://music.stackexchange.com/questions/5621/is-there-a-difference-between-2-4-and-4-4)). Все указания ритмов ниже указаны на угад - как мне послышалось.
 
-## Breton:
 - **Amieva – La Rociniega (Polka)** 4:46
 - **Carré Manchot – Polkas** 4:04 (2/4),  
   Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 10 раз.
-- **Liamm – Ar milinaer laer (Polka-Plinn)** 4:22
-- **Loened Fall – Al Luton (Polka Plinn?)** 4:48
-- **Loened Fall – An Den Dek Gwech Intañv - Polka Plinn** 4:48 (2/4)
 - **Martina Quiere Bailar - Polka Miseria** 4:07
+- может, сгодится и музыка для [польки Плинн](polka-plinn.md)
 
-## Irish:
+## Irish music:
 - **James Horner – An Irish party in 3rd class (John Ryan's Polka + Blarney Pilgrim)** 3:34 (2/4 + 4/4),  
   Состоит из одной восьмёрки вступления, и чередования:  32 (4x8) счётов куплета, потом 32 (4x8) счётов припева, такие квадраты по 64 такта происходят 5 раз. John Ryan's Polka заканчивается в 2:08.
 - **Fiddler's Green – Girls Along The Road** 3:38
