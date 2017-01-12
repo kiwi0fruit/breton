@@ -85,6 +85,7 @@
 | [_Twmpath:_ Cylch Y Cymry (Welsh Circle)](twmpath-cylch-y-cymry.md) | [_Тумпаф:_ Валлийский круг](twmpath-cylch-y-cymry.md)\* |
 | [_Twmpath:_ Rhwng Ddwy (Between Two)](twmpath-rhwng-ddwy.md) | [_Тумпаф:_ Между двумя](twmpath-rhwng-ddwy.md) |
 | [_Twmpath:_ Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md) | [_Тумпаф:_ Рогатый баран](twmpath-y-ddafad-gorniog.md)\* |
+| [Valse](valse.md) | [Вальс](valse.md)\* |
 | . |  |
 | [Rock and roll](rock-and-roll.md)⁰ | [Рок-н-ролл](rock-and-roll.md) |
 | [Music for consideration, How to music](music.md) | [Музыка на заметку](music.md) |
