@@ -13,19 +13,19 @@
 7. [Danse keff](https://www.youtube.com/watch?v=B6qej91iYLc)
 8. [Kost Ar C'hoat](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
 9. [Бурре на четверых](https://vk.com/video-25749886_162534468)¹
-10. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)¹
-11. [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)¹
-12. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
-13. [Polka de Paimpol](https://vk.com/video39341115_456239021)
+10. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
+11. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
+12. [Polka de Paimpol](https://vk.com/video39341115_456239021)
+13. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)¹
 14. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
 15. [Chapelloise](https://www.youtube.com/watch?v=XwNRitt0AFo)
 
-### И парные танцы в закрытой позиции:
+### И парные импровизационные танцы:
 
 1. [Schottische](https://www.youtube.com/watch?v=vwHZvw7jk94)¹
-2. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)¹
-3. [Polka](https://youtu.be/sVnfVUWiBTU?t=20)². Ещё элементы: [libraryofdance.org/dances/polka](http://www.libraryofdance.org/dances/polka/)
-4. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)¹
+2. [Polka](https://youtu.be/QagBbI-WNUo?t=17)¹ и другого стиля [polka](https://youtu.be/sVnfVUWiBTU?t=20)¹
+3. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)¹
+4. [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)¹
 5. [Mazurka](https://www.youtube.com/watch?v=vEDn9frcy08)¹
 
 Описания танцев
@@ -40,7 +40,6 @@
 
 Другие танцы:
 
-- __²__ - полька,
 - префикс _Kiwi's_ - модификации танцев by kiwi0fruit.
 
 | Name | Название |
@@ -70,7 +69,7 @@
 | [La Veuze](la-veuze.md) | [Ля вёз](la-veuze.md) |
 | [Mazurka](mazurka.md)¹ | [Мазурка](mazurka.md)\* |
 | [Pach pi](pach-pi.md) | [Пашпи](pach-pi.md) |
-| [Polka](polka.md)² | [Полька](polka.md)\* |
+| [Polka](polka.md)¹ | [Полька](polka.md)\* |
 | [Polka piquée](polka-piquee.md)¹ | [Полька пи́ки](polka-piquee.md) |
 | [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
 | [_Rus-celtic:_ “Irish” Jig](rus-celtic-irish-jig.md) | [_Rus-celtic:_ «Ирландская» джига](rus-celtic-irish-jig.md) |
