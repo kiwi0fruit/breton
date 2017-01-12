@@ -51,7 +51,7 @@
 | [An dro Retourné](an-dro-retourne.md) | [Андро Ретурни́](an-dro-retourne.md) |
 | [Avant-deux de Bazouges](avant-deux-de-bazouges.md) | [Аван-дё де Базуж](avant-deux-de-bazouges.md) |
 | [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
-| [Bourrée 2 temps](bourree-2-temps.md)¹ | [Бурре на 2 счёта](bourree.md) |
+| [Bourrée 2 temps](bourree-2-temps.md)¹ | [Бурре на 2 счёта](bourree-2-temps.md) |
 | [Bourrée 3 temps](bourree-3-temps.md)¹ | [Бурре на 3 счёта](bourree-3-temps.md)\* |
 | [_Cèilidh:_ Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md) | [_Кейли:_ Геликоптер](ceilidh-cumberland-square-eight.md) |
 | [_Cèilidh:_ Riverside](ceilidh-riverside.md) | [_Кейли:_ Риверсайд](ceilidh-riverside.md) |
@@ -83,7 +83,7 @@
 | [_Twmpath:_ Cyfri Saith (Lucky Seven)](twmpath-cyfri-saith.md) | [_Тумпаф:_ Седьмой счёт](twmpath-cyfri-saith.md) |
 | [_Twmpath:_ Cylch Y Cymry (Welsh Circle)](twmpath-cylch-y-cymry.md) | [_Тумпаф:_ Валлийский круг](twmpath-cylch-y-cymry.md) |
 | [_Twmpath:_ Rhwng Ddwy (Between Two)](twmpath-rhwng-ddwy.md) | [_Тумпаф:_ Между двумя](twmpath-rhwng-ddwy.md) |
-| [_Twmpath:_ Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md) | [_Тумпаф:_ Рогатый баран](twmpath-y-ddafad-gorniog.md)\* |
+| [_Twmpath:_ Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md) | [_Тумпаф:_ Рогатый баран](twmpath-y-ddafad-gorniog.md) |
 | [Valse](valse.md) | [Вальс](valse.md)\* |
 | . |  |
 | [Rock and roll](rock-and-roll.md)⁰ | [Рок-н-ролл](rock-and-roll.md) |
