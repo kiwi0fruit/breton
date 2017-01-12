@@ -18,4 +18,7 @@ Video:
 
 Music:
 ======
-- same as in [polka](polka.md)
+- **Liamm – Ar milinaer laer (Polka-Plinn)** 4:22
+- **Loened Fall – Al Luton (Polka Plinn?)** 4:48
+- **Loened Fall – An Den Dek Gwech Intañv - Polka Plinn** 4:48 (2/4)
+- может, сгодится и любая [полька](polka.md)
