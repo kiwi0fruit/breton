@@ -36,10 +36,7 @@
 - префикс _Cèilidh_ - шотландские кейли (scottish cèilidh),
 - префикс _Twmpath_ - валлийский тумпаф (welsh twmpath),
 - префикс _Rus-celtic_ - вечеринки кельтских сообществ в России/Белоруссии/Украине (celtic community parties in Russia/Belarus/Ukraine).
-
-Другие танцы:
-
-- префикс _Kiwi's_ - модификации танцев by kiwi0fruit.
+- и дополнительно: префикс _Kiwi's_ - модификации танцев by kiwi0fruit.
 
 | Name | Название |
 | ---- | -------- |
