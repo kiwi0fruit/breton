@@ -32,15 +32,7 @@
 
 Описания танцев
 ===============
-Данный архив танцев несколько разросся и на данный момет содержит описания не только бретонских и французских танцев, но и кельтских. Описаны танцы, популярные на следующих танцевальных вечеринках:
-
-- _без цифры и префикса_ - бретонский фест-ноз (fest-noz) и бал-фолк во Франции (bal folk),
-- префикс _Cèilidh_ - шотландские кейли (scottish cèilidh),
-- префикс _Twmpath_ - валлийский тумпаф (welsh twmpath),
-- префикс _Rus-celtic_ - вечеринки кельтских сообществ в России/Белоруссии/Украине (celtic community parties in Russia/Belarus/Ukraine).
-- и дополнительно:
-- префикс _Kiwi's_ - модификации танцев by kiwi0fruit,
-- префикс _Misc._ - разное (miscellaneous).
+Описаны танцы, популярные на бретонском фест-нозе (fest-noz) и бал-фолке во Франции (bal folk) - это танцевальные вечеринки.
 
 | Name | Название |
 | ---- | -------- |
@@ -72,24 +64,35 @@
 | [Trikot](trikot.md) | [Трикот](trikot.md) |
 | [Valse](valse.md) | [Вальс](valse.md)\* |
 
-|    | Name |    | Название |
-| -- | ---- | -- | -------- |
-| ___Cèilidh:___ | [Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md) | ___Кейли:___ | [Геликоптер](ceilidh-cumberland-square-eight.md) |
-| ___Cèilidh:___ | [Riverside](ceilidh-riverside.md) | ___Кейли:___ | [Риверсайд](ceilidh-riverside.md) |
-| ___Cèilidh:___ | [Strip The Willow](ceilidh-strip-the-willow.md) | ___Кейли:___ | [Обдери липку](ceilidh-strip-the-willow.md) |
-| ___Twmpath:___ | [Cyfri Saith (Lucky Seven)](twmpath-cyfri-saith.md) | ___Тумпаф:___ | [Седьмой счёт](twmpath-cyfri-saith.md) |
-| ___Twmpath:___ | [Cylch Y Cymry (Welsh Circle)](twmpath-cylch-y-cymry.md) | ___Тумпаф:___ | [Валлийский круг](twmpath-cylch-y-cymry.md) |
-| ___Twmpath:___ | [Rhwng Ddwy (Between Two)](twmpath-rhwng-ddwy.md) | ___Тумпаф:___ | [Между двумя](twmpath-rhwng-ddwy.md) |
-| ___Twmpath:___ | [Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md) | ___Тумпаф:___ | [Рогатый баран](twmpath-y-ddafad-gorniog.md) |
-| ___Rus-celtic:___ | [“Irish” Jig](rus-celtic-irish-jig.md) | ___Rus-celtic:___ | [«Ирландская» джига](rus-celtic-irish-jig.md) |
-| ___Rus-celtic:___ | [The Mixer](rus-celtic-the-mixer.md) | ___Rus-celtic:___ | [The Миксер](rus-celtic-the-mixer.md) |
-| ___Rus-celtic:___ | [Saint Patrick Bourree](rus-celtic-saint-patrick-bourree.md) | ___Rus-celtic:___ | [Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md) |
-| ___Kiwi's:___ | [An dro with aliens](kiwi-s-an-dro-with-aliens.md) | ___Kiwi's:___ | [Андро с пришельцами](kiwi-s-an-dro-with-aliens.md) |
-| ___Kiwi's:___ | [Yet another polka](kiwi-s-yet-another-polka.md) | ___Kiwi's:___ | [Ещё одна полька](kiwi-s-yet-another-polka.md) |
-| ___Kiwi's:___ | [Yet another polka mixer](kiwi-s-yet-another-polka-mixer.md) | ___Kiwi's:___ | [Ещё одна полька-миксер](kiwi-s-yet-another-polka-mixer.md) |
-| ___Misc.:___ | [Music for consideration, How to music](music.md) | ___Разное:___ | [Музыка на заметку](music.md) |
-| ___Misc.:___ | [Rock and roll](rock-and-roll.md)⁰ | ___Разное:___ | [Рок-н-ролл](rock-and-roll.md) |
+Данный архив танцев несколько разросся и на данный момет содержит ещё и описания некоторых кельтских танцев, а так своих танцев. Описаны танцы, популярные на следующих танцевальных вечеринках:
 
+- __Cèilidh__ - шотландские кейли (scottish cèilidh),
+- __Twmpath__ - валлийский тумпаф (welsh twmpath),
+- __Rus-celtic__ - вечеринки кельтских сообществ в России/Белоруссии/Украине (celtic community parties in Russia/Belarus/Ukraine).
+- ...
+- __Kiwi's__ - модификации танцев by kiwi0fruit,
+- __Misc.__ - разное (miscellaneous).
+
+|  Origin  | Name | Название |
+| ---- | ---- | -------- |
+| __Cèilidh__ | [Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md) | [Геликоптер](ceilidh-cumberland-square-eight.md) |
+| __Cèilidh__ | [Riverside](ceilidh-riverside.md) | [Риверсайд](ceilidh-riverside.md) |
+| __Cèilidh__ | [Strip The Willow](ceilidh-strip-the-willow.md) | [Обдери липку](ceilidh-strip-the-willow.md) |
+| __Twmpath__ | [Cyfri Saith (Lucky Seven)](twmpath-cyfri-saith.md) | [Седьмой счёт](twmpath-cyfri-saith.md) |
+| __Twmpath__ | [Cylch Y Cymry (Welsh Circle)](twmpath-cylch-y-cymry.md) | [Валлийский круг](twmpath-cylch-y-cymry.md) |
+| __Twmpath__ | [Rhwng Ddwy (Between Two)](twmpath-rhwng-ddwy.md) | [Между двумя](twmpath-rhwng-ddwy.md) |
+| __Twmpath__ | [Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md) | [Рогатый баран](twmpath-y-ddafad-gorniog.md) |
+| __Rus-celtic__ | [“Irish” Jig](rus-celtic-irish-jig.md) | [«Ирландская» джига](rus-celtic-irish-jig.md) |
+| __Rus-celtic__ | [The Mixer](rus-celtic-the-mixer.md) | [The Миксер](rus-celtic-the-mixer.md) |
+| __Rus-celtic__ | [Saint Patrick Bourree](rus-celtic-saint-patrick-bourree.md) | [Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md) |
+| __Kiwi's__ | [An dro with aliens](kiwi-s-an-dro-with-aliens.md) | [Андро с пришельцами](kiwi-s-an-dro-with-aliens.md) |
+| __Kiwi's__ | [Yet another polka](kiwi-s-yet-another-polka.md) | [Ещё одна полька](kiwi-s-yet-another-polka.md) |
+| __Kiwi's__ | [Yet another polka mixer](kiwi-s-yet-another-polka-mixer.md) | [Ещё одна полька-миксер](kiwi-s-yet-another-polka-mixer.md) |
+| __Misc.__ | [Music for consideration, How to music](music.md) | [Музыка на заметку](music.md) |
+| __Misc.__ | [Rock and roll](rock-and-roll.md)⁰ | [Рок-н-ролл](rock-and-roll.md) |
+
+
+### Примечания:
 - __\*__ - недоделанные описания.
 - __⁰__ - мне было лень создать отдельный репозиторий под рок-н-ролл.
 
