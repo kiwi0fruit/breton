@@ -32,8 +32,7 @@
 ===============
 Данный архив танцев несколько разросся и на данный момет содержит описания не только бретонских и французских танцев, но и кельтских. Описаны танцы, популярные на следующих танцевальных вечеринках:
 
-- _без цифры_ - бретонский фест-ноз (fest-noz),
-- __¹__ - бал-фолк во Франции (bal folk in France),
+- _без цифры и префикса_ - бретонский фест-ноз (fest-noz) и бал-фолк во Франции (bal folk),
 - префикс _Cèilidh_ - шотландские кейли (scottish cèilidh),
 - префикс _Twmpath_ - валлийский тумпаф (welsh twmpath),
 - префикс _Rus-celtic_ - вечеринки кельтских сообществ в России/Белоруссии/Украине (celtic community parties in Russia/Belarus/Ukraine).
@@ -50,15 +49,15 @@
 | [An dro Retourné](an-dro-retourne.md) | [Андро Ретурни́](an-dro-retourne.md) |
 | [Avant-deux de Bazouges](avant-deux-de-bazouges.md) | [Аван-дё де Базуж](avant-deux-de-bazouges.md) |
 | [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
-| [Bourrée 2 temps](bourree-2-temps.md)¹ | [Бурре на 2 счёта](bourree-2-temps.md) |
-| [Bourrée 3 temps](bourree-3-temps.md)¹ | [Бурре на 3 счёта](bourree-3-temps.md)\* |
+| [Bourrée 2 temps](bourree-2-temps.md) | [Бурре на 2 счёта](bourree-2-temps.md) |
+| [Bourrée 3 temps](bourree-3-temps.md) | [Бурре на 3 счёта](bourree-3-temps.md)\* |
 | [_Cèilidh:_ Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md) | [_Кейли:_ Геликоптер](ceilidh-cumberland-square-eight.md) |
 | [_Cèilidh:_ Riverside](ceilidh-riverside.md) | [_Кейли:_ Риверсайд](ceilidh-riverside.md) |
 | [_Cèilidh:_ Strip The Willow](ceilidh-strip-the-willow.md) | [_Кейли:_ Обдери липку](ceilidh-strip-the-willow.md) |
 | [Cercle Circassien](cercle-circassien.md) | [Черкесский круг (Сёркль Сиркасьён)](cercle-circassien.md) |
 | [Chapelloise](chapelloise.md) | [Шапелуаз](chapelloise.md) |
 | [Cochinchine](cochinchine.md) | [Кошиншин](cochinchine.md) |
-| [Galop Nantais](galop-nantais.md) | [Нантский галоп](galop-nantais.md)\* |
+| [Galop Nantais](galop-nantais.md) | [Нантский галоп](galop-nantais.md) |
 | [Hanter dro](hanter-dro.md) | [Антердро](hanter-dro.md) |
 | [Kejaj](kejaj.md) | [Кежаж](kejaj.md) |
 | [_Kiwi's:_ An dro with aliens](kiwi-s-an-dro-with-aliens.md) | [_Kiwi's:_ Андро с пришельцами](kiwi-s-an-dro-with-aliens.md) |
@@ -67,15 +66,15 @@
 | [Klamm](klamm.md) | [Клам](klamm.md) |
 | [Kost ar c'hoat](kost-ar-c-hoat.md) | [Костархот (Кастарват)](kost-ar-c-hoat.md) |
 | [La Veuze](la-veuze.md) | [Ля вёз](la-veuze.md) |
-| [Mazurka](mazurka.md)¹ | [Мазурка](mazurka.md)\* |
+| [Mazurka](mazurka.md) | [Мазурка](mazurka.md)\* |
 | [Pach pi](pach-pi.md) | [Пашпи](pach-pi.md) |
-| [Polka](polka.md)¹ | [Полька](polka.md)\* |
-| [Polka piquée](polka-piquee.md)¹ | [Полька пи́ки](polka-piquee.md) |
+| [Polka](polka.md) | [Полька](polka.md)\* |
+| [Polka piquée](polka-piquee.md) | [Полька пи́ки](polka-piquee.md) |
 | [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
 | [_Rus-celtic:_ “Irish” Jig](rus-celtic-irish-jig.md) | [_Rus-celtic:_ «Ирландская» джига](rus-celtic-irish-jig.md) |
 | [_Rus-celtic:_ The Mixer](rus-celtic-the-mixer.md) | [_Rus-celtic:_ The Миксер](rus-celtic-the-mixer.md) |
 | [_Rus-celtic:_ Saint Patrick Bourree](rus-celtic-saint-patrick-bourree.md) | [_Rus-celtic:_ Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md) |
-| [Scottish (Schottische)](schottische.md)¹ | [Скоти́ш (Шотиш)](schottische.md) |
+| [Scottish (Schottische)](schottische.md) | [Скоти́ш (Шотиш)](schottische.md) |
 | [Scottish impaire](scottish-impaire.md) | [Скоти́ш ампэ́ (нечётный)](scottish-impaire.md) |
 | [Suite Keff: Dans Keff + Bal Keff](suite-keff.md) | [Сюита Кеф: даньс Кеф + баль Кеф](suite-keff.md) |
 | [Trikot](trikot.md) | [Трикот](trikot.md) |
@@ -98,10 +97,8 @@
 ===============================
 Танцевальный клуб бретонских танцев и французского бал-фолка: [группа ВКонтакте](https://vk.com/club127030623).
 
-Еще схемы, музыка и видео танцев
+Еще схемы, музыка и видео бретонских танцев и французского бал-фолка
 =================================
-### Бретонские танцы:
-
 - [Бретонские народные танцы в Москве](https://vk.com/club25749886). [Здесь описания танцев](https://vk.com/topic-25749886_27791034). Там нужно соотнести название танца с темой в группе, а так же со ссылкой на музыку [отсюда](https://vk.com/notes11408173). Раздел ссылок в группе представляет интерес. 
 - [Рассказ о бретонских танцах от Алексея Пырникова](http://celtic-community.diary.ru/p193203999.htm?oam#more1) - в нём тоже часто встречаются ссылки на отличные танцы, которых нет тут.
 - [Бретонские танцы](http://personaviva.spb.ru/?bret_dances) студии [Persona Viva](https://vk.com/club459205).
@@ -112,10 +109,7 @@
 - [FestBreizh](https://www.youtube.com/channel/UCjwYudG6SWmI2mz1wS_eijA) — хороший канал с видео.
 - [Apprendre les danses bretonnes](http://lannig.e-monsite.com/) — научитесь бретонским танцам.
 - [Видеоархив околобретонских событий в Питере](https://www.youtube.com/user/Natuskinfun/videos?shelf_id=0&sort=dd&view=0).
-
-### Другие танцы:
-
-- [Fiches de danses | Les Etournias](http://lesetournias.fr/ateliers-danses/fiches-de-danses) — сайт со схемами и видео к ним.
+- Преимущественно, небретонские французские танцы: [Fiches de danses | Les Etournias](http://lesetournias.fr/ateliers-danses/fiches-de-danses) — сайт со схемами и видео к ним.
 
 GitHub with command line
 ========================
