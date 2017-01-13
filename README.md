@@ -116,3 +116,21 @@
 ### Другие танцы:
 
 - [Fiches de danses | Les Etournias](http://lesetournias.fr/ateliers-danses/fiches-de-danses) — сайт со схемами и видео к ним.
+
+GitHub with command line
+========================
+Локальная копия репозитория:
+
+- `cd C:\Users\<username>\Desktop\<folder>`
+- `git clone https://github.com/kiwi0fruit/breton.git`
+
+Работа с репозиторием:
+
+- `cd C:\Users\<username>\Desktop\<folder>\breton`
+- `git pull origin master`
+- `git add .`
+- `git commit`
+- press `i` then write something like `commit`
+- press `Esc` and then type `:wq`
+- `git push`
+- type your GitHub login and password
