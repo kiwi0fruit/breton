@@ -38,7 +38,9 @@
 - префикс _Cèilidh_ - шотландские кейли (scottish cèilidh),
 - префикс _Twmpath_ - валлийский тумпаф (welsh twmpath),
 - префикс _Rus-celtic_ - вечеринки кельтских сообществ в России/Белоруссии/Украине (celtic community parties in Russia/Belarus/Ukraine).
-- и дополнительно: префикс _Kiwi's_ - модификации танцев by kiwi0fruit.
+- и дополнительно:
+- префикс _Kiwi's_ - модификации танцев by kiwi0fruit,
+- префикс _Misc._ - разное (miscellaneous).
 
 | Name | Название |
 | ---- | -------- |
@@ -50,18 +52,12 @@
 | [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
 | [Bourrée 2 temps](bourree-2-temps.md) | [Бурре на 2 счёта](bourree-2-temps.md) |
 | [Bourrée 3 temps](bourree-3-temps.md) | [Бурре на 3 счёта](bourree-3-temps.md)\* |
-| [_Cèilidh:_ Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md) | [_Кейли:_ Геликоптер](ceilidh-cumberland-square-eight.md) |
-| [_Cèilidh:_ Riverside](ceilidh-riverside.md) | [_Кейли:_ Риверсайд](ceilidh-riverside.md) |
-| [_Cèilidh:_ Strip The Willow](ceilidh-strip-the-willow.md) | [_Кейли:_ Обдери липку](ceilidh-strip-the-willow.md) |
 | [Cercle Circassien](cercle-circassien.md) | [Черкесский круг (Сёркль Сиркасьён)](cercle-circassien.md) |
 | [Chapelloise](chapelloise.md) | [Шапелуаз](chapelloise.md) |
 | [Cochinchine](cochinchine.md) | [Кошиншин](cochinchine.md) |
 | [Galop Nantais](galop-nantais.md) | [Нантский галоп](galop-nantais.md) |
 | [Hanter dro](hanter-dro.md) | [Антердро](hanter-dro.md) |
 | [Kejaj](kejaj.md) | [Кежаж](kejaj.md) |
-| [_Kiwi's:_ An dro with aliens](kiwi-s-an-dro-with-aliens.md) | [_Kiwi's:_ Андро с пришельцами](kiwi-s-an-dro-with-aliens.md) |
-| [_Kiwi's:_ Yet another polka](kiwi-s-yet-another-polka.md) | [_Kiwi's:_ Ещё одна полька](kiwi-s-yet-another-polka.md) |
-| [_Kiwi's:_ Yet another polka mixer](kiwi-s-yet-another-polka-mixer.md) | [_Kiwi's:_ Ещё одна полька-миксер](kiwi-s-yet-another-polka-mixer.md) |
 | [Klamm](klamm.md) | [Клам](klamm.md) |
 | [Kost ar c'hoat](kost-ar-c-hoat.md) | [Костархот (Кастарват)](kost-ar-c-hoat.md) |
 | [La Veuze](la-veuze.md) | [Ля вёз](la-veuze.md) |
@@ -70,21 +66,29 @@
 | [Polka](polka.md) | [Полька](polka.md)\* |
 | [Polka piquée](polka-piquee.md) | [Полька пи́ки](polka-piquee.md) |
 | [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
-| [_Rus-celtic:_ “Irish” Jig](rus-celtic-irish-jig.md) | [_Rus-celtic:_ «Ирландская» джига](rus-celtic-irish-jig.md) |
-| [_Rus-celtic:_ The Mixer](rus-celtic-the-mixer.md) | [_Rus-celtic:_ The Миксер](rus-celtic-the-mixer.md) |
-| [_Rus-celtic:_ Saint Patrick Bourree](rus-celtic-saint-patrick-bourree.md) | [_Rus-celtic:_ Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md) |
 | [Scottish (Schottische)](schottische.md) | [Скоти́ш (Шотиш)](schottische.md) |
 | [Scottish impaire](scottish-impaire.md) | [Скоти́ш ампэ́ (нечётный)](scottish-impaire.md) |
 | [Suite Keff: Dans Keff + Bal Keff](suite-keff.md) | [Сюита Кеф: даньс Кеф + баль Кеф](suite-keff.md) |
 | [Trikot](trikot.md) | [Трикот](trikot.md) |
+| [Valse](valse.md) | [Вальс](valse.md)\* |
+
+| Name | Название |
+| ---- | -------- |
+| [_Cèilidh:_ Cumberland Square Eight (The Helicopter)](ceilidh-cumberland-square-eight.md) | [_Кейли:_ Геликоптер](ceilidh-cumberland-square-eight.md) |
+| [_Cèilidh:_ Riverside](ceilidh-riverside.md) | [_Кейли:_ Риверсайд](ceilidh-riverside.md) |
+| [_Cèilidh:_ Strip The Willow](ceilidh-strip-the-willow.md) | [_Кейли:_ Обдери липку](ceilidh-strip-the-willow.md) |
 | [_Twmpath:_ Cyfri Saith (Lucky Seven)](twmpath-cyfri-saith.md) | [_Тумпаф:_ Седьмой счёт](twmpath-cyfri-saith.md) |
 | [_Twmpath:_ Cylch Y Cymry (Welsh Circle)](twmpath-cylch-y-cymry.md) | [_Тумпаф:_ Валлийский круг](twmpath-cylch-y-cymry.md) |
 | [_Twmpath:_ Rhwng Ddwy (Between Two)](twmpath-rhwng-ddwy.md) | [_Тумпаф:_ Между двумя](twmpath-rhwng-ddwy.md) |
 | [_Twmpath:_ Y Ddafad Gorniog (The Horned Ram)](twmpath-y-ddafad-gorniog.md) | [_Тумпаф:_ Рогатый баран](twmpath-y-ddafad-gorniog.md) |
-| [Valse](valse.md) | [Вальс](valse.md)\* |
-| . |  |
-| [Rock and roll](rock-and-roll.md)⁰ | [Рок-н-ролл](rock-and-roll.md) |
-| [Music for consideration, How to music](music.md) | [Музыка на заметку](music.md) |
+| [_Rus-celtic:_ “Irish” Jig](rus-celtic-irish-jig.md) | [_Rus-celtic:_ «Ирландская» джига](rus-celtic-irish-jig.md) |
+| [_Rus-celtic:_ The Mixer](rus-celtic-the-mixer.md) | [_Rus-celtic:_ The Миксер](rus-celtic-the-mixer.md) |
+| [_Rus-celtic:_ Saint Patrick Bourree](rus-celtic-saint-patrick-bourree.md) | [_Rus-celtic:_ Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md) |
+| [_Kiwi's:_ An dro with aliens](kiwi-s-an-dro-with-aliens.md) | [_Kiwi's:_ Андро с пришельцами](kiwi-s-an-dro-with-aliens.md) |
+| [_Kiwi's:_ Yet another polka](kiwi-s-yet-another-polka.md) | [_Kiwi's:_ Ещё одна полька](kiwi-s-yet-another-polka.md) |
+| [_Kiwi's:_ Yet another polka mixer](kiwi-s-yet-another-polka-mixer.md) | [_Kiwi's:_ Ещё одна полька-миксер](kiwi-s-yet-another-polka-mixer.md) |
+| [_Misc.:_ Music for consideration, How to music](music.md) | [Музыка на заметку](music.md) |
+| [_Misc.:_ Rock and roll](rock-and-roll.md)⁰ | [Рок-н-ролл](rock-and-roll.md) |
 
 ### Примечания:
 - __\*__ - недоделанные описания.
