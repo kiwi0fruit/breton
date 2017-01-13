@@ -119,18 +119,17 @@
 
 GitHub with command line
 ========================
-Локальная копия репозитория:
-
-- `cd C:\Users\<username>\Desktop\<folder>`
-- `git clone https://github.com/kiwi0fruit/breton.git`
-
-Работа с репозиторием:
-
-- `cd C:\Users\<username>\Desktop\<folder>\breton`
-- `git pull origin master`
-- `git add .`
-- `git commit`
-- press `i` then write something like `commit`
-- press `Esc` and then type `:wq`
-- `git push`
-- type your GitHub login and password
+1. Установите [Git](https://git-scm.com/downloads).
+2. Сделайте локальную копию репозитория:
+  - `cd C:\Users\<username>\Desktop\<folder>`
+  - `git clone https://github.com/kiwi0fruit/breton.git`
+3. Редактируйте [markdown](https://ru.wikipedia.org/wiki/Markdown) файлы в репозитории.
+4. Commit изменения обартно в онлайн-репозиторий:
+  - `cd C:\Users\<username>\Desktop\<folder>\breton`
+  - `git pull origin master`
+  - `git add .`
+  - `git commit`
+  - press `i` then write something like `commit`
+  - press `Esc` and then type `:wq`
+  - `git push`
+  - type your GitHub login and password
