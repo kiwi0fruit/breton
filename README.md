@@ -87,7 +87,8 @@
 | __Rus-celtic__ | [Saint Patrick Bourree](rus-celtic-saint-patrick-bourree.md) | [Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md) |
 | __Kiwi's__ | [An dro with aliens](kiwi-s-an-dro-with-aliens.md) | [Андро с пришельцами](kiwi-s-an-dro-with-aliens.md) |
 | __Kiwi's__ | [Yet another polka](kiwi-s-yet-another-polka.md) | [Ещё одна полька](kiwi-s-yet-another-polka.md) |
-| __Kiwi's__ | [Yet another polka mixer](kiwi-s-yet-another-polka-mixer.md) | [Ещё одна полька-миксер](kiwi-s-yet-another-polka-mixer.md) |
+| __Kiwi's__ | [Polka random mixer](kiwi-s-polka-mixers.md) | [Полька случайный миксер](kiwi-s-polka-mixers.md) |
+| __Kiwi's__ | [Polka seven hands mixer](kiwi-s-polka-mixers.md) | [Полька-миксер семь рук](kiwi-s-polka-mixers.md) |
 | __Misc.__ | [Music for consideration, How to music](music.md) | [Музыка на заметку](music.md) |
 | __Misc.__ | [Rock and roll](rock-and-roll.md)⁰ | [Рок-н-ролл](rock-and-roll.md) |
 
