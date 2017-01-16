@@ -72,7 +72,7 @@
 | __Kiwi's__ | [Polka-mixer Сircassien](kiwi-s-polka-mixers.md) | [Полька-миксер Черкесская](kiwi-s-polka-mixers.md) |
 | __Kiwi's__ | [Polka-mixer Seven hands](kiwi-s-polka-mixers.md) | [Полька-миксер Семь рук](kiwi-s-polka-mixers.md) |
 | __Kiwi's__ | [Polka-mixer Surprise](kiwi-s-polka-mixers.md) | [Полька-миксер Сюрприз](kiwi-s-polka-mixers.md) |
-| __Kiwi's__ | [Polka piquée-chapelloise](kiwi-s-polka-piquee-chapelloise.md) | [Полька пи́ки-шапелуаз](kiwi-s-polka-piquee-chapelloise.md) |
+| __Kiwi's__ | [Polka piquée 2/4x32 bars](kiwi-s-polka-piquee-2-4x32-bars.md) | [Полька пи́ки на 32 такта в размере 2/4](kiwi-s-polka-piquee-2-4x32-bars.md) |
 
 Данный архив танцев несколько разросся и на данный момет содержит ещё и описания некоторых кельтских танцев. Описаны танцы, популярные на следующих танцевальных вечеринках:
 
