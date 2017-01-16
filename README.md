@@ -69,9 +69,9 @@
 |     | Name | Название |
 | ---- | ---- | -------- |
 | __Kiwi's__ | [An dro with aliens](kiwi-s-an-dro-with-aliens.md) | [Андро с пришельцами](kiwi-s-an-dro-with-aliens.md) |
-| __Kiwi's__ | [Polka-mixer Сircassien](kiwi-s-polka-mixers.md) | [Полька-миксер Черкесская](kiwi-s-polka-mixers.md) |
-| __Kiwi's__ | [Polka-mixer Seven counts](kiwi-s-polka-mixers.md) | [Полька-миксер Седьмой счёт](kiwi-s-polka-mixers.md) |
-| __Kiwi's__ | [Polka-mixer Surprise](kiwi-s-polka-mixers.md) | [Полька-миксер Сюрприз](kiwi-s-polka-mixers.md) |
+| __Kiwi's__ | [Polka lazy mixer](kiwi-s-polka-mixers.md) | [Полька ленивый миксер](kiwi-s-polka-mixers.md) |
+| __Kiwi's__ | [Polka roulette](kiwi-s-polka-mixers.md) | [Полька рулетка](kiwi-s-polka-mixers.md) |
+| __Kiwi's__ | [Polka seven hands](kiwi-s-polka-mixers.md) | [Полька семь рук](kiwi-s-polka-mixers.md) |
 | __Kiwi's__ | [Polka piquée 32 bars (64 counts)](kiwi-s-polka-piquee-32-bars-64-counts.md) | [Полька пи́ки на 32 такта (64 счёта)](kiwi-s-polka-piquee-32-bars-64-counts.md) |
 
 Данный архив танцев несколько разросся и на данный момет содержит ещё и описания некоторых кельтских танцев. Описаны танцы, популярные на следующих танцевальных вечеринках:
