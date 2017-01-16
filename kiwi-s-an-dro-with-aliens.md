@@ -9,6 +9,10 @@ _Танец опробован - было весело._
 
 Music:
 ======
+- Такая же, как в [пашпи](pach-pi.md).
+
+И немного экспериментов:
+
 - Fatboy Slim - Sho Nuff 3:55
 - Fatboy Slim - The Rockafeller Skank 6:53
 - Fatboy Slim - Body Moving 5:34
