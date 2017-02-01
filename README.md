@@ -4,29 +4,45 @@
 
 Но никакие тексты не смогут заменить сам процесс танца под отличную музыку. Но можно хотя бы видео посмотреть, чтобы прочувствовать атмосферу. Я сделал небольшую подборку ссылок на видео. ***[Развернуть видео и описания танцев...](README.md)***
 
-1. [Avant-deux de Bazouges](https://www.youtube.com/watch?v=Ncds8-FMaEI)
-2. [Avant-quatre du Tregor](https://www.youtube.com/watch?v=H5DNoZ2F3jw)
-3. [An dro](https://www.youtube.com/watch?v=p_i027FhnyA)
-4. [An dro retourne](https://www.youtube.com/watch?v=EUHjpInr1nA)
-5. [Cochinchine](https://vk.com/video-25749886_170748467)
-6. [Cercle Circassien](https://www.youtube.com/watch?v=JUIEfPi_SgY)
-7. [Danse keff](https://www.youtube.com/watch?v=B6qej91iYLc)
-8. [Kost Ar C'hoat](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
-9. [Бурре на четверых](https://vk.com/video-25749886_162534468)
-10. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
-11. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
-12. [Polka de Paimpol](https://vk.com/video39341115_456239021)
-13. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)
-14. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
-15. [Chapelloise](https://www.youtube.com/watch?v=XwNRitt0AFo)
+**Простые:**
 
-### И парные импровизационные танцы:
+- [An dro](https://www.youtube.com/watch?v=p_i027FhnyA)
+- [Chapelloise](https://www.youtube.com/watch?v=XwNRitt0AFo)
 
-1. [Schottische](https://www.youtube.com/watch?v=vwHZvw7jk94)
-2. [Polka](https://youtu.be/QagBbI-WNUo?t=17) и другого стиля [polka](https://youtu.be/sVnfVUWiBTU?t=20)
-3. [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)
-4. [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)
-5. [Mazurka](https://www.youtube.com/watch?v=vEDn9frcy08)
+**Импровизационные в парах:**
+
+- [Schottische](https://www.youtube.com/watch?v=vwHZvw7jk94)
+- [Bourrée 2 temps](https://www.youtube.com/watch?v=Fos5IOLRHK8)
+
+**Динамичные:**
+
+- [Avant-quatre du Tregor](https://www.youtube.com/watch?v=H5DNoZ2F3jw)
+- [Avant-deux de Bazouges](https://www.youtube.com/watch?v=Ncds8-FMaEI)
+
+----
+
+**Ещё простые:**
+
+1. [An dro retourne](https://www.youtube.com/watch?v=EUHjpInr1nA)
+2. [Cochinchine](https://vk.com/video-25749886_170748467)
+3. [Cercle Circassien](https://www.youtube.com/watch?v=JUIEfPi_SgY)
+4. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
+5. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
+
+**Ещё танцы:**
+
+1. [Danse keff](https://www.youtube.com/watch?v=B6qej91iYLc)
+2. [Kost Ar C'hoat](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
+3. [Бурре на четверых](https://vk.com/video-25749886_162534468)
+4. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
+5. [Polka de Paimpol](https://vk.com/video39341115_456239021)
+6. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)
+
+**Ещё импровизационные в парах:**
+
+- [Polka](https://youtu.be/QagBbI-WNUo?t=17) и другого стиля [polka](https://youtu.be/sVnfVUWiBTU?t=20)
+- [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)
+- [Mazurka](https://www.youtube.com/watch?v=vEDn9frcy08)
 
 Среди танцев не только бретонские танцы, но и танцы, популярные на французском бал-фолке. Эти танцевальные вечеринки близки бретонским фест-нозам, но содержат другие танцы, которые хорошо сочетаются с бретонскими и стилистически, и музыкально.
 
