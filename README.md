@@ -151,10 +151,12 @@ GitHub with command line
 2. Сделайте локальную копию репозитория:
   - `cd C:\Users\<username>\Desktop\<folder>`
   - `git clone https://github.com/kiwi0fruit/breton.git`
+3. Обновите локальную копию репозитория:
+  - `cd C:\Users\<username>\Desktop\<folder>\breton`
+  - `git pull origin master`
 3. Редактируйте [markdown](https://ru.wikipedia.org/wiki/Markdown) файлы в репозитории.
 4. Commit изменения обартно в онлайн-репозиторий:
   - `cd C:\Users\<username>\Desktop\<folder>\breton`
-  - `git pull origin master`
   - `git add .`
   - `git commit`
   - press `i` then write something like `commit`
