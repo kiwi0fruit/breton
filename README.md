@@ -29,6 +29,12 @@
 4. [Galop Nantais](https://www.youtube.com/watch?v=aQUtWD-o9NE)
 5. [Pach pi](https://www.youtube.com/watch?v=5eDQmwe1Zlo)
 
+**Ещё импровизационные в парах:**
+
+- [Polka](https://youtu.be/QagBbI-WNUo?t=17) и другого стиля [polka](https://youtu.be/sVnfVUWiBTU?t=20)
+- [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)
+- [Mazurka](https://www.youtube.com/watch?v=vEDn9frcy08)
+
 **Ещё танцы:**
 
 1. [Danse keff](https://www.youtube.com/watch?v=B6qej91iYLc)
@@ -37,12 +43,6 @@
 4. [Suite de Loudeac](https://www.youtube.com/watch?v=SOd9E8XKemA)
 5. [Polka de Paimpol](https://vk.com/video39341115_456239021)
 6. [Polka piquée](https://www.youtube.com/watch?v=FcS_BrHe9PU)
-
-**Ещё импровизационные в парах:**
-
-- [Polka](https://youtu.be/QagBbI-WNUo?t=17) и другого стиля [polka](https://youtu.be/sVnfVUWiBTU?t=20)
-- [Bourrée d'Auvergne 3 temps](https://www.youtube.com/watch?v=TfQNjN_WHCU)
-- [Mazurka](https://www.youtube.com/watch?v=vEDn9frcy08)
 
 Среди танцев не только бретонские танцы, но и танцы, популярные на французском бал-фолке. Эти танцевальные вечеринки близки бретонским фест-нозам, но содержат другие танцы, которые хорошо сочетаются с бретонскими и стилистически, и музыкально.
 
