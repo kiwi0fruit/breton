@@ -60,6 +60,7 @@
 | [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
 | [Bourrée 2 temps](bourree-2-temps.md) | [Бурре на 2 счёта](bourree-2-temps.md) |
 | [Bourrée 3 temps](bourree-3-temps.md) | [Бурре на 3 счёта](bourree-3-temps.md)\* |
+| [Bourrée de Chambérat](bourree-de-chamberat.md) | [Бурре де Шамбера́](bourree-de-chamberat.md) |
 | [Cercle Circassien](cercle-circassien.md) | [Черкесский круг (Сёркль Сиркасьён)](cercle-circassien.md) |
 | [Chapelloise](chapelloise.md) | [Шапелуаз](chapelloise.md) |
 | [Cochinchine](cochinchine.md) | [Кошиншин](cochinchine.md) |
