@@ -61,6 +61,7 @@
 | [Bourrée 2 temps](bourree-2-temps.md) | [Бурре на 2 счёта](bourree-2-temps.md) |
 | [Bourrée 3 temps](bourree-3-temps.md) | [Бурре на 3 счёта](bourree-3-temps.md)\* |
 | [Bourrée de Chambérat](bourree-de-chamberat.md) | [Бурре де Шамбера́](bourree-de-chamberat.md) |
+| [Bourret de la Merlaison (bourrée)](bourret-de-la-merlaison.md) | [Марлезо́нский буррет](bourret-de-la-merlaison.md) |
 | [Cercle Circassien](cercle-circassien.md) | [Черкесский круг (Сёркль Сиркасьён)](cercle-circassien.md) |
 | [Chapelloise](chapelloise.md) | [Шапелуаз](chapelloise.md) |
 | [Cochinchine](cochinchine.md) | [Кошиншин](cochinchine.md) |
