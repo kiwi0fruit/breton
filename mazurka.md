@@ -37,6 +37,8 @@ Music:
 - Accordzéâm – Des Hauts Débats (Mazurka-Valse) 6:00
 - Brotto Lopez – La Candèla (Mazurka) 4:56
 - Fol&ar – 21 Gramas (Mazurka klandestina) 5:10
+- KV Express – Jonyboy (mazurka) 4:15
+- KV Express – Zoé (mazurka) 4:01 
 - Spakkabrianza – Ke Noja (Mazurka) 6:49
 - Zayendo – Mazurk'afro (Mazurka) 4:32
 
