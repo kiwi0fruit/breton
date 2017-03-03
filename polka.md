@@ -67,6 +67,7 @@ Music:
 - **Amieva – La Rociniega (Polka)** 4:46
 - **Carré Manchot – Polkas** 4:04 (2/4),  
   Вступления нет. Состоит из чередования: 32 (4x8) счётов условного куплета, потом 32 (4x8) счётов условного припева, такие квадраты по 64 такта происходят 10 раз.
+- **Les Piliers de Bal – Polka d'el Pipo (polka)** 4:01
 - **Martina Quiere Bailar - Polka Miseria** 4:07
 - **Trio Dhoore – Parketpolka** 1:40
 - может, сгодится и музыка для [польки Плинн](polka-plinn.md)
