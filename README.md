@@ -112,6 +112,7 @@
 | __Rus-celtic__ | [“Irish” Jig](rus-celtic-irish-jig.md) | [«Ирландская» джига](rus-celtic-irish-jig.md) |
 | __Rus-celtic__ | [The Mixer](rus-celtic-the-mixer.md) | [The Миксер](rus-celtic-the-mixer.md) |
 | __Rus-celtic__ | [Saint Patrick Bourree](rus-celtic-saint-patrick-bourree.md) | [Бурре Святого Патрика](rus-celtic-saint-patrick-bourree.md) |
+| __Misc.__ | [General remarks on dances](misc.md) | [Общие замечания по танцам](misc.md) |
 | __Misc.__ | [Pair dance](polka.md) | [Танец в паре](polka.md) |
 | __Misc.__ | [Music for consideration & How to music](music.md) | [Музыка на заметку](music.md) |
 | __Misc.__ | [Rock and roll](rock-and-roll.md)⁰ | [Рок-н-ролл](rock-and-roll.md) |
