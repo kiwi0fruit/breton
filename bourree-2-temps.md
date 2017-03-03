@@ -67,6 +67,7 @@ Music:
 
 - Accordzéâm – Bourraph (Bourrée 2 temps) 4:15
 - KV Express – Poedelkes Bourrée 3:41
+- Les Piliers de Bal – Power Bourrée (bourrée 2 temps) 4:07
 - Mervent – Bourrée 2 temps: Chabanet/Carree de Vouvray/Bourree mouergue 4:28
 - Mervent - Bourrée Autour De Pin (2 temps) 3:49 [youtu.be/dxqFdF9kKag](https://www.youtube.com/watch?v=dxqFdF9kKag)
 - Mervent – Bourret Chabanet (Bourrée) 2:46
