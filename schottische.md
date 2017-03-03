@@ -47,8 +47,11 @@ Video:
 Music:
 ========
 ### I recommend:
+- Accordzéâm – Lucy In The Sky With Coconuts (Valse / Scottish) [from 2:30] 4:32
+- Dédale – Ombre Blanche / Scottish Jazzy [from 2:38] 5:37
 - Clann Lir – Hug Air A' Bhonaid Mhoir 5:15 [2/4?]
 - Kitus – Samarqand (Scottish) 4:35
+- Les Piliers de Bal – Agitation (scottish) 6:58
 - Mervent – Ascarabaz/Scottish 3:50
 - Mister Klof – Scottish Ebroicienne / Papillon [from 3:26] 6:17
 - Naragonia – Jean Sucré / La minute (valse & scottish) [from 2:08] 4:01
@@ -57,8 +60,6 @@ Music:
 - Spakkabrianza – Mortadella Dance (Scottish) 3:41
 - Titom – Axelle' scottish 3:27
 - Titom – Scottish Des Egarés 5:00
-- Dédale – Ombre Blanche / Scottish Jazzy [from 2:38] 5:37
-- Accordzéâm – Lucy In The Sky With Coconuts (Valse / Scottish) [from 2:30] 4:32
 
 ### Other:
 - Brotto Lopez Sextet – Avenueschottis (Scottish) 3:37
