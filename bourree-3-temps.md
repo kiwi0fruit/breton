@@ -15,6 +15,8 @@ Bourrée 3 temps
 - 1[шаг]-2[пауза]-3[шаг]
 - 1[шаг]-2[пауза]-3[пауза]
 
+Мнемоника: раз-два-три, раз-два-три, ..., раз, три, раз.
+
 Video:
 ======
 - _Пример танца + интересная музыка_: danse elia s (bourrée d'auvergne 3 temps) [youtu.be/TfQNjN_WHCU](https://www.youtube.com/watch?v=TfQNjN_WHCU)
