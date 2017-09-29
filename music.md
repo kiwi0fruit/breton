@@ -8,7 +8,9 @@ Music for consideration
 - Fiddler's Green – Jacobites 2:52
 
 ### House/Electronic:
-*на трёхшагах можно танцевать*:
+*на трёхшагах можно танцевать*.
+
+**TO DO**: исследование следования "музыкальному рисунку" в парных танцах.
 
 - Axwell - Feel The Vibe ('Till The Morning Comes) 3:15
 - Steve Angello & Axwell pres. Supermode - Tell Me Why (Raul Rincon Remix) [cut] 3:22
