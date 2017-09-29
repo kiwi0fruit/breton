@@ -7,7 +7,7 @@ Music for consideration
 - The Irish Rovers – Weigh, Hey and Up She Rises 2:42
 - Fiddler's Green – Jacobites 2:52
 
-### House:
+### House/Electronic:
 *на трёхшагах можно танцевать*:
 
 - Axwell - Feel The Vibe ('Till The Morning Comes) 3:15
