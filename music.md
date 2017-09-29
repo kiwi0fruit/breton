@@ -14,6 +14,7 @@ Music for consideration
 - Mambana – Libre (Axwell Vocal Mix) 5:37
 - El Nocha - Free Your Mind (Club Mix) 4:41
 - Steve Angello & Axwell pres. Supermode - Tell Me Why (Raul Rincon Remix) [cut] 3:22
+- Paul Oakenfold feat. Carla Werner - Southern Sun 6:58
 
 ### Reels:
 - __Danse McCabre – Cumberland Square Eight (The Helicopter)__ 4:29
