@@ -11,12 +11,9 @@ Music for consideration
 *на трёхшагах можно танцевать*:
 
 - Axwell - Feel The Vibe ('Till The Morning Comes) 3:15
-- El Nocha - Free Your Mind (Club Mix) 4:41
 - Steve Angello & Axwell pres. Supermode - Tell Me Why (Raul Rincon Remix) [cut] 3:22
-- Paul Oakenfold feat. Carla Werner - Southern Sun 6:58
 - Parov Stelar feat. Cleo Panther – Sally's Dance 3:46
 - Daft Punk - Get Lucky 6:09
-- Esthetic Education - Machine 3:23
 
 ### Reels:
 - __Danse McCabre – Cumberland Square Eight (The Helicopter)__ 4:29
