@@ -8,6 +8,7 @@ Music for consideration
 - Fiddler's Green – Jacobites 2:52
 - Axwell - Feel The Vibe ('Till The Morning Comes) 3:15 // на трёхшагах можно танцевать
 - Mambana – Libre (Axwell Vocal Mix) 5:37 // на трёхшагах можно танцевать
+- El Nocha - Free Your Mind (Club Mix) 4:41 // на трёхшагах можно танцевать
 
 ### Reels:
 - __Danse McCabre – Cumberland Square Eight (The Helicopter)__ 4:29
