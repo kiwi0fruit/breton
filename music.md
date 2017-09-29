@@ -6,9 +6,13 @@ Music for consideration
 - The Irish Rovers – Weigh, Hey and Up She Rises 2:56
 - The Irish Rovers – Weigh, Hey and Up She Rises 2:42
 - Fiddler's Green – Jacobites 2:52
-- Axwell - Feel The Vibe ('Till The Morning Comes) 3:15 // на трёхшагах можно танцевать
-- Mambana – Libre (Axwell Vocal Mix) 5:37 // на трёхшагах можно танцевать
-- El Nocha - Free Your Mind (Club Mix) 4:41 // на трёхшагах можно танцевать
+
+### House:
+*на трёхшагах можно танцевать*:
+
+- Axwell - Feel The Vibe ('Till The Morning Comes) 3:15
+- Mambana – Libre (Axwell Vocal Mix) 5:37
+- El Nocha - Free Your Mind (Club Mix) 4:41
 
 ### Reels:
 - __Danse McCabre – Cumberland Square Eight (The Helicopter)__ 4:29
