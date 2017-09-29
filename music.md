@@ -16,6 +16,7 @@ Music for consideration
 - Paul Oakenfold feat. Carla Werner - Southern Sun 6:58
 - Parov Stelar feat. Cleo Panther – Sally's Dance 3:46
 - Daft Punk - Get Lucky 6:09
+- Esthetic Education - Machine 3:23
 
 ### Reels:
 - __Danse McCabre – Cumberland Square Eight (The Helicopter)__ 4:29
