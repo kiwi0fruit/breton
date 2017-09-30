@@ -40,7 +40,7 @@ Music:
 - Mervent – Kost Ar C'hoat 3:49 [youtu.be/EAVpaW_7qlQ](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
 - Reelroad – Венгерская 4:29
 - Denez Prigent – Evit netra / Une chanson pour rien 3:18 // Возможно.
-- Carre Manchot – Suite Fisel: Ton Diwezhan 3:47 // Возможно.
+- Carre Manchot – Suite Fisel: Ton Diwezhan 3:47 // Возможно. Это тоже гавотт 4-5, но для кастарвата почему-то хуже подходит.
 
 Video:
 ======
