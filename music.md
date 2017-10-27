@@ -3,8 +3,6 @@ Music for consideration
 # Музыка на заметку
 
 ### Misc:
-- The Irish Rovers – Weigh, Hey and Up She Rises 2:56
-- The Irish Rovers – Weigh, Hey and Up She Rises 2:42
 - Fiddler's Green – Jacobites 2:52
 - Carre Manchot – Suite Fisel: Ton Diwezhan 3:47 // Это тоже гавотт 4-5, но для кастарвата почему-то хуже подходит.
 
