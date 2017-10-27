@@ -116,6 +116,7 @@ Music:
 - Mister Klof – Scottish Ebroicienne / Papillon [from 3:26] 6:17
 - Naragonia – Jean Sucré / La minute (valse & scottish) [from 2:08] 4:01
 - Naragonia Quartet – The Sunnyset / 3 Little owls / Histermeppie (scottisch) 5:48
+- Naragonia Quartet – Les copains / Anne's diner (scottisch) 5:02
 - Old Horned Sheep – Dancing Bear (Scottish) 3:11
 - Spakkabrianza – Mortadella Dance (Scottish) 3:41
 - Titom – Axelle' scottish 3:27
