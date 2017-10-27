@@ -70,6 +70,8 @@ Music:
 - **The Boys Of Country Nashville – Whiskey In The Jar (Instrumental)** 4:14 [non 32 square]
 - **The Irish Rovers – Mick Maguire** 2:28 (2/4) [32 куплет + 32 припев + иногда лишние 8 инструменталки].
 - **Stockton's Wing – The Sliabh (Slieve) Lucan Polkas** 3:34
+- The Irish Rovers – Weigh, Hey and Up She Rises 2:56
+- The Irish Rovers – Weigh, Hey and Up She Rises 2:42
 
 Video:
 ======
