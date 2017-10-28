@@ -39,6 +39,7 @@ Music:
 - Loened fall – Kost ar c'hoat 4:46
 - Mervent – Kost Ar C'hoat 3:49 [youtu.be/EAVpaW_7qlQ](https://www.youtube.com/watch?v=EAVpaW_7qlQ)
 - Reelroad – Венгерская 4:29
+- Talar - Kost er hoat 2:37
 - Denez Prigent – Evit netra / Une chanson pour rien 3:18 // Возможно.
 
 Video:
