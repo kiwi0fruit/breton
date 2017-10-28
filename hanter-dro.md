@@ -54,5 +54,7 @@ Video:
 Music:
 =======
 - Kendirvi – Ar Kilim (Hanter dro) 5:28
+- Skolvan - Tadin-Tinaketa (Hanter dro) 4:39
+- Stelenko - La fille de rose (hanter dro) 5:18
 - Talar - 7 aout 1845 (Hanter dro) 5:33
 - Tri Yann – Hanter-Dro Macabre 4:47
