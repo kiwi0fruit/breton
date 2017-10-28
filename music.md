@@ -29,6 +29,7 @@ Music for consideration
 - Leahy – Seamus 4:20
 - Leahy – The Call To Dance (Westburne Reel, Andy Renwick's Ferret) 6:54
 - __Mark Arrington – Glasgow Reel Set 113__ 3:59
+- Natalie MacMaster - Jean's Reel [from 3-08 cut] 2:36
 
 ### Jigs: 
 - __Figgy Duff – Auntie Mary / Brother's Jig (extended)__ 6:26
