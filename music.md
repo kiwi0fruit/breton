@@ -20,6 +20,7 @@ Music for consideration
 - __Danse McCabre – Cumberland Square Eight (The Helicopter)__ 4:29
 - __Danse McCabre – Flying Scotsman__ 5:37
 - Fiddler's Green – Weaver's reel 3:27
+- Street Fiddlers - Weaver's Reel (Fiddler's Green cover) 3:36
 - Govannen – A Stor Mo Chroi - Farewell To Erin 6:26
 - __Govannen – Billy In The Low Ground / Blackberry Blossom__ 3:37 [0:44 start]
 - Govannen – Queen of the May - the Congress 3:44
