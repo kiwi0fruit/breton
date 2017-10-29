@@ -46,8 +46,8 @@ _// Описание взято из группы "Бретонские наро
 
 Music:
 =======
-- Pilplazig – Dans Keff (Apprenez Les Danses Bretonnes vol.1) 4:41
-- Pilplazig – Bal Keff (Apprenez Les Danses Bretonnes vol.1) 2:23
+- Pilpazig – Dans Keff (Apprenez Les Danses Bretonnes vol.1) 4:41
+- Pilpazig – Bal Keff (Apprenez Les Danses Bretonnes vol.1) 2:23
 - Nozvat – Danse Keff (fest noz de Moréac 17-11-2012) 2:39 [youtu.be/B6qej91iYLc](https://www.youtube.com/watch?v=B6qej91iYLc)
 - Korriganed – An durzhunell (Bal Keff) 1:58
 
