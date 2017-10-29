@@ -14,10 +14,10 @@ Rond de Saint-Vincent sur Oust
 При этом руки:
 
 * начинаем - руки опущены
-* **1**:
-* **2**:
-* **3**:
-* **4**:
+* **1**: ![1](rond-de-saint-vincent/rond_de_saint-vincent_bras_1.gif)
+* **2**: ![2](rond-de-saint-vincent/rond_de_saint-vincent_bras_2.gif)
+* **3**: ![3](rond-de-saint-vincent/rond_de_saint-vincent_bras_3.gif)
+* **4**: ![4](rond-de-saint-vincent/rond_de_saint-vincent_bras_4.gif)
 
 Легко понятное описание есть [здесь](https://translate.google.ru/translate?sl=fr&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Frond_de_saint-vincent_sur_oust.html&edit-text=).
 
