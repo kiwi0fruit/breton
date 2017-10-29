@@ -14,10 +14,10 @@ Rond de Saint-Vincent sur Oust
 При этом руки:
 
 * начинаем - руки опущены
-* **1**: ![1](rond-de-saint-vincent/rond_de_saint-vincent_bras_1.gif)
-* **2**: ![2](rond-de-saint-vincent/rond_de_saint-vincent_bras_2.gif)
-* **3**: ![3](rond-de-saint-vincent/rond_de_saint-vincent_bras_3.gif)
-* **4**: ![4](rond-de-saint-vincent/rond_de_saint-vincent_bras_4.gif)
+* **1**: Руки вытянуты. Они поднимаются до сорока градусов и немного опускаются: ![1](rond-de-saint-vincent/rond_de_saint-vincent_bras_1.gif)
+* **2**: Руки вытянуты. Они поднимаются до шестидесяти градусов и немного опускаются: ![2](rond-de-saint-vincent/rond_de_saint-vincent_bras_2.gif)
+* **3**: На 3-4 руки, похоже, делают "помпу". На 3 плечо становится вертикально (идёт назад), а локти сгибаются (идут вверх): ![3](rond-de-saint-vincent/rond_de_saint-vincent_bras_3.gif)
+* **4**: Руки выдвигаются вперед, описывают большую дугу и возвращаются вниз, повиснув вдоль тела (немного позади): ![4](rond-de-saint-vincent/rond_de_saint-vincent_bras_4.gif)
 
 Легко понятное описание есть [здесь](https://translate.google.ru/translate?sl=fr&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fdansesbretonnes.gwalarn.org%2Fdanses%2Frond_de_saint-vincent_sur_oust.html&edit-text=).
 
