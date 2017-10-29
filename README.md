@@ -76,6 +76,7 @@
 | [Polka](polka.md) | [Полька](polka.md)\* |
 | [Polka piquée](polka-piquee.md) | [Полька пи́ки](polka-piquee.md) |
 | [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
+| [Rond de Saint-Vincent sur Oust](rond-de-saint-vincent.md) | [Круг Cвятого Винсента](rond-de-saint-vincent.md) |
 | [Scottish (Schottische)](schottische.md) | [Скоти́ш (Шотиш)](schottische.md) |
 | [Scottish impaire](scottish-impaire.md) | [Скоти́ш ампэ́ (нечётный)](scottish-impaire.md) |
 | [Suite Fisel: Dans Fisel + Bal Fisel](suite-fisel.md) | [Сюита Физель: даньс Физель + баль Физель](suite-fisel.md) |
