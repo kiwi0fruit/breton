@@ -71,4 +71,4 @@ Video:
 
 Music:
 ======
-- Apprenez Les Danses Bretonnes – Veuze (vol.3 Terroir Nantais 2001) 2:50
+- Yann Dour, Yves LeBlanc, Patrick Bardoul - Veuze (Apprenez Les Danses Bretonnes vol.3) 2:50
