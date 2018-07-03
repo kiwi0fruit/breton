@@ -107,6 +107,7 @@ Video:
 Music:
 ========
 ### I recommend:
+
 - Accordzéâm – Lucy In The Sky With Coconuts (Valse / Scottish) [from 2:30] 4:32
 - Dédale – Ombre Blanche / Scottish Jazzy [from 2:38] 5:37
 - Kitus – Samarqand (Scottish) 4:35
@@ -120,7 +121,6 @@ Music:
 - Spakkabrianza – Mortadella Dance (Scottish) 3:41
 - Titom – Axelle' scottish 3:27
 - Titom – Scottish Des Egarés 5:00
-
 - Beirut - The Concubine 3:28 (may be)
 
 ### Other:
