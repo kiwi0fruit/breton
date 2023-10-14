@@ -93,7 +93,7 @@
 | ---- | ---- | -------- |
 | __Kiwi's__ | [An dro with aliens](kiwi-s-an-dro-with-aliens.md) | [Андро с пришельцами](kiwi-s-an-dro-with-aliens.md)\* |
 | __Kiwi's__ | [Polka lazy mixer](kiwi-s-polka-mixers.md) | [Полька ленивый миксер](kiwi-s-polka-mixers.md)\* |
-| __Kiwi's__ | [Polka roulette](kiwi-s-polka-mixers.md) | [Полька рулетка](kiwi-s-polka-mixers.md) |
+| __Kiwi's__ | [Polka roulette](kiwi-s-polka-mixers.md#kiwis-polka-roulette) | [Полька рулетка]([kiwi-s-polka-mixers.md](kiwi-s-polka-mixers.md#kiwis-polka-roulette)) |
 | __Kiwi's__ | [Polka seven hands](kiwi-s-polka-mixers.md) | [Полька семь рук](kiwi-s-polka-mixers.md)\* |
 
 Данный архив танцев несколько разросся и на данный момет содержит ещё и описания некоторых кельтских танцев. Описаны танцы, популярные на следующих танцевальных вечеринках:
