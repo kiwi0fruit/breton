@@ -50,6 +50,9 @@
 ===============
 Ниже описаны танцы, популярные на бретонском фест-нозе (fest-noz) и бал-фолке во Франции (bal folk) - это танцевальные вечеринки.
 
+### Примечания:
+- __\*__ - недоделанные описания.
+
 | Name | Название |
 | ---- | -------- |
 | [An dro du Bono](an-dro-du-bono.md) | [Андро дю Бону́](an-dro-du-bono.md) |
@@ -58,7 +61,7 @@
 | [An dro Retourné](an-dro-retourne.md) | [Андро Ретурни́](an-dro-retourne.md) |
 | [Avant-deux de Bazouges](avant-deux-de-bazouges.md) | [Аван-дё де Базуж](avant-deux-de-bazouges.md) |
 | [Avant-quatre du Tregor (Avant-deux du Tregor)](avant-quatre-du-tregor.md) | [Аван-кятр дю Трегор (Аван-дё дю Трегор)](avant-quatre-du-tregor.md) |
-| [Bourrée 2 temps](bourree-2-temps.md) | [Бурре на 2 счёта](bourree-2-temps.md) |
+| [Bourrée 2 temps](bourree-2-temps.md) | [Бурре на 2 счёта](bourree-2-temps.md)\* |
 | [Bourrée 3 temps](bourree-3-temps.md) | [Бурре на 3 счёта](bourree-3-temps.md)\* |
 | [Bourrée de Chambérat](bourree-de-chamberat.md) | [Бурре де Шамбера́](bourree-de-chamberat.md) |
 | [Bourret de la Merlaison (bourrée)](bourret-de-la-merlaison.md) | [Марлезо́нский буррет](bourret-de-la-merlaison.md) |
@@ -77,7 +80,7 @@
 | [Polka piquée](polka-piquee.md) | [Полька пи́ки](polka-piquee.md) |
 | [Polka Plinn](polka-plinn.md) | [Полька Плин](polka-plinn.md) |
 | [Rond de Saint-Vincent sur Oust](rond-de-saint-vincent.md) | [Круг Cвятого Винсента](rond-de-saint-vincent.md) |
-| [Scottish (Schottische)](schottische.md) | [Скоти́ш (Шотиш)](schottische.md) |
+| [Scottish (Schottische)](schottische.md) | [Скоти́ш (Шотиш)](schottische.md)\* |
 | [Scottish impaire](scottish-impaire.md) | [Скоти́ш ампэ́ (нечётный)](scottish-impaire.md) |
 | [Suite Fisel: Dans Fisel + Bal Fisel](suite-fisel.md) | [Сюита Физель: даньс Физель + баль Физель](suite-fisel.md) |
 | [Suite Keff: Dans Keff + Bal Keff](suite-keff.md) | [Сюита Кеф: даньс Кеф + баль Кеф](suite-keff.md) |
@@ -116,7 +119,7 @@
 | __Misc.__ | [General remarks on dances](misc.md) | [Общие замечания по танцам](misc.md) |
 | __Misc.__ | [Partner dance](partner-dance.md) | [Танец в паре](partner-dance.md) |
 | __Misc.__ | [Music for consideration & How to music](music.md) | [Музыка на заметку](music.md) |
-| __Misc.__ | [Rock and roll](rock-and-roll.md)⁰ | [Рок-н-ролл](rock-and-roll.md) |
+| __Misc.__ | [Rock and roll](rock-and-roll.md)\*⁰ | [Рок-н-ролл](rock-and-roll.md) |
 
 ### Примечания:
 - __\*__ - недоделанные описания.
@@ -128,11 +131,6 @@
 ===============================
 Танцевальный клуб бретонских танцев и французского бал-фолка: [группа ВКонтакте](https://vk.com/club127030623).
 
-Кельтские и бретонские танцы в Новосибирске
-===========================================
-[Паблик ВКонтакте](https://vk.com/club133666853) - как реклама-ссылка этого репозитория (архива танцев), а так же [Бретонского танцевального клуба](https://vk.com/club127030623).
-
-Подписывайтесь на этот паблик, чтобы добавить его в Ваш список подписок в качестве пассивной рекламы!
 
 Еще схемы, музыка и видео бретонских танцев и французского бал-фолка
 =================================
