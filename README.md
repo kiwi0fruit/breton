@@ -91,7 +91,7 @@
 
 |     | Name | Название |
 | ---- | ---- | -------- |
-| __Kiwi's__ | [Sternroulette polka / Sternroulette X](kiwi-s-polka-mixers.md) | [Штерн-рулет полька / Штерн-рулет X](kiwi-s-polka-mixers.md) |
+| __Kiwi's__ | [Sternroulette polka / Sternroulette X](kiwi-s-polka-mixers.md) | [Полька звездорулетка / Звездорулетка для X](kiwi-s-polka-mixers.md) |
 
 Данный архив танцев несколько разросся и на данный момет содержит ещё и описания некоторых кельтских танцев. Описаны танцы, популярные на следующих танцевальных вечеринках:
 
