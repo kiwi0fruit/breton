@@ -1,6 +1,6 @@
-Kiwi's: Sternroulette polka / Sternroulette X
+Kiwi's: Roulette polka / Roulette X
 ====================
-# Kiwi's: Полька звездорулетка / Звездорулетка для X
+# Kiwi's: Полька-рулетка / X-рулетка
 
 Здесь описан танец-новодел, причём мой.
 
