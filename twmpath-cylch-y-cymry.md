@@ -23,4 +23,7 @@ Video:
 
 Music:
 ======
+
+Здесь рекомендуют 32 джиги: https://pluckandsqueeze.com/cylch.htm
+
 - Pluck & Squeeze – Ty Coch (Cylch Y Cymry) 3:20
